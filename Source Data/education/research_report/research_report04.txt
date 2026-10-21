@@ -1,0 +1,145 @@
+Executive summary
+Background
+• Free school meals (FSM) are a vital support for economically disadvantaged
+families across the UK.
+• In Northern Ireland (NI), children who are eligible for free school meals, and
+whose parents apply for the scheme and receive an award, are referred to as
+‘Entitled to Free School Meals’ (FSME).
+• Official statistics from across the UK indicate that FSME pupils consistently
+have lower levels of academic achievement compared to their non-FSME
+peers.
+• FSME status is used by the Department of Education (DE) for operational
+purposes, including resource allocation, e.g. the Extended Schools
+programme awards additional funding to schools identified as having at least
+37% of pupils as FSME, or 51% or more of their pupils living in either a
+Neighbourhood Renewal Area (NRA) or in the 30% most deprived Super
+Output Areas.
+• Evidence gathered as part of the ‘A Fair Start’ report highlighted concerns
+amongst schools about whether FSME is an accurate measure of deprivation
+within the context of education. A recommendation was made for the DE to
+commission an independent report that considers the strengths and limitations
+of FSME and other potential measures of deprivation that could be used for
+resource allocation purposes.
+• This project was put out to public tender and was awarded to a
+multidisciplinary team of researchers at Ulster University in June 2022.
+Methods
+• The project aimed to i) assess whether FSME is fit for purpose as a proxy
+measure of socio-economic deprivation for the DE, and ii) assess the
+feasibility of supplementing or replacing FSME with alternative indicators of
+socio-economic status (SES), including both individual and composite proxies.
+• This report consists of three sections. These were:
+
+o Section1: a narrative review of the empirical literature on the reliability
+and validity of the most commonly used proxies of socioeconomic
+deprivation used in education (including FSME). This section
+summarised and synthesised recent research into the reliability and
+validity of proxies of deprivation used in the field of education.
+o Section 2: a scoping review of deprivation measures used in other
+jurisdictions. This section systematically reviewed the most common
+measures of socio-economic deprivation used within the field of
+education in the UK, and internationally.
+o Section 3: a landscape review explored the extent to which FSME is
+used as an indicator of socioeconomic disadvantage in eight
+governmental departments in NI, and ii) documented other measures
+of SES that are also currently in use.
+Summary of Key Findings
+• Strengths and limitations of FSME and alternative proxies for socioeconomic
+deprivation are summarised in Table 1. The review showed that FSME is a
+widely-used, valid, and reliable indicator of household/school-level1
+deprivation, in both research and operational2 contexts. As a measure of low
+SES, it has various strengths: i) it is routinely collected annually, ii) it is easy
+to interpret, iii) it is reliable as it is tied to official benefits data, iv) it correlates
+highly with other proxies for socioeconomic deprivation, v) it has a low false
+positive rate (i.e. unlikely to identify a child as disadvantaged, when they are
+not), and vi) it predicts educational outcomes to a degree that is comparable
+with other indicators of low SES.
+• However, like all proxy measures, it is not perfect. Socioeconomic
+disadvantage is a complex, multi-faceted concept, and FSME is tied to only
+one domain of SES (household income). Also, it does not capture the entire
+continuum that ranges from deprivation to affluence. Given FSME is based on
+benefit claims, children from families who narrowly miss the cut-off for benefits
+(i.e. the “working poor”) may experience similar or greater levels of material 
+deprivation than some children who are receiving FSM. Indeed the current
+earnings ceiling set for FSME are below commonly accepted monetary
+poverty thresholds. In addition, many families who are eligible for FSM do not
+apply/take up the option and may be missing from DE estimates.
+Furthermore, it is worth noting that the measure also includes children who
+are entitled under other criteria such as having a statement of special
+educational need and requiring a special diet, or where a school believes a
+child may be in need. Some of these children may not be from economically
+disadvantaged backgrounds.
+• If deprivation is assessed based on past-year FSME, longer term
+disadvantage may be missed, therefore researchers recommend assessing
+FSME over longer periods of time. The most commonly used approach is to
+classify children as deprived if they were FSME at any point over the previous
+6 years (FSME-6).
+• Despite these limitations, alternative indicators of SES have their own
+weaknesses, therefore FSME can broadly be considered equal to or superior
+to most other commonly used proxies of household/school-level deprivation.
+• Alternative household/school-level indicators, or composite indices of SES.
+are most often used by institutions that have sophisticated administrative data
+sharing infrastructures (e.g. the Scandinavian countries). The most common
+alternative proxies for deprivation are levels of parent/guardian education,
+parent/guardian occupational status and/or household income.
+• Parental education is considered to be one of the most reliable and valid
+indicators of SES, as it is established at an early age and remains stable over
+time. But it is also often self-reported information, unless drawn from official
+records. The feasibility of linking parental educational records to pupil-data
+would need to be investigated and would likely be logistically challenging as
+most official higher and further education records are held by the institutions
+which granted the awards. It was therefore broadly agreed that it would not
+be appropriate for DE to use parental education for operational purposes.
+• Parental occupation is also a commonly used proxy for SES, however
+occupation classification systems can be complicated, involve imprecise cutoffs, and lack consistency across regions and time. As is the case with parental education, it was concluded that this would be impractical and
+inappropriate for operational purposes due to logistical challenges in linking
+data.
+• Household benefits and/or income, derived from official sources, would be a
+more reliable and valid indicator of household/school-level deprivation than
+FSME (and other proxies for deprivation). It would offer a more fine-grained
+analysis of the level of need of pupils/schools, and unlike FSME would not
+have a problem of a shortfall between eligibility and those who apply and
+become entitled. However, household income/benefits data that could be
+used by the DE to supplement or replace FSME are not currently accessible
+outside of their host departments (e.g. Department for Communities [DfC],
+HMRC). The Digital Economy Act 2017 allows sharing of data for research
+purposes, and the Data Protection Act 2018 may allow sharing for processing
+that meets the criteria of being a public task. However, further legislation
+would be required to facilitate more routine sharing of personal data across
+departments.
+• The most widely used measure of SES across the government departments
+of Northern Ireland is the Northern Ireland Multiple Deprivation Measure 2017
+(NIMDM). It is a comprehensive measure that draws on multiple domains of
+deprivation. It also has the benefit of confidentiality – it is based on aggregate
+area-level data meaning unique individuals cannot be identified from it.
+However, it is not recommended that area-level indices such as these are
+used as the sole proxy for household/school-level deprivation, as they
+measure spatial concentrations of deprived people and not all deprived
+people live in deprived areas. They can misidentify pupils/schools with a
+postcode in a deprived area as deprived when they are not deprived, and
+vice-versa.
+• Area-level indicators such as the NIMDM add useful additional information
+when used in conjunction with household/school-level measures of SES.  As we did not identify a clearly superior (yet equally accessible) alternative, it
+is not currently recommended that the DE replace FSME as their primary
+indicator of socioeconomic disadvantage.
+• Expanding the scope of the measure used from FSME (past-year) to FSME
+(ever FSME, past 3 or 6 years) could potentially lead to more reliable and
+valid identification of those most in-need (i.e. it may capture those who
+transition in and out of eligibility, who may fall within the “working poor” group)
+and is therefore worthy of further investigation.
+• In the hypothetical future scenario that universal FSM are introduced in NI, for
+example for certain year groups, the DE could explore using data on pupils
+who have entitlement to the uniforms grant, which has similar eligibility
+criteria, as a replacement.
+• Using a combination of school-level and area-level information is widely
+recommended in the literature, therefore the DE’s strategy of using both
+school-level FSME, and the NIMDM to determine eligibility for the Extended
+Schools programme funding can be considered sensible.
+• To ensure improvements in the accuracy with which disadvantaged pupils in
+schools are identified, it is important wherever feasible to supplement FSME
+with additional indicators of socioeconomic disadvantage.
+• It should be a priority to further develop means of securely sharing data
+across governmental departments in NI, for both research and operational
+purposes. Changes to legislation may be required to facilitate routine crossdepartmental sharing of data for operational purposes, however the Digital
+Economy Act 2017 has opened up possibilities for data sharing for research
+purposes, and the Data Protection Act 2018 may allow the sharing of personal
+data if it meets the criteria of a ‘public task’

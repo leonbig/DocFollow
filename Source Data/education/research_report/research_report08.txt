@@ -1,0 +1,75 @@
+The growing trade amongst global economies has created new opportunities not only for trade, but also
+for innovation and economic growth. However, while expanding supply chains have improved efficiency,
+they have also introduced significant challenges, particularly as concerns the protection of intellectual
+property and the enforcement of trade regulations. Illicit trade of counterfeit goods threatens businesses,
+public safety, and economic stability, undermining the rule of law. To address these issues, a
+comprehensive strategy is required, one that focuses on strengthening regulatory frameworks, enhances
+cross-border co-operation, and leverages technology to secure global supply chains. The increase in e-
+commerce and digital trade further complicates enforcement efforts, as counterfeiters are quick to adapt
+to changing trade patterns. Co-ordinated international efforts are therefore vital to preserving market
+integrity and consumer confidence.
+Monitoring and understanding this evolving threat are crucial to developing effective governance
+responses. This report, based on a methodology originally developed for a 2008 OECD study, provides an
+updated analysis using the most recent (2021) global customs seizure data. It offers a comprehensive
+overview of the key characteristics of trade in counterfeit goods and estimates its scale and magnitude,
+including a deep dive into how this affects the European Union. This report also provides insights into
+emerging trends, drawing from discussions with IP experts and industry representatives.
+The findings are concerning. In 2021, counterfeit and pirated goods accounted for up to 2.3% of global
+trade. Within the European Union, fake goods represented up to 4.7% of total imports, underscoring the
+persistent risk illicit trade poses to globalised economies.
+This report was prepared under the auspices of the OECD Working Party on Countering Illicit Trade in
+collaboration with the European Union Intellectual Property Office (EUIPO) in the context of the 2017
+OECD-EUIPO Memorandum of Understanding.
+
+Globalisation, trade facilitation, and industrial specialisation have significantly reshaped supply chains,
+extending them across multiple countries and continents. While this evolution has enhanced efficiency,
+economic growth, and consumer choice, it has also increased the complexity of managing and securing
+supply chains. In addition, the rising importance of intellectual property (IP) embedded in global production
+underscores the need for international collaboration and enforcement to safeguard innovation and brands
+across jurisdictions.
+The intricate nature of global supply chains, however, creates vulnerabilities that contribute to intellectual
+property infringement. Counterfeit goods that infiltrate supply chain networks undermine legitimate
+businesses, deprive governments of revenue, and pose public health and safety risks. Illicit trade in
+counterfeit goods is also linked to organised crime and corruption, exploiting gaps in regulations and
+enforcement. These challenges are amplified by the increasing complexity and global nature of supply
+chains.
+The COVID-19 pandemic had a significant impact on global trade. Although trade volumes decreased in
+2020, they have since strongly rebounded. This growth, however, was largely driven by raw materials
+rather than manufactured goods. As such, since trade in counterfeits was, and continues to be, almost
+exclusively limited to manufactured products, this surge in global trade did not translate into a comparable
+increase in counterfeit trade. This study finds that counterfeiting continued to focus on specific product
+categories, such as clothing, footwear, and electronics, and did not mirror the broader post-2020 trade
+growth trend.
+The People’s Republic of China (hereafter “China”) continues to be the primary source of counterfeit goods,
+although other regions contribute significantly. Indeed, the General Trade-Related Index of Counterfeiting
+(GTRIC) index, which estimates the likelihood of specific countries being major sources of counterfeit
+exports, indicates that during 2020-21 the sources of counterfeit clothing products were numerous and
+spread across the world; Bangladesh, Lebanon, Syrian Arab Republic, and Türkiye were considered to be
+key sources of such illicit goods.
+Counterfeiting affects nearly 50 of the 96 product categories, with high-value goods such as clothing,
+footwear, leather goods, and electronics the top targets. Trade routes continue to evolve as counterfeiters
+use international waterways such as the Danube River to move goods and adopt “localisation” strategies
+to produce fakes closer to end markets. Free trade zones, which benefit from reduced oversight, play a
+pivotal role in this trend. Localisation tactics, such as importing unassembled components or separate
+packaging with a view to producing or assembling counterfeit goods close to or within the destination
+market, complicate enforcement efforts and require new strategies for detection.
+Counterfeiters also exploit online platforms and modern logistics to infiltrate legitimate trade, with postal
+services emerging as the primary channel for distribution. Small parcels, often classified as de minimis
+trade, evade scrutiny and create challenges for enforcement agencies. Indeed, the size of seized
+shipments has generally decreased; in 2020-21, shipments containing fewer than ten items accounted for
+79% of all seizures, up from 61% in 2017-19. In 2021, global trade in counterfeit goods was valued at approximately USD 467 billion, or 2.3% of total
+global imports. This absolute value represents an increase from 2019, when counterfeit trade was
+estimated at USD 464 billion, although its relative share decreased compared to 2019 when it accounted
+for 2.5% of world trade. For imports into the European Union, the value of counterfeit goods was estimated
+at USD 117 billion, or 4.7% of total EU imports.
+The European Union is a key target for counterfeit imports, with China and Hong Kong (China) accounting
+for the highest value of seized counterfeit goods. Counterfeit goods range from everyday consumer items
+to luxury products, with a worrying increase in the trade of dangerous goods such as counterfeit automotive
+parts and pharmaceuticals. Despite a decrease in counterfeit trade values post-COVID-19, EU exposure
+remains significant as counterfeiters have adapted by relocating production closer to destination markets.
+Data analysis reflects evolving counterfeiting trends and enforcement challenges. Counterfeiters exploit
+gaps in enforcement, including limited resources and shifting priorities, with “localisation” and small parcel
+shipments further complicating detection. Strengthening enforcement requires better co-ordination,
+information sharing, and collaboration with rights holders and trade intermediaries. Enhanced engagement
+with trade intermediaries, including postal and shipping services, is critical to curbing illicit trade and
+safeguarding global supply chains.

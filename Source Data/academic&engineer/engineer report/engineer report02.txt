@@ -1,0 +1,96 @@
+Centrifugal Pump P-101A Failure Diagnosis and Root Cause Analysis Report
+
+Report No.: FDR-2025-007
+Date: May 9, 2025
+Pump Model: FlowServe Model X, S/N: XYZ12345
+Time of Failure: May 2, 2025, 14:30
+Report Preparer: Engineering Team
+Reviewed by: Technical Lead
+
+1. Executive Summary
+
+At 14:30 on May 2, 2025, critical centrifugal pump P-101A experienced severe vibration and abnormal noise, subsequently triggering an emergency shutdown. This failure resulted in an approximately 8-hour shutdown of Production Line A. Through systematic investigation and analysis, the root cause was determined to be bearing lubricating oil contamination leading to premature bearing wear and seizure. It is recommended to immediately replace the damaged bearings, thoroughly clean the lubrication system, upgrade the oil, and revise the lubricating oil maintenance procedures for P-101A.
+
+2. Incident Description & Immediate Actions
+
+2.1 Incident Phenomena
+Around 14:30 on May 2, 2025, the control room operator noticed fluctuations in P-101A's discharge pressure. Simultaneously, field inspection personnel reported a harsh metallic friction sound emanating from the pump. The vibration monitoring system showed a sharp increase in vibration to 15 mm/s (alarm threshold: 8 mm/s). The operator immediately manually stopped the pump according to the emergency plan.
+
+2.2 Immediate Actions Taken
+The following immediate actions were taken after the incident:
+
+14:32: P-101A was manually emergency stopped.
+14:35: P-101A's inlet and outlet valves were isolated, and the standby pump P-101B was started. The production line resumed partial capacity at 15:10.
+14:40: The maintenance team and engineering department were notified to analyze the cause.
+15:00: The fault area was safely cordoned off, and an inspection for material leakage was conducted (none found).
+3. Background Information
+(This section was not provided in the original text but would typically include the pump's process application, operational history, criticality, etc.)
+
+4. Data Collection and Observation
+
+4.1 Operational Data Review
+A review of historical data from the Distributed Control System (DCS) showed that one hour before the failure, P-101A's discharge pressure was stable at 5.2 barg, flow rate was 120 m³/h, and motor current was 35A, all within normal operating ranges. However, at 14:28, the discharge pressure began to show minor, irregular fluctuations, and the vibration value slowly increased from 3.5 mm/s. At 14:30, the vibration value surged to 15 mm/s, and the discharge pressure abruptly dropped to 2.1 barg.
+
+Data from the Vibration Monitoring System (VMS) further indicated that at the time of failure, distinct peaks related to bearing failure characteristic frequencies (e.g., Ball Pass Frequency Outer race - BPFO, Ball Pass Frequency Inner race - BPFI) appeared on both the drive-end and non-drive-end bearings. Historical trend data showed that the pump bearing vibration values had been slowly increasing over the past two weeks but had not exceeded the warning value of 6 mm/s. (Detailed data charts are available in Appendix A: VMS Data Charts).
+
+4.2 Maintenance Record Review
+According to maintenance records, P-101A's last major overhaul was on November 10, 2024, during which all bearings and mechanical seals were replaced, and the specified lubricant, Shell Tellus S2 M68, was changed as scheduled. The most recent lubricating oil sample analysis was dated April 5, 2025. The report indicated that the oil cleanliness and moisture content were acceptable, but the iron content was slightly above the warning limit, though it had not reached the action limit. (The detailed report is in Appendix B: Oil Analysis Report). Daily inspection records showed no significant abnormalities, though it is noteworthy that an inspector had noted on April 28th: "Pump sound slightly increased, needs attention."
+
+4.3 On-site Disassembly Inspection and Observation
+Upon disassembling P-101A for inspection, the following was observed:
+
+Pump Exterior: No obvious damage or leakage. Anchor bolts were tight.
+Coupling: Alignment was good, and elastic elements showed no significant wear.
+Bearing Housing Disassembly: The drive-end bearing (Model 6312-C3) outer race showed severe spalling and pitting. Its cage was damaged, and the ball surfaces had scratches and discoloration (signs of overheating) (See Figure 4.1: Drive-End Bearing Damage Photo). The non-drive-end bearing (Model 6310-C3) showed similar wear but to a lesser extent. The residual lubricating oil in the bearing housing was blackened and contained metal debris and a small amount of milky white sediment (See Figure 4.2: Contaminated Lubricating Oil Photo).
+Lubrication System: Oil level was normal. The oil cooler showed no signs of blockage or leakage. However, the breather filter element was partially clogged and showed traces of oil.
+4.4 Operator Interviews
+The operator on duty confirmed that the pump's operating parameters were essentially normal before the failure, and no special operations were performed. Maintenance personnel confirmed that the last oil change procedure complied with regulations.
+
+5. Analysis and Root Cause Determination
+
+5.1 Initial Cause Hypotheses (based on Fishbone Diagram - see Appendix C: Fishbone Diagram)
+Initial analysis led to the following potential cause hypotheses:
+
+Personnel Factors: Improper operation? Maintenance error?
+Equipment Factors: Bearing quality issues? Pump design defect? Lubrication system failure? Installation problems?
+Material Factors: Lubricating oil quality? Process material corrosion?
+Environmental Factors: High temperature? External vibration source?
+Management Factors: Inadequate maintenance plan? Insufficient training?
+5.2 Cause Elimination and Verification
+These hypotheses were systematically eliminated or verified:
+
+Ruled out improper operation: DCS data and operator statements showed no abnormal operations before the failure.
+Ruled out bearing quality issues: Bearings were original spare parts with certificates of conformity; other pumps with bearings from the same batch were operating normally.
+Ruled out installation issues: The pump had been operating for nearly 6 months since the last overhaul, and coupling alignment was good.
+Analysis of Lubrication Problem:
+Phenomena: The observed bearing damage characteristics (spalling, pitting, overheating discoloration) were highly consistent with wear patterns caused by poor lubrication or lubricant contamination. The residual oil found on-site was blackened, contained metal debris, and had emulsified, all direct evidence of oil contamination and degradation.
+Supporting Data: The oil analysis report from April 5, 2025, showed elevated iron content, indicating initial wear was already occurring. The clogged breather filter element could have allowed moisture and contaminants to enter the bearing housing more easily.
+Inference: Based on the phenomena and data, it's inferred that the lubricating oil was contaminated with moisture and particulate matter during operation. Moisture could have originated from condensation of humid air drawn in through the inefficient breather. Particulates could have come from early wear metal debris and external ingress. The contaminated oil led to a reduced oil film strength and deteriorated lubrication performance, accelerating bearing wear, eventually causing bearing seizure and overheating.
+5.3 Root Cause Determination (5 Whys Application Example)
+To delve deeper, the "5 Whys" method was applied:
+
+Why did the pump fail and shut down? Because the bearings seized, causing motor overload and tripping the protection.
+Why did the bearings seize? Because the bearings were severely worn and overheated.
+Why were the bearings severely worn? Due to poor lubrication / lubricant failure.
+Why did the lubricant fail? Because the lubricant was contaminated with moisture and metal particles.
+Why was the lubricant contaminated?
+Regarding Moisture: The bearing housing breather filter's efficiency had declined, failing to effectively prevent moist air ingress, which then condensed to form water. (This is Root Cause 1)
+Regarding Metal Particles: Metal particles generated from initial minor wear were not promptly removed by an effective oil filtration system (if present), and external contaminants may have ingressed through weak points in seals or the breather. (This is Root Cause 2, further confirmation of external contaminant paths is needed, but maintaining oil cleanliness is key regardless.)
+Contributory Cause: The lubricating oil monitoring frequency may have been insufficient to detect the contamination trend early and take action.
+
+Root Cause Conclusion: The root cause of the P-101A pump failure was bearing lubricating oil contamination by moisture and particulate matter due to breather inefficiency and potential sealing deficiencies. This contamination drastically reduced lubrication performance, leading to severe abrasive wear, fatigue spalling, and eventual seizure of the bearings. Existing lubricating oil condition monitoring and maintenance strategies were insufficient to address this contamination in a timely manner.
+
+6. Corrective and Preventive Actions (CAPA)
+
+To address this failure and prevent recurrence, the following corrective and preventive actions will be implemented:
+
+Corrective Actions:
+Firstly, the Maintenance Supervisor is responsible for immediately organizing the replacement of P-101A's drive-end (Model 6312-C3) and non-drive-end (Model 6310-C3) bearings. This work is scheduled for completion by May 10, 2025. Verification will be through a test run, ensuring vibration values do not exceed 4mm/s.
+Secondly, also under the responsibility of the Maintenance Supervisor, a thorough cleaning of P-101A's bearing housing and the entire lubrication system will be performed by May 10, 2025. The system will be refilled with a recommended upgraded lubricant (e.g., Mobil SHC 626). Post-changeover oil cleanliness will be tested to ensure it meets specifications.
+
+Preventive Actions:
+To fundamentally prevent such issues, the following long-term preventive measures will be implemented:
+First, the Maintenance Engineer is responsible for replacing P-101A's bearing housing breather with a high-efficiency desiccant breather by May 15, 2025, to enhance moisture and contamination protection. This breather's inspection and replacement (tentatively every 3 months) will be incorporated into the regular maintenance schedule. Verification will be via installation confirmation and CMMS (Computerized Maintenance Management System) plan entry.
+Second, the Engineering Department is required to conduct a comprehensive assessment of P-101A's bearing housing sealing condition by June 30, 2025. If necessary, an upgrade plan (e.g., considering labyrinth seals) should be proposed and implemented. Verification will be through an assessment report and a modification plan.
+Third, the Equipment Engineer is responsible for revising the lubricating oil management procedures for the P-101 series pumps by May 20, 2025. The oil sampling analysis frequency will be increased from quarterly to every 2 months. Oil particle count and specific water content detection will be added to the analysis scope. Verification will be through updates to the CMMS maintenance plan.
+Fourth, the Training Department is required to organize a refresher training session on critical equipment lubrication management for all maintenance personnel by June 15, 2025. The training will emphasize the importance of contamination control and its methods. Verification will be through attendance records, training materials, and assessment results.

@@ -1,0 +1,94 @@
+Young Life and Times (YLT) survey
+YLT is a survey conducted annually by ARK among 16 year olds in Northern Ireland and, in 2020/21,
+was carried out online (with optional phone and paper completion where respondents preferred
+this). In conjunction with the Centre for Data Digitisation and Analysis (CDDA) at QUB, a customised
+online survey tool, which complies with university and Her Majesty’s Revenue and Customs (HMRC)
+confidentiality and data security regulations, was designed and utilised for the 2020/21 survey.
+Each year, the sample for the YLT survey is taken from the Child Benefit Register (CBR). ARK receives
+the names and addresses of eligible YLT respondents directly from HMRC. Child Benefit is paid to
+people bringing up children in the UK. Although the UK government uses means testing for Child
+Benefit, for the purpose of undertaking the YLT survey, ARK has access to the addresses of all
+families in NI who have registered for Child Benefit even if they are not entitled to receive it due to
+their income. Therefore, for the YLT survey, the CBR provides the opportunity to select a random
+sample of 16 year olds whose parents have registered for Child Benefit.
+In March 2021 a Service Level Agreement (SLA) and Memorandum of Understanding (MoU) was
+signed between ARK and HMRC in relation to the sample provision. Within this agreement ARK laid
+out the arrangements for the safety and security of the personal data of respondents and included
+arrangements for a safe transport and storage of the files as well as destruction of the address file
+after completion of the data collection. Within HMRC, staff turn-over and priority commitments in
+relation to Brexit, andthe challenges in relation to the COVID-19 pandemic, resulted in a delayed
+delivery of the sample of names and addresses of eligible YLT respondents to ARK. The sample was
+delivered in the last week of April 2021. The sample for the 2020/21 survey included the names and
+addresses of 5,000 randomly selected young people in Northern Ireland who celebrated their 16th
+birthday in April, May or June.
+Fieldwork was conducted in May 2021. In the first week of May each potential participant was sent a
+letter providing information about the survey, including the aims of the project; how to opt-out;
+GDPR, contact details for the survey team, and the web link for the survey. The letter provided
+participants with a unique identifier which was required for accessing the survey and they were told
+that those who completed the survey online by the end of May 2021 would receive a £10 gift
+voucher. In the second week of May 2021, a reminder letter was sent to all those who had not as yet
+completed or opted out of the survey. Postal completion was offered as an alternative mode. The 
+high level of interest in the YLT survey in 2021, and the respective number of questions included,
+meant that a split survey was required.
+After cleaning the dataset received from HMRC (removal of respondents with incomplete or
+incorrect addresses) 4,999 eligible names remained. Sixty-two initial mailings were returned as
+‘addressee unknown/gone away’. Eight parents contacted ARK to say that their child was deceased
+and 16 young people or their parents/carers opted out of completing the survey. This left an overall
+sample of 4,913 16-year olds. A total of 2,147 young people logged on to the survey with their ID.
+After removal of the most incomplete responses (i.e. responses where only very few or no questions
+were completed), 2,069 responses remained. This represents an overall response rate of 42.1%.
+Kids’ Life and Times (KLT) survey
+KLT is an online survey whose target population is all P7-aged children in Northern Ireland. To this
+end, in addition to pupils attending mainstream primary schools and special schools, KLT targets
+children who are educated at home. However, given that the focus of the 2020/21 KLT survey was
+on attitudes towards, and experiences in, school the target population was children attending
+mainstreamand special schools; children educated at home were not included . Approximately
+25,450 children from 842 primary schools across Northern Ireland were invited to participate; 2,242
+children from 94 schools logged on to the survey representing 9 per cent of children and 11 per cent
+of schools. This was a much lower response rate than in previous years but was not unexpected
+given the Covid-19 pandemic and the impact of lock-downs and school closures throughout the
+fieldwork period. Furthermore, the 2020/21 KLT survey had an over-representation of Catholic
+Maintained schools when compared to the DE figures (55% and 42% respectively). Conversely, there
+were fewer schools from the Controlled sector in the KLT sample (39%) than in the figures reported
+by DE (42%) and no special schools participated in the survey. The figures suggest that there is
+slightly more bias in the KLT school sample in terms of school management type than has been the
+case in previous years. One other thing to note was that there was a higher drop-out rate than in
+previous years; responses declined steadily throughout the survey. The number of children who
+completed the Shared Education module was approximately 2,170.
+Consent to participate in the 2020/21 KLT involved three levels: firstly, the school principal agreed
+that the school could participate; secondly, a parent or guardian of each P7 pupil within the
+participating schools received a consent form which they were asked to complete and return to the
+school if they did not wish their child to take part. Thirdly, at the start of the questionnaire, each child was asked if s/he agreed to take part. Each school is allocated a unique three-digit
+identification number which is used to identify the school so that the principal can be sent a
+confidential school report. However, the children are anonymous.
+Fieldwork started on 12
+thOctober 2020 and was anticipated to end on 29th January 2021. However,
+due to the need for social distancing in schools as a result of Covid-19, and the restrictions this
+placed on accommodating completion of the survey by the children, a number of schools requested
+an extension to the survey fieldwork. Therefore, the survey remained open until 26th February 2021.
+A dedicated telephone line was set up so that principals or parents could contact the survey team
+for more information and a PDF version of the questionnaire was made available on the KLT website.
+The online questionnaire was designed and administered by the ARK team. Throughout the design of
+the questionnaire, the KLT team worked closely with the funders of the survey and with C2KNI which
+is the organisation responsible for the provision of an ICT-managed service to all schools in Northern
+Ireland. When the child logged on and confirmed that s/he wanted to take part, they were asked to
+enter the three-digit school identification number or their seven-digit DE number. When the code
+was entered, the full name and address of the school appeared on the screen, and the child
+confirmed that this was the correct school before progressing with the survey. No further
+identification codes or names of children were required. The questionnaire took about 20 minutes to
+complete and each question had a ‘Skip’ option which the children could use if they did not want to
+answer it.
+Presentation of results: statistical significance and effect size
+Data from survey samples are subject to sampling error (see Appendix 1 for further details) which
+means that some differences between groups (such as males and females) and over time (from one
+survey year to the next) may have occurred by chance rather than representing real differences. To
+test for this, statistical analyses have been carried out and the results reported at the 5% level of
+probability – this means that where a difference between groups or across survey years is found to
+be statistically significant (p<0.05) we can be 95% confident that this is a real difference and has not
+occurred by chance. Throughout this report, statistically significant results have been identified using
+an asterisk (*) in the tables. However, in surveys with very large sample sizes, even small differences
+in percentages can be statistically significant while not having much 'practical' or 'real-world'
+significance. To address this, effect sizes are also presented. An effectsize is a measure of how
+important the difference between groups actually is: large effect sizes (0.80 and above) mean the
+difference is important while small effect sizes (less than 0.20) mean the difference is not important
+(Cohen 1988).

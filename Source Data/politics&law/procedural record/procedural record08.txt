@@ -1,0 +1,41 @@
+When local leaders in Montevideo, Uruguay, wanted to improve residential waste collection, they asked the Environment Department to publish a map of trash containers tracking the date they were last emptied.
+
+The approach was part of Mayor Carolina Cosse’s broader effort to make government more transparent and to use data to improve service delivery. And it worked: The city increased by 15 percent the number of collections made in two days or less and reduced long-overdue collections by more than half. Those improvements helped restore public confidence in local government.
+
+Yet the map initially faced resistance from the people who most mattered to its success: the frontline trash collectors. They were more interested in doing the job of emptying the waste bins than logging each time they did it. 
+
+That sentiment began to turn when the trash collectors saw the warm public response to the map. That public response also helped city leaders make the case to other departments across local government that it is critical for all workers, even those on the frontlines, to be grounded in some data basics. “If it worked for sanitation, it can work for you,” Chief Data Officer Damián Pintos says of his conversations with agency leaders. “It became easier to sell.”
+
+That experience is at the heart of work Montevideo and other cities are undertaking through their participation in the Bloomberg Philanthropies City Data Alliance, The program is identifying 100 cities across North, Central, and South America that are already among the best at using data to solve problems and helping them to discover together what the next level of data-informed local government looks like.
+
+What Montevideo and other cities from across the Americas are finding is that one of the most critical tasks they face is upskilling employees—not just in management, where such training is traditionally focused, but for all workers, including those who may not have previously seen the value of data in the work they do. All of the participating mayors and teams are developing a Data Workforce Plan for their city that includes a strategy for building core data skills for staff at all levels. Creating training opportunities for workers is also a criterion for any city to gain recognition through What Works Cities Certification as one of the best at using data to deliver results for residents. 
+
+“Data is everyone’s job,” says Amy Holmes, Executive Director of the Bloomberg Center for Government Excellence (GovEx), which is providing technical assistance to cities through the City Data Alliance. “That’s true whether you’re talking about frontline workers collecting information, or managers compiling it, or the mayor using data to ask the right questions and inform decisions.”
+
+Filling a deep need
+
+One of the leaders in this work is Baltimore, which last month launched the new Baltimore Data Academy. It’s an online training program for city employees up and down the organization, starting with frontline workers.
+
+One of the Academy’s biggest boosters is Mayor Brandon M. Scott, a champion of data-informed government since his time as a city staffer and councilman, and an advocate of empowering all workers to use data to work better. “The new Baltimore Data Academy,” he says, “will provide our city employees an opportunity to acquire and sharpen their data skills to more efficiently serve our residents while building their own careers.” 
+
+In Baltimore, the idea to provide dedicated data training to all city workers stems from a listening tour that Chief Data Officer Justin Elszasz undertook with agency heads. What they told him came through loud and clear: They had a deep need for staff with data skills. The city started filling that need with a successful fellowship program. But Elszasz knew agencies couldn’t get where they wanted through hiring alone. To really scale up, they needed to raise the skills of existing employees, as well. 
+
+With help from GovEx, city leaders surveyed 25 agencies to understand current data practices and assess existing capacities and skills. They then devised a range of skills-building courses aimed at employees at all levels. The courses include a data basics course for the large number of staff with little data knowledge, an advanced course for the smaller number of staff who already have deep expertise, and a couple more courses for everyone in between. 
+
+Elszasz began piloting data trainings last year, and opened the program to all city workers this  February. Since then, 478 employees from nearly every city agency have enrolled, and they’ve completed 141 courses. Many of them are frontline workers taking the most basic courses offered, on the fundamentals of data literacy and how to interpret data.
+
+“It’s not for the data scientist who wants to learn a new tool,” Elszasz says. “It’s for the people who might have little or no data literacy at all and bringing them along the journey to understand what data is, how it shows up in your life, and what good practices are. It’s part of building the data culture in government. We can’t just be focused on the data analysts. It ought to be everyone.”
+
+Baltimore has already seen tangible improvements from the Academy. After taking a course, one Health Department employee noted, “I am definitely going to be more aware of my record-keeping and the data I collect on patients.” Another from the Baltimore Circuit Court stated that they would “keep better track of my inventory and be able to incorporate what was used and how much was ordered in the past 30 days for the end-of-the-month billing.” 
+
+As Elszasz puts it, “People are taking mundane tasks like data entry and data quality more seriously.” 
+
+[Listen to this episode of the GovEx Data Points podcast to learn more about the Baltimore Data Academy.]
+
+Boosting the basics
+
+That resonates in other cities across the City Data Alliance. In Tempe, Ariz., data literacy is now a component of new employee orientation, alongside data modules that are taught in the city’s supervisor academy. The city is looking at ways to expand its training offerings. As Stephanie Deitrick, Enterprise GIS & Analytics Manager and Tempe’s City Data Alliance lead, puts it: “I want to make data literacy at a foundational level as common as cybersecurity training—and required for everyone from the mayor to the city council to the boots on ground.”
+
+Montevideo also is making big strides in this direction. While developing its Workforce Data Plan, Montevideo—like Baltimore—surveyed departments to understand what data skills they do and don’t currently have among staff. City leaders are now building out a training plan similar to the one in Baltimore, with a range of course offerings. The greatest number of slots are for basic data literacy courses, with a smaller number of slots reserved for advanced skills building around things like data visualization and machine learning.
+
+“Working with data is more than just a way to improve processes,” Pintos says. “Our conversations with citizens are more a dialogue among equals when there is information on the table. Data enriches our democratic culture.”

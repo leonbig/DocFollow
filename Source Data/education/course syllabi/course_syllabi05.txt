@@ -1,0 +1,113 @@
+COURSE DESCRIPTIONS
+A course description is a self-made summary of courses in your Bachelor’s, that are relevant
+for the programme you are applying for. You don't need to generate this information yourself.
+Simply copy and paste the relevant details from the course descriptions provided by your
+professors.
+To determine which courses will qualify you for admission to the Master's program you are
+applying for, please review the entry requirements listed on the webpage. Please include these
+courses in your self-made course descriptions.
+Please include per course:
+• topics covered
+• number of credits
+• method(s) of examination and
+• the compulsory literature list
+EXAMPLES OF COURSE DESCRIPTIONS
+Course title: Corporate Entrepreneurship
+University where course was taken: University of Amsterdam
+credits: 6 EC
+Topics covered
+How do corporations like Google, IKEA and Apple continue to respond to their external
+environment and remain creative as they grow older and larger? Keeping entrepreneurism at
+the core of their organisation is a simple answer with complex theoretical underpinnings
+which we will explore in this class.
+The course provides a set of definitions, a conceptual framework, and a repertoire of case
+studies and academic articles to help students understand what corporate entrepreneurship is
+and how it benefits established firms. The content is designed to get participants acquainted
+with the different facets of corporate entrepreneurship (e.g., drivers of corporate
+entrepreneurship and types of corporate venturing) and how these impact an organisation’s
+competitive advantage.
+The course will expose students to different theories and practical cases about some of the
+world's most entrepreneurial organisations, leading them to understand how corporate
+entrepreneurship can be key to successful strategies for established businesses.
+Page 2
+Please note that the information in this document is subject to change. No rights can be derived from the contents
+of this document.
+Methods of examination
+The final grade consists of:
+• a two-hour end-of-term examination (60%) with multiple-choice questions and
+essay questions. The grade for the end-of-term exam must be at least 5.5 to pass
+the course;
+• Group assignments consisting of a presentation and written assignments
+(40%). The results of the group assignment will not be disregarded in case of a
+resit  and will remain valid in the academic year in which the course was taken;
+Compulsory literature list
+The course uses a core textbook and academic articles. The textbook used will be:
+• Kuratko, D., Morris, M.H., and Covin, Jeffrey. (2011). Corporate Innovation
+& Entrepreneurship, International Edition, 3rd Edition, ISBN: 9781111526917.
+•
+The academic articles will be available from online resources through the library. The
+seminars will be based on Harvard Business School cases and the link will be made available
+on Canvas prior to the course.
+Information on additional course articles and slides will be available on Canvas.
+Course title: Quantitative Research Methods I
+University where course was taken: Vrije Universiteit Amsterdam
+credits: 6 EC
+Topics covered
+First of all, students get to know and learn about different data sources and to summarise data
+in a number of descriptive statistics. Second, they learn how to work with univariate and
+multivariate linear regression models. We also pay attention to situations where the classical
+assumptions of the linear regression model do not hold: think about problems such as
+multicollinearity, omitted variable bias, heteroskedasticity and endogeneity. Third, students
+will learn to work with Probit and Logit models (in case the outcome variable is binary) and
+they get to know the basics of time series and panel data models. Finally, students will apply
+the mentioned techniques with emperical data using Stata.
+Methods of examination
+Exam with open questions - individual assessment
+One digital exam with Stata - individual assessment
+Weekly multiple choice quiz assignments - individual assessment
+Compulsory literature list
+Dougherty, C. (2016), Introduction to Econometrics, fifth edition, Oxford
+Course title: Econometrics
+University where course was taken: Shanghai University of Finance & Economics
+credits: 8 EC
+Topics covered:
+Linear Regression Model: The concept of the one-regressor regression model and the ordinary
+Page 3
+Please note that the information in this document is subject to change. No rights can be derived from the contents
+of this document.
+least squares (OLS) estimation with its statistical features and distributions.
+• Multiple Regression Model: The Assumptions and OLS estimation of the model, and the
+relevant concept about omitted variable bias. The hypothesis tests (t-test and F-test) and their
+statistical inference. Qualitative information like dummy variables and their applications.
+Further issues like functional forms (quadratic and interaction functional forms) and OLS
+asymptotic properties.
+• Specification and data issues: the statistical inference and applications of the Ramsey
+RESET Test, multicollinearity, proxy variables and measurement error.
+• Endogeneity: The concept and statistical inference of Endogeneity. The test for
+Endogeneity. Solutions to Endogeneity, including instrument variables (IV) and two-stage
+least squares (2SLS).
+• Time Series Analysis: The reinterpretation of assumptions in Time Series Analysis. Models
+of weakly dependent time series (MA, AR and ARMA models). Examples of nonstationary
+time series (Random Walks and Random Walks with Drift). The concept of Integration and
+Cointegration, and the testing hypothesis with the unit root test.
+• Panel Data: The assumptions and applications for panel data. The application of the Fixed
+Effect Model to solve omitted variables problems. The statistical principle of clustered
+standard error. the interpretation and examples of the Diffin-diff Model.
+• Heteroscedasticity: Examples and consequences of heteroscedasticity. The calculation of
+heteroscedasticity-robust standard errors. Breusch-Pagan Test and White Test for
+heteroscedasticity. The introduction of weighted least squares and feasible general least
+squares estimations.
+• Maximum Likelihood Estimation (MLE): Main features of MLE. Logit and Probit models.
+• Econometric Software: Using STATA to solve economic problems based on the empirical
+analysis models taught in the course. Literature list
+• Study Materials: Jeffrey M. Wooldridge. (2018). Introductory Econometrics: A Modern
+Approach (6th Edition). Renmin University Press.
+Methods of examination
+The final grade consists of:
+Four personal assignments with calculation and programming questions 10%
+An empirical analysis paper 10%
+Closed book midterm examination 20%
+Closed book final examination 60%
+Compulsory literature list
+References: Joshua D. Angrist., Jörn-Steffen Pischke. (2012). Mostly Harmless Econometrics:
+An Empiricist’s Companion. Gezhi Press.

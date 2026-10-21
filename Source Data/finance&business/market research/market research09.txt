@@ -1,0 +1,190 @@
+Introduction
+Unprecedented demographic changes expected
+throughout this century are creating increasingly
+pressing issues for all countries to navigate. Global
+population growth will slow from 1.1 percent per year
+before the COVID-19 pandemic to basically zero in
+2080–2100 (Figure 2.1). An ongoing decline in fertil-
+ity and an increase in longevity are expected to bring
+sharp changes in the age structure of economies, with
+the average age of the world’s population projected to
+increase by 11 years between 2020 and the end of the
+century. These forces are driving the rise of the “silver
+economy,” as the share of the older population—
+ages 65 and older—is increasing rapidly throughout
+the world, with far-reaching implications for econo-
+mies and societies.
+The authors of this chapter are Bertrand Gruss (co-lead), Eric
+Huang, Andresa Lagerborg, Diaa Noureldin (co-lead), and Galip
+Kemal Ozhan, with support from Pedro de Barros Gagliardi and
+Ziyan Han. Adrien Auclert, Hannes Malmberg, and Matthew Rognlie
+were external consultants. The chapter benefited from comments by
+Andrew Scott and internal seminar participants and reviewers.
+Population aging has often been linked to gloomy
+prospects for economic growth and public finances.
+The fall in the proportion of working-age individuals
+may depress labor supply and output growth (Gagnon,
+Johannsen, and López-Salido 2021; Maestas, Mullen,
+and Powell 2023). Slower population growth can
+also lead to fewer ideas and less innovation, and thus
+slower productivity growth (Aksoy and others 2019;
+Jones 2022). A higher dependency ratio, wherein
+fewer workers support more retirees, can strain public
+pension systems and increase health care spending
+(Lee 2016).
+However, individuals are not only living for longer
+but generally also aging in better health (Scott 2021,
+2023; Kotschy and Bloom 2023). Globally, life
+expectancy has increased by about 4½ years over the
+past two decades. Importantly, healthy life expectancy
+has increased at a similar pace, with additional years
+largely free from chronic illnesses. Recent studies have
+documented significant improvements in the physical
+and cognitive abilities of individuals over the age of
+50 in some advanced economies, though with notable
+heterogeneity across socioeconomic groups (Freedman
+and others 2013; Abeliansky and Strulik 2019; Old
+and Scott 2023). Healthier aging could thus continue
+to boost labor supply by extending working lives and
+enhancing older workers’ productivity, offering a bright
+spot amid the rise of the silver economy.
+Against this backdrop, this chapter pursues the
+following intertwined objectives: (1) assessing the
+extent to which cohorts are aging in better health and
+its impact on labor market outcomes, (2) evaluating
+the global economic implications of demographic
+shifts and healthy-aging trends, and (3) exploring how
+targeted policies can help mitigate the negative effects
+of population aging.
+To achieve these objectives, the chapter seeks to
+answer the following questions:
+• Global demographic transition: How have demo-
+graphic trends evolved globally? How fast and
+uneven is the pace of aging across different
+countries? Healthy aging: Is there evidence that individuals
+in later-born cohorts are healthier than those in
+earlier-born cohorts at the same age? How do
+healthy-aging trends differ across countries and
+socioeconomic groups? Has healthy aging increased
+the labor market attachment and productivity of
+older individuals?
+• Economic implications of global population aging:
+What are the likely implications of population
+aging for growth, interest rates, public finances, and
+external balances? How do these implications differ
+across countries given uneven demographic trends?
+To what extent can longer and more productive
+working lives as a result of healthy aging offset the
+economic and fiscal challenges of population aging?
+• The role of policies: How can policies help generate
+growth tailwinds to mitigate the adverse economic
+impacts of demographic transitions?
+To answer these questions, the chapter first relies
+on microsurvey data from approximately 1 million
+individuals from 29 advanced and 12 emerging market
+economies over 2000–22 to establish the extent of
+healthy-aging trends and their association with labor
+market outcomes. It then employs a multicountry,
+overlapping-generations general equilibrium model cov-
+ering 69 economies—representing about two-thirds of
+global output and the world’s population—to assess the
+economic implications of global aging through the end
+50 International Monetary Fund | April 2025
+of the century. After baseline projections under current
+policies are established, the model is used to assess the
+potential impact of targeted progrowth policies to cush-
+ion against the growth and fiscal implications of aging.
+The chapter’s main findings are as follows:
+• Economies worldwide are aging rapidly as a result of
+declining fertility and rising life expectancy, with the
+pace of aging varying significantly across regions. No
+longer confined to advanced economies, aging is
+accelerating in many emerging market and mid-
+dle-income economies. Meanwhile, the window for
+reaping demographic dividends in younger, low-in-
+come countries is gradually closing.
+• In many countries, people not only are living longer but
+are also aging in better health, which is associated with
+longer and more productive working lives. Alongside
+increases in longevity, the functional capacity of
+older individuals has improved over time. More
+recent cohorts of older individuals are physically
+stronger and cognitively abler than earlier cohorts at
+the same age. Notably, when cognitive capacities are
+the focus, “the 70s are the new 50s”: Data from a
+sample of 41 advanced and emerging market econo-
+mies indicate that, on average, a person who was 70
+in 2022 had the same cognitive ability as a 53-year-
+old in 2000. Over the course of a decade, this pace
+of improvement in cognitive abilities is associated
+with an increase of approximately 20 percentage
+points in the likelihood that individuals remain
+engaged in the labor market, either by working or
+actively seeking employment, along with an increase
+of about six hours in average weekly hours worked
+and a 30 percent rise in labor earnings, conditional
+on being employed.
+• Although healthy aging will partly offset the negative
+impact of demographic headwinds, the growth of
+global output will slow significantly through the 21st
+century, and many countries will need sizable efforts
+to stabilize public-debt-to-GDP ratios. Ongoing
+increases in the labor supply and improvements in
+the human capital of older individuals because of
+healthy aging are expected to contribute about 0.4
+percentage point annually to global GDP growth
+over 2025–50. Despite this tailwind, average global
+annual output growth under current policies is pro-
+jected to decline by 1.1 percentage points during
+the same period, compared with the 2016–18
+average. Demographic trends alone are expected
+to account for almost three-fourths of this decline.
+Lower growth, combined with an increasing share of older individuals with higher accumulated
+savings in large economies, is projected to exert
+downward pressure on interest rates. Still, most
+countries are likely to face a worse interest-growth
+differential than in the recent past, and many will
+need higher primary balances than they registered
+in 2016–18 to keep debt ratios stable from 2030
+onward. Uneven demographic trends are also likely
+to exert widening pressure on external global posi-
+tions through the end of the century.
+• A multifaceted policy approach can increase labor
+supply, boost growth, and ease fiscal pressures amid
+global population aging. Lifelong policies to support
+the human capital of workers in late adulthood (that
+is, people who are between age 50 and retirement
+age), including health promotion and prevention
+measures, can significantly counter the effect of
+population aging on growth. In addition, raising
+labor force participation among the 65-and-older
+age group—by gradually increasing the effective
+retirement age in line with improvements in life
+expectancy—and closing gender gaps where they
+remain large would provide significant growth
+tailwinds in many countries. A combination of labor
+supply policies could boost global annual output
+growth by about 0.6 percentage point over the next
+25 years, offsetting almost three-fourths of the drag
+from demographics during that period. The fiscal
+dividends from progrowth policies would enable
+many countries to rebuild buffers and create space
+for critical spending needs. Expanding access to
+international financial markets through credit and
+capital market reforms, alongside stronger gover-
+nance and institutions, would allow younger, low-in-
+come countries to reap demographic dividends
+before the window for doing so closes and offset
+potential losses from migration outflows to older,
+labor-scarce economies.
+The chapter examines the implications of popula-
+tion aging for growth, interest rates, external balances,
+and public finances but does not cover all relevant
+aspects. Notably, it abstracts from shifts in consumer
+demand and sectoral reallocations driven by aging, as
+well as the implications for the financial sector, house
+prices, and urbanization. The analysis also abstracts
+from endogenous technological responses to aging—
+such as automation and artificial intelligence (AI)—
+which could mitigate some of the negative growth
+effects.

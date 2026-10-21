@@ -1,0 +1,97 @@
+Leaving aside the work of Ada Lovelace—the 19th century countess who
+devised algorithms for Charles Babbage’s never-completed Analytical
+Engine—computer programming has existed as a human endeavor for less
+than one human lifetime: it has been only 68 years since Konrad Zuse
+unveiled his Z3 electro-mechanical computer in 1941, the first working
+general-purpose computer. And it’s been only 64 years since six women—
+Kay Antonelli, Jean Bartik, Betty Holberton, Marlyn Meltzer, Frances
+Spence, and Ruth Teitelbaum—were pulled from the ranks of the U.S.
+Army’s “computer corps”, the women who computed ballistics tables by
+hand, to become the first programmers of ENIAC, the first general-purpose
+electronic computer. There are many people alive today—the leading edge
+of the Baby Boom generation and all of the Boomers’ parents—who were
+born into a world without computer programmers.
+No more, of course. Now the world is awash in programmers. According
+to the Bureau of Labor Statistics, in the United States in 2008 approximately
+one in every 106 workers—over 1.25 million people—was a computer
+programmer or software engineer. And that doesn’t count professional
+programmers outside the U.S. nor the many student and hobbyist
+programmers and people whose official job is something else but who spend
+some or even a lot of their time trying to bend a computer to their will.
+Yet despite the millions of people who have written code, and the billions, if
+not trillions of lines of code written since the field began, it still often feels
+like we’re still making it up as we go along. People still argue about what
+programming is: mathematics or engineering? Craft, art, or science? We
+certainly argue—often with great vehemence—about the best way to do it:
+the Internet overflows with blog articles and forum postings about this or
+that way of writing code. And bookstores are chock-a-block with books
+about new programming languages, new methodologies, new ways of
+thinking about the task of programming.
+This book takes a different approach to getting at what programming is,
+following in the tradition established when the literary journal The Paris
+xii
+Review sent two professors to interview the novelist E.M. Forster, the first
+in a series of Q&A interviews later collected in the book Writers at Work.
+I sat down with fifteen highly accomplished programmers with a wide range
+of experiences in the field—heads down systems hackers such as Ken
+Thompson, inventor of Unix, and Bernie Cosell, one of the original
+implementers of the ARPANET; programmers who combine strong
+academic credentials with hacker cred such as Donald Knuth, Guy Steele,
+and Simon Peyton Jones; industrial researchers such as Fran Allen of IBM,
+Joe Armstrong of Ericsson, and Peter Norvig at Google; Xerox PARC
+alumni Dan Ingalls and L Peter Deutsch; early Netscape implementers Jamie
+Zawinski and Brendan Eich; folks involved in the design and implementation
+of the languages the present-day web, Eich again as well as Douglas
+Crockford and Joshua Bloch; and Brad Fitzpatrick, inventor of Live Journal,
+and an able representative of the generation of programmers who came of
+age with the Web.
+I asked these folks about programming: how they learned to do it, what
+they’ve discovered along the way, and what they think about its future.
+More particularly, I tried to get them to talk about the issues that
+programmers wrestle with all the time: How should we design software?
+What role do programming languages play in helping us be productive or
+avoid errors? Are there ways we can make it easier to track down hard-to-
+find bugs?
+As these are far from settled questions, it’s perhaps unsurprising that my
+subjects sometimes had quite varied opinions. Jamie Zawinski and Dan
+Ingalls emphasized the importance of getting code up and running right away
+while Joshua Bloch described how he designs APIs and tests whether they
+can support the code he wants to write against them before he does any
+implementation and Donald Knuth described how he wrote a complete
+version of his typesetting software TeX in pencil before he started typing in
+any code. And while Fran Allen lay much of the blame for the decline in
+interest in computer science in recent decades at the feet of C and Bernie
+Cosell called it the “biggest security problem to befall modern computers”,
+Ken Thompson argued that security problems are caused by programmers,
+not their programming languages and Donald Knuth described C’s use of
+pointers as one of the “most amazing improvements in notation” he’s seen.
+Some of my subjects scoffed at the notion that formal proofs could be useful
+xiii
+in improving the quality of software, but Guy Steele gave a very nice
+illustration of both their power and their limitations.
+There were, however, some common themes: almost everybody
+emphasized the importance of writing readable code; most of my subjects
+have found that the hardest bugs to track down are in concurrent code; and
+nobody seemed to think programming is a solved problem: most are still
+looking for a better way to write software, whether by finding ways to
+automatically analyze code, coming up with better ways for programmers to
+work together, or finding (or designing) better programming languages. And
+almost everyone seemed to think that ubiquitous multi-core CPUs are going
+to force some serious changes in the way software is written.
+These conversations took place at a particular moment in our field’s history,
+so no doubt some of the topics discussed in this book will fade from urgent
+present-day issues to historical curiosities. But even in a field as young as
+programming, history can hold lessons for us. Beyond that, I suspect that my
+subjects have shared some insights into what programming is and how we
+could do it better that will be useful to programmers today and to
+programmers several generations from now.
+Finally, a note on the title: we chose Coders at Work for its resonance with
+the previously mentioned Paris Review’s Writers at Work series as well as
+Apress’s book Founders at Work, which does for starting a technology
+company what this book tries to do for computer programming. I realize
+that “coding” could be taken to refer to only one rather narrow part of the
+larger activity of programming. Personally I have never believed that it is
+possible to be a good coder without being a good programmer nor a good
+programmer without being a good designer, communicator, and thinker.
+Certainly all of my subjects are all of those and much more and I believe the
+conversations you are about to read reflect that. Enjoy!

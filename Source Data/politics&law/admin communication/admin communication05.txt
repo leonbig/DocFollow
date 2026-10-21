@@ -1,0 +1,42 @@
+Editors’ note: Today The Washington Post published Bob Woodward and Robert Costa’s revelations that Gen. Mark A. Milley called his Chinese counterpart before the 2020 election and after Jan. 6 to avert armed conflict. In light of that news, we are reposting this interview, originally published Jan. 8, 2021.
+
+On Jan. 8, House Speaker Nancy Pelosi (D-Calif.) sent a letter to her Democratic colleagues that included the following remarkable statement:
+
+“This morning, I spoke to the Chairman of the Joint Chiefs of Staff Mark Milley to discuss available precautions for preventing an unstable president from initiating military hostilities or accessing the launch codes and ordering a nuclear strike. The situation of this unhinged President could not be more dangerous, and we must do everything that we can to protect the American people from his unbalanced assault on our country and our democracy.”
+
+Subsequently, Milley issued a statement saying that “Speaker Pelosi initiated a call with the Chairman” and that he “answered her questions regarding the process of nuclear command authority.”
+
+I asked Vipin Narang, an associate professor of political science at MIT and a nuclear proliferation and strategy scholar, what this does — and doesn’t — mean. (The content has been lightly edited.)
+
+Elizabeth N. Saunders: Is there anything Milley can do to prevent the president from “accessing the launch codes and ordering a nuclear strike”?
+Vipin Narang: The answer is emphatically no. The president, and the president alone, possesses the sole authority to order a nuclear launch, and no one can legally stop him or her. Despite reports that Pelosi received assurances that there are safeguards in place in the event the president of the United States (POTUS) wants to launch a nuclear weapon, any such meaningful or effective safeguards would be illegal.
+
+Although it may be customary for the president to consult with his White House advisers, STRATCOM (U.S. Strategic Command, the military command in charge of nuclear weapons), or the (civilian) secretary of defense, there is no legal requirement to do so on nuclear launch. Contrary to popular belief, neither the chair of the Joint Chiefs of Staff nor the White House chief of staff nor the (civilian) secretary of defense nor the STRATCOM chief nor the vice president are in the nuclear launch chain of command.
+
+What would happen if someone tries to enter the chain of command, for example by countermanding or refusing to obey a presidential order?
+Anyone who attempts to contravene a valid, authentic and legal (in the sense of whether the strike package was legal, and all off-the-shelf nuclear strike packages are pre-vetted for legality to some degree) order would be doing so illegally and risk the charge of mutiny. Now, if POTUS ordered a nuclear first strike out of the blue against China or Russia, there would be questions about legality. But if, for example, he ordered a limited nuclear strike against targets in Iran, such as the hardened and buried Fordow enrichment facility, or a complex in North Korea, it would be very difficult to argue that the president did not have the legal right to do that out of the blue if he or she deemed it in America’s national interest.
+
+So how does the president order the launch of nuclear weapons? The procedure, as far as we publicly know, is as follows: If POTUS decided to launch some or all of America’s nuclear weapons, s/he would simply take out the “biscuit” or authenticator which s/he carries on his/her person at all times, summon the military aide that accompanies POTUS at all times, who connects POTUS directly to the duty officer at the National Military Command Center. Based on an alphanumeric code on the “biscuit,” POTUS authenticates himself or herself to the duty officer and orders the desired nuclear launch package.
+
+At this point, if the order is deemed to be authentic (did POTUS respond with the correct authenticator) and valid (is the strike package valid?), it is considered a legal order from the commander in chief. The duty officer then transmits the order and strike package directly to America’s nuclear missiles and submarines and bombers to carry out the order and the desired strike package. At no point is anyone else legally, or even practically, in the chain of command for nuclear launch. Anyone — the duty officer or a missileer — who contravenes or fails to carry out this order would be doing so illegally.
+
+Why does this system rely so much on a single actor: the president?
+The system originated in the Cold War, when the concern was the president would have extremely limited time, measured in minutes, to launch nuclear weapons, and therefore should not face hurdles that would slow him down. Some have suggested this system should change, but it remains the basic fact that if the president gives a launch order, only a military refusal to follow the order could stop it.
+
+For much of the Cold War, and since, sole authority was believed to be a feature not a bug — allowing the president to quickly preempt adversaries or retaliate in the event other principals were unavailable. In the hands of Donald Trump until Jan. 20, absent his removal from office, it is a risk, one that Pelosi herself raised.
+
+The United States is one of the only countries to have sole launch authority — even Russia does not. It is striking that the Russian system requires an additional vote to Russian President Vladimir Putin’s, but America’s does not.
+
+What does Pelosi making this public mean?
+Pelosi probably knows all of this. But making this statement public may be a way to send another signal about the gravity of Trump remaining in office. It is the most extreme example of the powers he retains until the moment he is removed from office.
+
+The only way to guarantee that Trump cannot order a nuclear strike is to remove him from office through civilian means (i.e., impeachment or the 25th Amendment). Pelosi may want to remind civilians of that fact, even if they know it already.
+
+Has this happened before?
+There is some debate about whether Defense Secretary James Schlesinger asked those around President Richard M. Nixon to double-check with him before carrying out any military orders, including nuclear ones in the final days of the Nixon presidency.
+
+For using nonnuclear military force, that is legal as orders flow through the secretary of defense to the combatant commands. And the Pentagon can drag its heels in implementing any order to deploy nonnuclear forces. But if Schlesinger intended to try to block or circumvent a valid and authentic nuclear launch order from Nixon — and we are not sure he actually did — it would have been illegal, even if it was the responsible thing to do.
+
+There has been discussion about revising sole authority in the Trump years, given his history of nuclear threats and desire to play the “madman.”
+
+But right now, launching nuclear weapons is solely the president’s decision. Pelosi’s statement just gives everyone a reminder.

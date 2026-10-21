@@ -1,0 +1,78 @@
+1. Course Prefix and Number
+Identifies the course for registration and transcript purposes. If you don’t know what prefix or number
+to use, you may leave this information blank as you prepare the course outline.
+Prefix:
+The 3-letter alpha designation for the discipline area where the course will "reside." Usually an
+existing prefix designation will be used. If you are not using an existing prefix, you must contact the
+Curriculum Coordinator before proposing a new prefix.
+Number:
+• 000-099 Developmental and courses. These courses are not intended for transfer and do not
+fulfill requirements of certificate and degree programs at Yavapai College.
+• 100-199 First year or freshman-level courses.
+• 200-299 Second year orsophomore-level courses.
+• 300-399 Third year or junior-level courses.
+• 400-499 Fourth year or senior-level courses.
+Some courses are reserved across all prefixes for special course designations and cannot be assigned
+to other courses (e.g. 098, 198, 296, 298, 299, 394, 399, 496, 499).
+2. Course Description
+A brief, informative snapshot about the course. The description is intended to tell a prospective
+learner about the key content and learning focus of the course.
+Best practices:
+• Use concise statements rather than lengthy sentences.
+• Use words and terminology that introductory students can understand.
+• Use information that is relevant to the prospective learner (e.g. Preparation to take an
+employment-related exam. Qualifies a student for a licensure requirement).
+• Indicate any required prerequisite or corequisite courses.
+o A prerequisite is a required course, level of learning, or assessment score required
+prior to enrollment in a specific course.
+ A prerequisite that may be taken concurrently allows students to choose
+whether the prerequisite course is taken prior to, OR students may enroll in
+both courses at the same time.
+o A corequisite refers to a related course that MUST be taken at the same time as
+another related course.
+ Students are required to register for the corequisite course at the same
+time. They do not have the option to take one course before the other.
+• Do not include teaching methods or activities in the description as these are included in the
+syllabus.
+Course Outline Components
+3
+Updated May 2024
+3. Course Content
+Indicates the major topics or key areas of knowledge required to accomplish the learning outcomes.
+Best practices:
+• List the topic/key areas rather than writing complete sentences or lengthy statements.
+• Content areas must be consistent with the learning outcomes.
+• Content provides a framework for the organization of the course.
+• Content is not a listing of the table of contents of a specific textbook or other source, since this
+information may vary from instructor to instructor.
+• Content does not include teaching methods or instructional activities.
+4. Learning Outcomes
+The learning outcomes are the primary skills, behaviors, abilities, expertise, and proficiencies the learner
+will "own" at the end of the course.
+While the learner will need a certain level of knowledge or information in order to achieve the outcome,
+the emphasis in identifying the outcomes is on what the learner will be able to do with that knowledge
+or information - not just possession of it.
+Best practices:
+• Refer to the YC Standard Descriptions for 100, 200, 300, and 400 Level Courses as well as the
+recommended Bloom's Taxonomy.
+• Learning outcomes must be stated in specific and measurable terms using the standard "Students
+will be able to..." format, typically using a single verb and action.
+• Indicate what the learner will be able to do after the course - not what the learner will be doing
+while enrolled in the course.
+• All identified outcomes must be assessed (introduced, practiced, and tested on for proficiency) as
+part of the course.
+• Avoid terms such as "demonstrate", "apply knowledge of", "understand", or "have the ability to",
+which are nebulous and do not identify learned behaviors.
+• Learning outcomes do not include teaching methods or instructional activities.
+Need assistance selecting action verbs to develop learning outcomes? Try this resource: SLOA Handbook
+Course Outline Components
+4
+Updated May 2024
+5. Assessment Measures
+Assessment measures are used to demonstrate the learner’s mastery of the learning outcomes.
+Required Assessment Measures:
+• Used only when every section of the course regardless of location or modality must use a
+specific assessment measure.
+• Most often used for general education courses or courses qualifying individuals for licensure
+or occupational certification.
+• If there are required assessment measures, they MUST be indicated on the outline.

@@ -1,0 +1,62 @@
+As the Trump administration pushes forward with reshaping the federal role in education, the future of special education remains uncertain. Amid this uncertainty, it’s worth stepping back to assess what we know about the potential changes ahead—and what those changes could mean for students with disabilities.
+
+In early March, mass layoffs at the U.S. Department of Education (ED) significantly reduced the Office of Civil Rights’ (OCR) capacity to enforce protections for students with disabilities. Then, just a day after issuing an executive order to dismantle ED, the administration announced plans to transfer ED’s special education programs to the U.S. Department of Health and Human Services, raising new questions about federal oversight and support for special education.
+
+Questions about the future of federal funding for special education add another layer of uncertainty. Federal funding plays a critical role in shaping education finance and policy nationwide. Through the Individuals with Disabilities Education Act (IDEA), the federal government provides approximately $15 billion annually to states and districts—making it the second-largest source of federal funding for public schools. IDEA funding is also the primary way the federal government influences how special education services are delivered. In exchange for these funds, states and districts must comply with IDEA’s detailed requirements, which form the foundation of the modern special education system. As a result, changes to how IDEA funding is structured could have far-reaching implications for students with disabilities.
+
+The administration has said it will keep current levels of federal special education funding, and in its recent budget letter to Congress, the administration requested the same amount of special education funding for FY2026 as last year. However, the letter also proposes a shift:  allocating the funding through a new “simplified funding program” that “consolidates” existing IDEA programs and provides “states and school districts with greater flexibility to support students with special needs.”
+
+What remains unclear is whether federal funding will continue to be distributed through IDEA or redirected in ways that create new flexibility for how dollars are spent and bypass IDEA’s established rules and protections for students with disabilities. For insight into where federal special education funding might be headed, one place to look for hints is Project 2025, a policy agenda and transition plan drafted by the Heritage Foundation.
+
+Project 2025 and the future of special education
+So far, Project 2025 has served as the Trump administration’s education policy blueprint1. While the plan lacks specific details, it calls for major shifts in how federal special education funding would be distributed and used, including:
+
+Converting “most IDEA funding into a “no-strings” formula grant, targeted to students with disabilities and distributed directly to local school districts,” bypassing state education agencies.2
+“Revising IDEA to require that a child’s portion of the federal taxpayer spending under the law be made available to families so parents can choose how and where a child learns,” through Education Savings Accounts (ESAs) or K-12 private school scholarship options for children with special needs.3
+These proposals, if enacted, would represent a significant departure from how federal special education funding currently operates in several critical ways:
+
+Allocating funding directly to districts instead of states.
+Under current law, IDEA funding flows from the federal government to state education agencies, which then distribute funds to districts according to a formula in statute. States play a critical role in overseeing how districts use the funds and ensure compliance with federal special education requirements.
+
+Project 2025 proposes bypassing state agencies entirely by sending funding directly to local districts—eliminating funding for state education agencies and significantly reducing their role and capacity to monitor and support special education services.
+
+Removing conditions and accountability requirements for federal funding.
+Today, in exchange for receiving IDEA funding, states and districts must comply with extensive federal requirements. These include rules about which disabilities qualify students for special education services, the development and implementation of Individualized Education Programs (IEPs), and procedural safeguards to ensure students with disabilities access to a Free Appropriate Public Education (FAPE).
+
+Project 2025 proposes providing federal special education funding with “no strings attached,” which would give states and districts broad flexibility to redesign how special education services are provided. This means that states and districts could operate special education programs with minimal federal requirements and oversight to guide or enforce protections for students with disabilities.
+
+Allowing parents to decide how federal special education funds are spent.
+Under current law, school districts are responsible for developing each student’s IEP and using federal IDEA funds only for allowable costs directly tied to the services outlined in the IEP.
+
+Project 2025 proposes a major shift toward a market-driven, parent-directed model by making each child’s share of federal special education funding available directly to families. Instead of districts determining how funds are used through the IEP process, parents would have broad discretion to decide how to spend federal dollars—including on private schools, therapies, or other educational services—even if those services are not approved by a school district or included in an IEP. While this approach would expand flexibility for some families, it would significantly reduce school district oversight, and students served outside of public school districts would forego IDEA’s protections that ensure students with disabilities receive FAPE.
+
+It also is the case that, on average, the amount of IDEA funding available per student is small—approximately $2,500 per student receiving special education, which is far less than the average additional cost of providing special education services, especially for students with significant needs. For instance, based on a recent cost study from Ohio, special education costs an additional $9,000 per student with a Specific Learning Disability, on average, and $37,000 for a student with an Autism Spectrum Disorder. Where federal funding falls short of paying for the full cost of a student’s special education services, public schools could be left serving a larger share of higher-need, higher-cost students, while families with greater financial resources would be better positioned to supplement federal dollars and take advantage of expanded choices.
+
+How this all plays out in policy and practice, however, will largely depend on a key policy decision by Congress: whether federal funding for special education continues to flow through IDEA.
+
+The path forward and consequences for special education
+Implementing Project 2025’s proposals would require significant changes to IDEA’s funding formula, legal requirements, and regulations. However, such changes can only occur if Congress amends the law; the secretary of education does not have the authority to waive IDEA’s requirements. Since IDEA hasn’t been reauthorized since 2004 and Congress has shown little interest in reopening it now, it is likely that Congress would use a different approach to implement Project 2025’s policy proposals.
+
+Project 2025 proposes a strategy of shifting most federal special education funding into a more flexible block grant program that would operate outside IDEA.4 The administration’s recent FY 2026 budget letter to Congress offers early signs of a similar approach—aiming to consolidate existing special education programs into a single grant that gives states and districts more flexibility.
+
+Although details remain unclear, consolidating federal special education funding into a single block grant that operates outside IDEA would allow Congress to set new rules for how states and districts access and use federal funds, without the constraints imposed by IDEA. Depending on how the block grant is structured, it could lead states to use federal dollars for purposes other than providing special education services.
+
+In addition to nullifying IDEA’s existing requirements and safeguards for students with disabilities, shifting all or most IDEA funding into a separate block grant program could also set into motion other changes that reshape special education policy at the state and local levels. Some possibilities include:
+
+States might opt out of IDEA entirely.
+With less federal funding tied to IDEA’s requirements, some states and districts may decide that following the law is no longer worth the cost. While no state has ever withdrawn from IDEA, states like Tennessee, Oklahoma, and South Carolina have toyed with the idea in the past. If appropriations for IDEA are significantly reduced and compliance costs remain high, some states could reconsider withdrawing. Currently, IDEA funding offsets an estimated 12% of what states and districts spend on special education. Turning down IDEA funds would release states from the law’s requirements, potentially weakening protections and services for students with disabilities.
+
+States could decide to spend less on special education.
+IDEA’s maintenance of effort (MOE) requirements currently tie state and local special education spending to the amount of IDEA funding received. If federal funding is reduced or shifted out of IDEA, states could have more flexibility to decrease their own spending on special education, since they would no longer be bound by the same MOE standards.
+
+Without MOE requirements, some states and districts may choose to reduce their own funding for special education services, especially if the federal funding drop is significant. This could result in less resources for students with disabilities, such as fewer teachers, support services, or specialized programs.
+
+Inequities across states and districts could widen.
+Without IDEA’s federal formula ensuring more equitable distribution of federal funding, a new block grant could create large disparities. Some states and districts might receive significantly more funding than others, exacerbating gaps in special education services nationwide.
+
+If federal funds are no longer a stable source of state funding for students with disabilities, disparities between wealthier and poorer states or districts could grow. Wealthier areas may be able to maintain or even increase funding for special education, while lower-income areas may struggle to make up the difference, leading to disparities in service provision across the country.
+
+What’s at stake for special education moving forward
+As federal policymakers consider major changes to the structure and delivery of special education funding, the stakes for students with disabilities are high. Shifting funding outside of IDEA to a new consolidated block grant program and reducing federal oversight could offer states, districts, and families more flexibility, but it also risks weakening longstanding protections and creating greater disparities in access to services.
+
+The future of special education will likely depend on how Congress navigates these tradeoffs—balancing a desire for flexibility and innovation with the need to maintain funding stability, ensure equity, and uphold the rights of students with disabilities. As these debates unfold, it will be critical for policymakers to carefully consider the full range of potential consequences.

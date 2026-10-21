@@ -1,0 +1,122 @@
+Abstract
+This action research study describes how three teacher educators invited
+preservice teachers to be in their bodies, or learn through “embodied pedagogy.”
+We wanted see how this pedagogy helped preservice teachers learn to reflect
+through their bodies, confront their own bias to cognitive ways of knowing, and
+ultimately begin to consider the use of embodied instructional strategies. We
+describe our questions, the activities we designed to help us answer them, and
+data collected from the first course in a pre-service teacher education program.
+Finally, we analyze these data and identify themes related to embodied learning
+and reflection, and describe some potential implications for teacher educators.
+Although at times uncomfortable, we found the body became a tool for reflection
+whether through experiencing or accessing emotions, or for uncovering new
+meanings and deep insights about themselves.
+Sometimes I feel like a data machine. (Preservice teacher)
+In the past decade, the teacher education and preparation landscape has
+shifted towards increased accountability focused on data driven assessments. In
+the United States and Australia preservice teachers themselves are increasingly
+being called upon to pass standardized assessments demonstrating their ability to
+collect and analyze data about students (Mandinatch & Jimerson, 2016; Reeves,
+Summers, & Grove, 2016; van Geel, Keunin, Visscher, & Fox, 2016). While we
+too value using deep analysis of students’ work to guide instruction, we also
+believe that too often traditional teacher education practices privilege language,
+reasoning, and thought over embodied knowing. This manifests in how teacher
+educators instruct preservice teachers, design and evaluate assignments, and
+engage with their students through observations and critique. Traditional teacher
+education favors positivist assessments whether through standardized gatekeeping for teacher certification or requiring teachers to develop curriculum that
+prepares K-12 students for standardized tests. However, the authors are well
+aware that we bring our whole selves into teaching (Taylor & Coia, 2009) and in
+doing so we develop relationships with our students and co-construct meaning
+with them. If we believe this to be true then it has implications for what we do in
+preservice teacher education.
+What happens when we use action research as a methodological
+framework to enact “embodied pedagogy as learning that joins body and mind in
+1
+Klein et al.: Using Embodied Practices with Preservice Teachers
+Published by Digital Commons @ University of South Florida, 2019
+a physical and mental act of knowledge construction” (Nguyen & Larson, 2015,
+p. 332) with preservice teachers right at the start of their initial teacher education?
+This action research describes how three teacher educators invited preservice
+teachers to be in their bodies. We did this in order to theorize about how teaching
+and learning influences the ways in which preservice teachers learn to reflect
+through their bodies, confront their own bias to cognitive ways of knowing, and
+ultimately begin to consider the use of embodied instructional strategies.
+Embodied teacher education practices offered our students some tools to begin to
+explore who they are becoming as teachers through emotions and the body.
+Review of Literature
+Embodied Pedagogies
+There is general agreement amongst researchers of embodied pedagogies
+that many Western formal education systems privilege cognitive forms and ways
+of knowing (see, for example, Forgasz, 2015; Lawrence, 2012; Satina & Hultgren,
+2001). According to Estola and Elbaz-Luwisch (2003), predilection for the
+dictates of Cartesian dualism explains the historical privileging of mind over
+body, while the reduction of the body to discourse in much postmodern
+philosophy perpetuates the problem in more contemporary thought. Senior and
+Dixon (2009) concur and, writing about teacher education in particular, they
+argue that “[t]here is a silence” (p. 24) in the research literature and a “virtual
+abandonment of our bodies in pedagogy” (p. 24) in most teacher education
+programs. Like Estola and Elbaz-Luwisch (2003), they attribute this silence to
+the precepts of both Cartesian dualism and the postmodern repositioning of the
+body in and through discourse, such that “its materiality is lost” (p. 24).
+In recent years there has been increasing interest in embodied teaching,
+learning, and pedagogy across all educational sectors. In the compulsory
+schooling years, neuroscientific understandings of mind-body connections have
+seen increased focus on how embodiment can service students’ deeper cognition
+(Ardoy, Fernandez-Rodriguez, Jimenez-Pavon, Castillo, Ruiz, Ortega, 2014;
+Chen, Yan, Yin, Pan, & Chang, 2014; Gao, Hannon, Xiang, Stodden, & Valdez,
+2013). In higher education, interest in embodied learning has arisen at least partly
+in response to the appreciation of “direct, experiential engagement as an
+alternative way to construct knowledge” (Freiler, 2008, p. 43), especially for adult
+learners. Finally, embodiment is of interest across educational settings because it
+accounts for the relational connection between teachers and learners in real time
+and space (Dixon & Senior, 2011; MacIntryre Latta & Buck, 2008; Senior &
+Dixon, 2009).
+2
+Journal of Practitioner Research, Vol. 4 [2019], Iss. 2, Art. 4
+https://digitalcommons.usf.edu/jpr/vol4/iss2/4
+DOI: <p>https://doi.org/10.5038/2379-9951.4.2.1088</p>
+Forgasz and McDonough (2017) observe that in the teacher education
+research literature, “the term embodied pedagogy is invoked in slightly different
+ways to emphasize different nuances of its nature, relevance and value” (p. 54).
+For example, Estola and Elbaz-Luwisch (2003) take a phenomenological view of
+the significance of bodies and embodiment in teaching, citing Merleau-Ponty’s
+active, agentic, and intentional body. They draw further from the Finnish concept
+of “positions of bodies to study how people experience the world and how they
+live and act in different practices as embodied” (p. 699). They are especially
+interested in the embodied person of the teacher and seek “new insight on the
+practice of teaching as an embodied activity” (p. 699). For Senior and Dixon
+(2009), however, such research interests represent “reductionist understandings of
+embodied learning or embodied teaching” (p. 25). For them, embodied pedagogy
+is about locating the learning that happens with and between bodies. They
+explain: “the pedagogical relationship between self and other is not metaphorical.
+It is not only that the learning and teaching are bodily, but the form of the
+relationship is bodily” (Dixon & Senior, 2011, p. 482). For others, still, embodied
+pedagogy is about the role of the body in knowledge construction. For example,
+Freiler (2008) is interested in repositioning “the body from a place of otherness
+into practicing space where both the body and mind are being more holistically
+approached and valued” (p. 45). Nguyen and Larson (2015) similarly advocate
+the effectiveness of embodied learning that joins “body and mind in a physical
+and mental act of knowledge construction” (p. 332).
+In this research, we remained open to all of these conceptions of embodied
+teaching, learning, and pedagogy. Like Forgasz and McDonough (2017), we too
+“acknowledge the overlap and the sometimes inseparable, intermingling notions
+of embodied teaching, embodied learning, and the embodied dynamic of the
+pedagogical relationship between teaching and learning as it is lived through the
+bodies of teachers and learners” (p. 55). Indeed, in our findings, we identified
+moments of insight from our students in relation to all of them––appreciation of
+the teacher as embodied, of the role of the body and the emotions in knowledge
+construction, and of the pedagogical relationship as one that is lived and
+experienced in the space between teacher and learners.
+3
+Klein et al.: Using Embodied Practices with Preservice Teachers
+Published by Digital Commons @ University of South Florida, 2019
+In this regard, we found Freiler’s (2008) definitions of embodiment and embodied
+learning particularly helpful:
+[E]mbodiment is defined as a way to construct knowledge through direct
+engagement in bodily experiences and inhabiting one’s body through a
+felt sense of being-in-the-world. It also involves a sense of
+connectedness and interdependence through the essence of lived
+experiencing within one’s complete humanness, both body and mind, in
+perceiving, interacting, and engaging with the surrounding world. Simply
+stated, embodied learning involves being attentive to the body and its
+experiences as a way of knowing. (p. 40)

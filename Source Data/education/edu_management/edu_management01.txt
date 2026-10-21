@@ -1,0 +1,97 @@
+1 Introduction
+1.1 Context
+Children of more engaged parents tend to have greater success at school, but the evidence on
+whether children’s attainment can be improved by increasing parental engagement is mixed and
+much less conclusive, particularly for disadvantaged families. Parental engagement is a key policy
+interest in Northern Ireland. The Department of Education has funded a nationwide advertising
+campaign to encourage parents, carers and extended family members to become involved in and
+support their children’s learning.
+In order to provide evidence to inform policy, including the ongoing media campaign, this study
+considers evidence gathered from parents, pupils and principals in Northern Ireland to understand
+better the impact of aspects of the home learning environment on children’s outcomes. More
+specifically, it uses the Progress in International Reading Literacy Study (PIRLS) 2016 dataset,
+along with data from the Northern Ireland School Census to answer the following research
+questions:
+ What are the levels of engagement among parents in Northern Ireland?
+ Is parental engagement associated with pupil attitudes and reading performance?
+ How does parental engagement, and its association with other parental and pupil variables, vary
+over time and between countries?
+1.2 Background
+It is widely agreed that parental engagement1 has a positive impact on children’s educational
+outcomes (Goodall et al., 2011) and there is a large body of research on how parental engagement
+can affect children’s attainment and ways in which schools can engage parents more effectively.
+Parental engagement has been a concern of governments worldwide, with many investing heavily
+in promoting engagement and setting it as a key part of their strategic plans (DfE, 2018a; Estyn
+2018; Scotland, 2018).
+Parental engagement can take many forms. These include good parenting in the home, such as
+the provision of a secure and stable environment; intellectual stimulation and parent-child
+discussion; contact with the school to share information about things such as the school’s rules
+and procedures, the curriculum and homework; participation in school events and participation in
+school management and governance (Desforges and Abouchaar, 2003). In their review, Desforges
+and Abouchaar (2003) identified two distinct bodies of research on the relationship between
+parental engagement and pupil achievement. The first focusses on describing and understanding  
+the different forms and impact of naturally occurring parental engagement on children’s educational
+outcomes, whilst the second is concerned with describing and evaluating intervention programmes
+aimed at improving educational outcomes through increased parental engagement. These two
+types of activity differ in that the first is voluntary, whereas the latter is not, at least to start with.
+Although research evidence on the former is mainly of high quality, thereby providing insight into
+the different types of parental engagement and the impact they have on those involved, a lot of the
+data is quite outdated and studies are mainly located in the American educational context.
+Conversely, research on intervention programmes is somewhat weaker, leading to a lack of
+evidence regarding effective parental engagement interventions.
+Policy-makers, practitioners and researchers largely agree that identifying children’s problems
+early in life and intervening when they are young is more effective than when they are older. A
+considerable amount of research has been published on interventions of pre-school and primaryschool-aged children aimed at improving their attainment through increased parental engagement.
+These interventions are mainly concerned with parental training and home-school collaboration
+programmes (Gorard and Huat See, 2013). However, evidence on their overall impact and
+effectiveness is very mixed and inconclusive. In addition, the majority of these studies suffer from
+methodological flaws (such as small samples, lack of randomisation, inappropriate comparators,
+unequal dropout after randomisation and inappropriate use of significance testing for non-random
+samples, no pre- and post-test comparators), and there are very few robust evaluations of these
+interventions (Gorard and Huat See, 2013). This makes the findings hard to synthesise and means
+it is not possible to draw safe conclusions about either the scale of the impact the intervention has
+had or the relationship between the intervention activities and the intended outcome.
+Whilst evidence from interventions is mixed, there is a general consensus that the most effective
+interventions involve providing parents with institutional support. Programmes that just encourage
+parents to work with their children at home, without direct support or skills training, or that seek to
+improve parent-child relationships, appear to be ineffective (DfE, 2018a; Estyn, 2018; Gorad and
+Huat See, 2013). In addition, activities to engage parents must be part of an integrated strategic
+approach in schools, not merely a bolt-on extra to other activities (Estyn, 2018; Harris and Goodall,
+2007). The aims of all communication with parents should be clear and all staff should be on board
+and feel confident in their ability to engage parents. Training should be provided where necessary.
+There is evidence that the extent and form of parental engagement is strongly influenced by family
+social status, income and parents’ level of education. In addition, parental engagement is positively
+influenced by the child’s level of attainment – the higher the level of attainment, the more parents
+get involved and the level of parental engagement falls as the child grows older (Desforges and
+Abouchaar, 2003). Schools face certain barriers in successfully engaging parents. It is important to
+identify and address any of these that may prevent parents from being successfully engaged
+(Scotland, 2018; Grayson, 2013). Barriers include lack of time, child care issues, language
+barriers, transport, work patterns and practical skills, such as literacy issues. When designing
+parental engagement activities, these must be taken into account in order for their successful
+implementation (Grayson and Aston, 2013). This can be done by providing clear and specific
+targeted information for parents, consulting with parents regularly, using a variety of approaches to
+engage parents, e.g. home visits and meetings in other neutral locations, and providing universa
+services to reduce stigmatisation. Schools need to be prepared to be flexible when dealing with
+parents, e.g. in terms of meeting times and location in order to reduce these barriers.
+Surveys such as Parentkind, which is run annually in the UK, provide a snapshot of parents’ views
+about their children’s schools and education. In 2018, this revealed that the vast majority of parents
+surveyed in Northern Ireland are keen to influence education decisions within schools, local
+government and the Education Authority (Parentkind, 2018). However, there is currently a
+mismatch between what parents want and the opportunities they feel they have to do this. When
+asked what they would like to be consulted on by the school, the curriculum was most popular,
+followed by homework and school budgets. These findings are consistent with England, where
+similar information is collected as part of Ofsted’s Parentview survey (DfE, 2018b). This provides
+evidence that parents do want be involved in their children’s school life but schools and local
+governments do not have strategies in place to effectively engage them or overcome some of the
+barriers to engagement that exist. Schools need to use the best available research evidence to
+choose suitable strategies that will work best in their setting, considering local needs and
+circumstances, particularly for those parents who are ‘hard to reach’ (Grayson and Aston, 2013).
+In conclusion, while there is a general consensus that parental engagement plays a vital role in the
+achievement of students, there is less agreement about how to identify the specific practices that
+have the biggest influence, and evidence on how to improve attainment by increasing parental
+engagement is even less conclusive. There is no solid evidence base for intervention yet, but there
+is more evidence on classroom interventions effectively raising attainment (Gorard and Huat See,
+2013). Nevertheless, there are some recurring themes of effective interventions. Notably, the most
+promising phase for effective parental engagement is pre-school and primary school, while the
+most successful interventions provide direct support or skills training to parents and are clear in
+their desired outcomes.

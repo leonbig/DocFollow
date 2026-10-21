@@ -1,0 +1,131 @@
+As part of the Digital Economy for Africa (DE4A1
+) initiative, the World Bank commissioned a
+feasibility study to develop an operational roadmap to connect all African higher education
+institutions (HEIs) to high-speed Internet. The initiative, in support of the African Union Digital
+Transformation Strategy for Africa (2020-2030)2
+, aims to digitally enable every African
+individual, business, and government by 2030. Connecting universities and research
+institutions is crucial for expanding the opportunities for teaching, learning and innovation to
+foster relevant digital skills on the continent. This study has received funding from the Digital
+Development Partnership (DDP)3
+.
+This Case Study, one of four conducted to provide background information to the study, along
+with Burkina Faso, Côte d'Ivoire and Uganda, explores the connectivity challenge from a
+higher education4
+ perspective (demand-side) as well as from the information and
+communications technology (ICT)-sector perspective (supply-side) in Mozambique.
+The connectivity target is to achieve at least 2 Gbps per 1,000 students by 2025 (to be
+provided for in the initial World Bank planning period ending 2023), and at least 20 Gbps per
+1,000 students by 2030. Given a forecast enrolment of 291,000 higher education students in
+Mozambique by 2025, higher education institutions will need at least 581 Gbps to serve the
+institutions’ bandwidth requirements across the country. This will rise to 344,000 students
+and a 7 Tbps of bandwidth by 2030. To put these numbers into perspective, higher education
+enrolment in Mozambique grew from 103,850 students in 2010 to 239,000 students in 2020.
+In 2020, higher education students across Universities and TVETs shared 4.6 Gbps resulting in
+a bandwidth ratio of 19.2 Mbps per 1,000 students.
+As summarised in the table below, the overall total estimated cost of connecting higher
+education institutions in Mozambique to high-speed broadband for a period of five years
+(2021 to 2025) is around USD 452 million. This includes the expense of providing devices to
+students and staff (USD 109 million), the cost of upgrading and maintaining campus networks
+(USD 238 million), core support to MoRENet (USD 10 million) and bandwidth cost for
+upstream connectivity (USD 95 million). The potential savings on bandwidth cost in
+Mozambique from demand aggregation, smart procurement strategies (e.g., benchmarking
+regional pricing) and procuring long-term leases are estimated at 61%.
+
+The Agenda 2025 of the Government of Mozambique (GoM) recognises the importance of
+education. It seeks to implement many platforms to provide the growing young population
+with the necessary skills to lead a successful life and develop the country. The Agenda also
+identifies inadequate coverage of information and communication technology (ICT)
+infrastructure and poor access to ICT services as major weaknesses that must be addressed.
+One of the priority areas identified in the Strategic Plan for Higher Education (Plano Estratégico
+do Ensino Superior, 2010-2020) is expanding access to higher education and improving quality
+through ICT among other measures. The guiding framework for the development of the ICT
+sector, the Information Society Policy (Política para a Sociedade da Informação, 2018) highlights
+education as a key priority for the country’s action.
+The higher education sector in Mozambique falls under the purview of the Ministry of Science
+and Technology and Higher Education and Vocational Training ((Ministério da Ciência e
+Tecnologia, Ensino Superior e Tecnico-Profissional or MCTESTP), which works in tandem with
+other line ministries, provincial governments, various government agencies as well as higher
+education institutions (HEIs) to deliver on the mandate expected of the higher education
+sector in contributing towards the Government’s Agenda 2025. There are currently 53 higher
+education institutions—19 accredited universities, 27 institutes, 4 schools and 3 academies.
+
+Student enrolment in higher education in 2020 stood at 240,000 students and is projected to
+grow to 380,000 by 2030. While the private sector accounts for 58.5% of all HEIs, the public
+sector still accounts for most student enrolment (61.5%).
+Despite the growth in student enrolment, the Gross Enrolment Ratio for higher education in
+Mozambique was only 7.3% in 2018, below the estimated average for sub-Saharan Africa of
+9.4%, and far below the world average of 38.8% for the same year. Some of the challenges
+that hinder progress in improving access and quality of higher education in Mozambique
+include: educational inequalities based on socio-economic status and geographical regions;
+increased demand for higher education versus a limited public budget; and poorly qualified
+teaching staff in higher education. These lead to low completion rates from the second cycle
+of secondary education and high drop-out and failure rates.
+From a sector perspective, the following are factors that inhibit better connectivity as well as
+the use of ICTs in higher education:
+i. ICT as a subject has not been fully incorporated into the curricula at all levels of
+education. This points to a lack of awareness among higher education institutions and
+other government agencies about the importance and potential benefits of ICT for
+both learning and the country's socio-economic development.
+ii. Low digital literacy among lecturers/tutors compounded by insufficient computing
+equipment for students and staff.
+iii. The high cost of broadband services;
+iv. Limited or no training in the use of ICT in teaching and learning.
+v. Lack of appropriate digital content to support teaching and learning.
+The Ministry of Transport and Communication (Ministério dos Transportes e Comunicações or
+MTC) provides policy oversight of the telecommunication sector, while the Communications
+Regulatory Authority (Autoridade Reguladora das Comunicacoes or ARECOM, formerly INCM)
+regulates the sector. Mozambique adopted a technology-neutral licensing framework in 2016
+and currently has 42 licensed operators. Despite this, the market is dominated by three major
+providers—Movitel, Tmcel and Vodacom. Mozambique is connected to two submarine cables
+—SEACOM and EASSy—that land in Maputo, the capital. The cost of broadband services is still
+very high, placing it beyond the reach of the majority of the population. GoM operates a data
+centre at the Maluana Science and Technology Park, in Manica, that supports e-government
+services provided by different government Ministries, Departments and Agencies (MDAs). The
+data centre hosts the Mozambique Internet Exchange Point (MOZIX) that facilitates the
+exchange of local traffic among 18 local networks, including the Mozambique Research and
+Education Network (MoRENet).
+From an ICT sector perspective, there are still several barriers, many of which have already
+been identified by the World Bank’s DE4A study for the country5
+. Some of the challenges that inhibit the use of ICTs in higher education and better connectivity include:
+i. Inadequate development and deployment of ICT infrastructure to cover the whole
+country, particularly rural under/unserved areas;
+ii. While geography has endowed Mozambique with a long coastline that can potentially
+host multiple landing points, the only landing stations are currently in the extreme
+south of the country. This raises cost of bandwidth distribution and reduces the quality
+of service for other parts of the country;
+iii. Low quality and the limited geographical reach of the national electricity grid
+particularly in rural and peri-urban areas;
+iv. The high cost of broadband services, which the majority of the population cannot
+afford due to poverty;
+v. Lack of awareness among leadership of government agencies about the importance
+and potential benefits of ICT in developing their institutions as well as the socioeconomic development of the country;
+vi. Insufficient coordination and alignment among public institutions in relation to ICT
+projects and initiatives, resulting in duplication as well inefficiencies in public service
+delivery;
+vii. Lack of sufficient numbers of qualified human resources to serve the ICT sector both in
+private and public institutions to ensure successful implementation of different ICT
+projects and initiatives;
+viii.Poor integration of the ICT component within the objectives and strategic documents
+designed to guide the development of the country; and
+ix. Lack of a vibrant and competitive local ICT sector that nurtures innovation and
+entrepreneurship in various technology areas.
+The creation of the Mozambique Research and Education Network (MoRENet) and
+government commitment towards accelerating ICT adoption in education provides
+opportunities for addressing the supply and demand challenges and spurring higher
+education connectivity in the future. MoRENet, a project under MCTESTP, that has benefited
+from the country’s Regional Communication Infrastructure Program (RCIP), is meant to
+address the higher education sector's research and education networking needs in
+Mozambique. The network currently provides broadband connectivity to 18 universities and
+29 TVETs, although the bandwidth is still far below the recommended minimum. The
+bandwidth requirement for the current enrolment of 240,000 higher education students is
+about 240 Gbps (based on a minimum of 1 Gbps per 1,000 students), but MoRENet has only
+4.6 Gbps (i.e., only 1.9 per cent of the estimated bandwidth requirement).
+Following COVID-19 lock-downs of educational institutions, MCTESTP negotiated with the
+three major licensed operators to provide special rates that allow unlimited Internet access for registered students and staff of higher education institutions to designated academic
+systems and content via their regular mobile phones.
+Overall, Mozambique's progress indicates a potential for expansion of higher education
+connectivity through the work of MCTESTP and MoRENet. University and TVET leaders should
+play a key role in supporting access to devices by students and staff and facilitating the
+upgrade of campus networks. The private sector will also have a critical role to play in
+extending connectivity across the country

@@ -1,0 +1,50 @@
+1 Introduction
+Nature is crucial to human wellbeing and provides essential ecosystem services that support economic activity. Nature encompasses all living and non-living elements on our planet, forming ecosystems such as forests, lakes and wetlands.[
+1
+] These ecosystems provide habitats for numerous species and tangible goods like food, freshwater, timber and medicinal resources. These also maintain environmental balance, for example by regulating air quality, controlling climate and mitigating floods. Key processes facilitated by ecosystems include soil formation, nutrient cycling and pollination. Nature also offers intangible benefits such as recreation and tourism. These benefits are greatly at risk from the current unprecedented rate of nature degradation and biodiversity loss.
+
+Businesses, the financial sector and policymakers have long underestimated, or even disregarded, the economic significance of ecosystem services, many of which are neither traded in markets nor directly assigned a monetary value. For example, wetlands act as natural water filtration systems and storm barriers, saving billions in water treatment and disaster mitigation costs. Forests absorb carbon dioxide, playing a vital role in climate regulation and reducing the economic impacts of climate change. Healthy soils and pollinators are essential for crop production. Without pollinators, crop yields would decrease, leading to higher production costs, increased consumer prices and potential food shortages. Many of the services provided by ecosystems are public goods and are either undervalued in markets or not currently priced in at all. As a result, they are often overlooked in economic decisions, which has significant consequences for the natural world. The Integrated Natural Capital Accounting (INCA) project, an integrated system of ecosystem accounts for the EU, estimated that in 2019, ten ecosystem services in the EU28 generated a total annual flow of benefits worth €234 billion.[
+2
+] Box 2 in this issue of the Economic Bulletin sets out in more detail the challenges of incorporating ecosystem services into measures of economic activity.
+
+Recent research has demonstrated the highly non-linear nature of biodiversity loss.[
+3
+] While financial losses identified so far may seem limited, it is important to recognise that even seemingly minor events – such as the loss of a single species of bee – may have knock-on effects that have a substantial economic impact. Species loss can hold back economic productivity and make the provision of ecosystem services more fragile. This fragility can compromise economic resilience, lower growth opportunities and exacerbate our vulnerability to future biodiversity loss. So nature degradation can have important economic effects that central banks should be aware of to maintain price and financial stability. Indeed, negative news about biodiversity already increases financial market measures of risk, especially in countries where ecosystems are more depleted.[
+4
+]
+
+Central banks can only achieve their objectives for price and financial stability if they understand and forecast how economic shocks and trends affect inflation, the broader economy and the financial system. Given the potential of climate change and nature degradation to cause significant economic disruptions, these environmental crises should be integrated into policy frameworks alongside factors such as globalisation, demographics and financial innovation. They pose severe risks that can affect the business cycle and there is an urgent need for thorough analysis and decisive policy action. During Hurricane Sandy, for example, coastal wetlands in the northeastern United States prevented USD 625 million in flood damages.[
+5
+] This illustrates how reduced capacity of ecosystems to protect against floods increases the likelihood that future extreme rainfall events will cause flooding, disrupting economic activity at the business cycle frequency. The loss of such ecosystem services can lead to greater damage, with long-lasting effects on the economy, infrastructure and financial stability of the region concerned.
+
+This article discusses the implications of nature degradation and biodiversity loss for the economy and financial stability. It explores the drivers of biodiversity loss, its interconnection with climate change, and the material impact of these risks in the euro area. The article also highlights progress in quantifying nature-related risks, featuring a box with assessments by Dutch and French financial institutions. Finally, it outlines the next steps for managing these risks and their implications from a central bank perspective.
+
+2 Drivers of biodiversity loss and the interconnection with climate change
+Human activity impoverishes biodiversity and threatens the continued provision of crucial ecosystem services. Human demands have exceeded the planet’s ability to sustainably provide ecosystem services, resulting in unprecedented rates of nature degradation and biodiversity loss.[
+6
+] Monitored wildlife populations across the world have declined by an average of 69% since 1970.[
+7
+] The global rate of species extinction is currently tens to hundreds of times higher than the average over the past ten million years.[
+8
+] Europe is no exception, with over 80% of habitats now deteriorating.[
+9
+] The conservation status and habitat trends are worse for pollinators than for other species.
+
+The primary drivers of biodiversity loss and ecosystem change are land and sea use, climate change, overexploitation of natural resources (living and non-living), pollution and invasive species.[
+10
+] Land and sea use includes the conversion of pristine habitats such as forests and wetlands to other purposes, including agricultural land and urban areas. Nearly 420 million hectares of forests have been lost worldwide since 1990, an area the size of the European Union. Climate change is a rising threat for biodiversity, already endangering one in six species globally. It also jeopardises ecosystems that serve as vital carbon stores and are crucial for meeting climate mitigation targets. Invasive species, introduced by human activity, can disrupt local ecosystems, displace native species and significantly affect the economy, the environment and public health. They play a key role in 60% of global plant and animal extinctions, leading to global economic costs exceeding $423 billion annually in 2019.[
+11
+]
+
+Biodiversity loss can also amplify climate change and related risks, particularly when ecosystems that store carbon or provide adaptation benefits are degraded or lost. Restoring ecosystems can reduce climate-related risks. But the reverse is not always true: measures to combat climate change can benefit nature but may also contribute to its degradation. Examples include inadequately planned reforestation initiatives, such as monocultures, or the mining of minerals critical to the energy transition in biodiversity hotspots. These situations highlight the reinforcement of risks and potential trade-offs, necessitating an integrated approach to addressing climate and broader nature-related risks.[
+12
+]
+
+With the scale of nature degradation becoming clearer by the day, efforts to halt and reverse nature loss are accelerating, which in turn also requires financial institutions to manage related economic and financial risks. In December 2022 the EU and 195 countries adopted the Kunming-Montreal Global Biodiversity Framework (GBF), which is seen as being as important for nature and biodiversity as the 2015 Paris Agreement has been for galvanising action against climate change. The GBF incorporates targets such as the protection of at least 30% of the world’s land and water by 2030 and the reduction of harmful government subsidies by at least USD 500 billion per year. Additionally, it aims to mobilise at least USD 200 billion annually by 2030, from both public and private sources, to effectively support biodiversity strategies, such as encouraging private investments and promoting innovative financial mechanisms. Importantly, it requires signatories to act to ensure that financial institutions “regularly monitor, assess, and transparently disclose their risks, dependencies and impacts on biodiversity including […] along their operations, supply and value chains and portfolios.”[
+13
+]
+
+To address the concerning rate of ecosystem degradation, the EU, under the umbrella of the European Green Deal, is implementing a range of targeted policies and legislation. Examples include the EU’s biodiversity strategy for 2030, plans to enhance the EU Birds and Habitats Directives, and the EU Pollinators Initiative. In June 2024 the EU adopted the Nature Restoration Law, a regulation focusing on actions such as restoring degraded ecosystems, enhancing biodiversity, increasing green urban spaces and improving the resilience of natural habitats to climate change.[
+14
+] EU countries are required to submit their National Restoration Plans to the Commission within two years of the law coming into effect. These plans must outline their strategies for meeting the established targets. The Nature Restoration Law introduces transition risks as businesses will need to adapt to new regulations, but it also offers long-term benefits for financial stability through the preservation of ecosystems and their services.
+

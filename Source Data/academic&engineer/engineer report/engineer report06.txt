@@ -1,0 +1,48 @@
+Combatant Command Intelligence Enterprise Management Support Office (CCI EMSO) guides the development, modernization, alignment, and integration of Combatant Command Intelligence (CCI) enterprise capabilities and systems as part of the Defense Intelligence Enterprise. This program focuses on information technology (IT) and data centric gaps, and builds consensus across the Combatant Commands, Combat Service Agencies, and services to accelerate enterprise IT solutions to the Warfighter. It also provides foundational data analytics, enterprise architectural research, and modeling across the CCI community. CCI EMSO includes a cloud-based research and assessment computing environment leveraging advance computing and storage technologies. It provides data-driven research, portfolio assessment and management, and decision support to enable OUSD(I&S)'s governance and management of the CCMD Intelligence Enterprise. Combatant Commands (CCMDs) require a cohesive, flexible innovative IT enterprise that rapidly transforms and adapts to ensure intelligence content informs solution analysis, planning, warfighter operations, and strategic decision making. This program office actively engages with the CCMDs and service providers to refine requirements, identify potential solutions, and advocate for the modernization, alignment, and integration of enterprise capabilities critical to the warfighter. CCI EMSO champions CCMD Intelligence IT requirements during the implementation of DoD's Digital Transformation Strategy and OUSD(I&S) Digital Transformation Campaign Plan. The CCI EMSO is at the nexus of multiple service providers, networks, systems, applications, classification levels, and funding. The vast majority of these IT services are tailored to Intelligence Community (IC) users vice CCMD-specific missions or needs. OUSD(I&S) and Joint Staff sponsored a capabilities based assessment resulting in an Intelligence System Initial Capability Document (IS-ICD - JROCM 094-16) and a Doctrine, Organization, Training, materiel, Logistics, Personnel, Facilities - Policy (DOTmLPF-P) Change Request (DCR - JROCM 088-17). In response, OUSD(I&S) coordinated with the Air Force to create the CCI EMSO, formerly Combatant Command Intelligence Information Technology Provisional Program Activity Office (CCIIT PPAO). OUSD(I&S) Digital Transformation Campaign Plan directs CCI EMSO to support the modernization and management of the CCI IT Enterprise for the CCMDs. This program enables long term research and evaluation of systems and processes capable of supporting the CCI Enterprise. This program element may include necessary civilian pay expenses required to manage, execute, and deliver weapon system capability. The use of such programs funds would be in addition to the civilian pay expenses budgeted in program element 0605827F, 0605828F, 0605829F, 0605831F, 0605832F, 0605833F, 0605898F, 0606398F. In PY $0.00M was expended for civilian pay expenses in this program element, and in CY $0.00M is forecasted for civilian pay expenses in this program element. This program is in Budget Activity 7, Operational System Development because this budget activity includes development efforts to upgrade systems that have been fielded or have received approval for full rate production and anticipate production funding in the current or subsequent fiscal year.
+
+Combatant Command Intelligence Enterprise Management Support Office (CCI EMSO) guides the development, modernization, alignment, and integration of
+Combatant Command Intelligence (CCI) enterprise capabilities and systems as part of the Defense Intelligence Enterprise. This program focuses on information
+technology (IT) and data centric gaps, and builds consensus across the Combatant Commands, Combat Service Agencies, and services to accelerate enterprise IT
+solutions to the Warfighter. It also provides foundational data analytics, enterprise architectural research, and modeling across the CCI community. CCI EMSO includes
+a cloud-based research and assessment computing environment leveraging advance computing and storage technologies. It provides data-driven research, portfolio
+assessment and management, and decision support to enable OUSD(I&S)'s governance and management of the CCMD Intelligence Enterprise. Combatant Commands
+(CCMDs) require a cohesive, flexible innovative IT enterprise that rapidly transforms and adapts to ensure intelligence content informs solution analysis, planning,
+warfighter operations, and strategic decision making. This program office actively engages with the CCMDs and service providers to refine requirements, identify
+potential solutions, and advocate for the modernization, alignment, and integration of enterprise capabilities critical to the warfighter. CCI EMSO champions CCMD
+Intelligence IT requirements during the implementation of DoD's Digital Transformation Strategy and OUSD(I&S) Digital Transformation Campaign Plan. The CCI EMSO
+is at the nexus of multiple service providers, networks, systems, applications, classification levels, and funding. The vast majority of these IT services are tailored to
+Intelligence Community (IC) users vice CCMD-specific missions or needs.
+OUSD(I&S) and Joint Staff sponsored a capabilities based assessment resulting in an Intelligence System Initial Capability Document (IS-ICD - JROCM 094-16) and
+a Doctrine, Organization, Training, materiel, Logistics, Personnel, Facilities - Policy (DOTmLPF-P) Change Request (DCR - JROCM 088-17). In response, OUSD(I&S)
+coordinated with the Air Force to create the CCI EMSO, formerly Combatant Command Intelligence Information Technology Provisional Program Activity Office (CCIIT
+PPAO). OUSD(I&S) Digital Transformation Campaign Plan directs CCI EMSO to support the modernization and management of the CCI IT Enterprise for the CCMDs.
+This program enables long term research and evaluation of systems and processes capable of supporting the CCI Enterprise.
+This program element may include necessary civilian pay expenses required to manage, execute, and deliver weapon system capability. The use of such programs
+funds would be in addition to the civilian pay expenses budgeted in program element 0605827F, 0605828F, 0605829F, 0605831F, 0605832F, 0605833F, 0605898F,
+0606398F. In PY $0.00M was expended for civilian pay expenses in this program element, and in CY $0.00M is forecasted for civilian pay expenses in this program
+element.
+This program is in Budget Activity 7, Operational System Development because this budget activity includes development efforts to upgrade systems that have been
+fielded or have received approval for full rate production and anticipate production funding in the current or subsequent fiscal year.
+
+
+Combatant Command Intelligence Enterprise Management Support Office (CCI EMSO) guides the development, modernization, alignment, and integration of
+Combatant Command Intelligence (CCI) enterprise capabilities and systems as part of the Defense Intelligence Enterprise. This program focuses on information
+technology (IT) and data centric gaps, and builds consensus across the Combatant Commands, Combat Service Agencies, and services to accelerate enterprise IT
+solutions to the Warfighter. It also provides foundational data analytics, enterprise architectural research, and modeling across the CCI community. CCI EMSO includes
+a cloud-based research and assessment computing environment leveraging advance computing and storage technologies. It provides data-driven research, portfolio
+assessment and management, and decision support to enable OUSD(I&S)'s governance and management of the CCMD Intelligence Enterprise. Combatant Commands
+(CCMDs) require a cohesive, flexible innovative IT enterprise that rapidly transforms and adapts to ensure intelligence content informs solution analysis, planning,
+warfighter operations, and strategic decision making. This program office actively engages with the CCMDs and service providers to refine requirements, identify
+potential solutions, and advocate for the modernization, alignment, and integration of enterprise capabilities critical to the warfighter. CCI EMSO champions CCMD
+Intelligence IT requirements during the implementation of DoD's Digital Transformation Strategy and OUSD(I&S) Digital Transformation Campaign Plan. The CCI EMSO
+is at the nexus of multiple service providers, networks, systems, applications, classification levels, and funding. The vast majority of these IT services are tailored to
+Intelligence Community (IC) users vice CCMD-specific missions or needs.
+OUSD(I&S) and Joint Staff sponsored a capabilities based assessment resulting in an Intelligence System Initial Capability Document (IS-ICD - JROCM 094-16) and a
+Doctrine, Organization, Training, materiel, Logistics, Personnel, Facilities - Policy (DOTmLPF-P) Change Request (DCR - JROCM 088-17). In response, OUSD(I&S)
+coordinated with the Air Force to create the CCI EMSO, formerly Combatant Command Intelligence Information Technology Provisional Program Activity Office (CCIIT
+PPAO). CCI EMSO is tasked to address these gap areas for the CCMDs. This program enables long term research and evaluation of systems and processes capable of
+supporting the CCI Enterprise.
+This program element may include necessary civilian pay expenses required to manage, execute, and deliver weapon system capability. The use of such programs
+funds would be in addition to the civilian pay expenses budgeted in program element 0605827F, 0605828F, 0605829F, 0605831F, 0605832F, 0605833F, 0605898F,
+0606398F. In PY 0.00M was expended for civilian pay expenses in this program element, and in CY 0.00M is forecasted for civilian pay expenses in this program
+element. 

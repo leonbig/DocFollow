@@ -1,0 +1,77 @@
+1. Introduction
+1.1. Defining Socioeconomic status (SES)
+Socioeconomic status (SES) is a multifaceted concept that broadly refers to an
+individual’s access to financial, social, cultural, and human capital resources [1]. In
+the western world, those of a lower SES attain lower grades, are less likely to
+progress to higher education, and consequently, will earn less than their better-off
+peers [2], and the longer a pupil has been disadvantaged, the lower their attainment
+[3]. As such, initiatives that encourage and enable pupils from lower socioeconomic
+backgrounds to succeed and progress to higher education have become a crucial
+policy goal in the United Kingdom [4]. To ensure the resources are targeted as
+effectively as possible, and achieve the goal of widening access, it has become vital
+to be able to accurately identify those from socioeconomically disadvantaged
+backgrounds.
+1.2. Using Free school meal entitlement or eligibility (FSME) as a proxy for low
+SES
+There is no “gold standard” measurement of SES in any field. Free school meal
+entitlement or eligibility (FSME) is used widely as a proxy for low SES or disadvantage
+in the UK [5], and around the world [6]. As a proxy, FSME is linked to one of the core
+indicators of SES - family income. There are various reasons for its widespread use:
+i) as a metric it is simple and easy to understand, ii) it is an objective measure (rather
+than based on children’s or parent’s subjective opinions of their SES), iii) it is routinely
+collected, and iv) it is updated regularly. FSME has become a valuable proxy indicator
+for poverty or low SES for researchers interested in factors that may impact upon
+educational outcomes, as well as other psychosocial outcomes [7].
+The terminology used to describe FSM entitlement and uptake differs between
+Northern Ireland and the rest of the UK. In England Scotland and Wales, a child that
+has (via their guardians) claimed and been approved for FSM is described as FSM
+eligible. In Northern Ireland, however, a child is described as FSM entitled if they have
+claimed and been approved for FSM. Currently in England, all children in reception,
+primary 1 and primary 2 are eligible for FSM. In Wales all reception pupils get FSM
+and by the end of 2024 in Wales, all primary school children will be eligible for FSM. Currently in Scotland, all pupils can get free school meals between reception and year
+five.
+1.3. Free school meals in Northern Ireland – eligibility and policy use
+The decision as to whether or not a pupil qualifies for FSM in NI is taken by the
+Education Authority (EA). To apply for FSM claimants who live in Northern Ireland and
+are in receipt of Income Support; Income Based Jobseeker’s Allowance; Income
+Related Employment and Support Allowance; or Guarantee Element of State Pension
+Credit must first obtain a Proof of Benefits Letter, through the Department for Works
+and Pensions website, and this must be submitted using the Education Authority’s
+online application process [8]. If a family is on Universal Credit (UC), or receive Tax
+Credits, they do not need to obtain a Proof of Benefits letter but must instead provide
+their Universal Credit Payments breakdown or their Tax Credits Award Notice or
+Annual Review Notice. UC was introduced in Northern Ireland in September 2017
+under the Northern Ireland (Welfare Reform) Act 2015 [9]. UC gives support to help
+people prepare for work, start work, or earn more money. It enables people to claim
+one benefit (UC) instead of having to submit multiple claims for the six benefits it
+replaces [3]. An NI pupil attending a full-time nursery or school in NI can apply for
+FSME if their parents/carers receive UC, and household net earnings are not over
+£14,000 a year. Also, FSME can be considered if parents/carers receive support under
+the Immigration and Asylum Act; get Child Tax Credit or Working Tax Credit with an
+annual taxable income of £16,190 or less; or a child has a statement of special
+educational needs and is designated to require a special diet, or boards at a special
+school. If none of the above apply to a child yet they present at school as hungry, then
+the school can provide free school meals to the child on humanitarian grounds. At the
+time of writing, a review is being carried out by the DE into the eligibility criteria for
+FSM.
+Schools in Northern Ireland are allocated funds through The Common Funding
+Scheme [10], which was established in 2005. The Targeting Social Need (TSN)
+component introduced in 2014, is additional money for schools to recognise that they
+may need more resources to teach children from socially deprived backgrounds. The
+allocation of TSN funds to schools is determined by percentage of FSME pupils in the
+school. This data is collected through the Annual School Census in October each year.  The data is held on the Schools Information Management Systems (SIMS). The
+School Census data is received by the DE Statistics and Research Team, who validate
+the data before providing it to policy leads in the Department. The budget for Targeting
+Social Need or disadvantage is £77million [10]. A TSN planner has been devised
+which schools complete alongside their school development plan, and almost every
+school gets some form of TSN funding.
+A second example of the use of FSME for operational purposes is the Extended
+Schools Programme, which has been in place since 2006. This programme targets
+the most disadvantaged schools, identified by having at least 37% of their pupils
+entitled to FSM or, who live in an area classified as disadvantaged (51% or more of
+their pupils living in either a Neighbourhood Renewal Area (NRA) or in the 30% most
+deprived Super Output Areas). This is calculated using FSM and pupil residence data,
+gathered as part of the Annual School Census exercise, and area of disadvantage is
+identified using the Northern Ireland Multiple Deprivation Measure (NIMDM) [11, 36].
+In Northern Ireland, in the 2020/21 academic year, 97,631 children were entitled to
+free school meals, which represents just over 28% of pupils [12]. 

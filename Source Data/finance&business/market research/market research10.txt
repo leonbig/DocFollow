@@ -1,0 +1,190 @@
+Conclusions and Policy Implications
+Declining birth rates and increasing life expectancy
+are leading to a sustained decline in population growth
+and significant changes in the age structure of econo-
+mies. As the share of the working-age population starts
+to decline in more and more countries, and the work-
+force becomes tilted toward older ages characterized by
+lower labor force participation and employment rates,
+demographic forces seem to be casting long shadows
+over prospects for living standards and public finances.
+However, there is a silver lining to the rise of the
+silver economy. The analysis in this chapter highlights
+that individuals across a diverse set of economies
+are aging in better health than previously. Increased
+longevity has been accompanied by improvements in
+the physical and cognitive capacities of older individu-
+als across subsequent cohorts—although there are still
+CHAPTER 2 The RISE OF the SILvER ECONOMy: GLObAL IMPLICATIONS OF POPULATION AGING
+sizable disparities across socioeconomic groups and
+countries. Importantly, this healthier-aging trend has
+also been associated with higher labor force participa-
+tion rates, a higher likelihood of being employed, and
+higher labor earnings for individuals ages 50 and older.
+Nevertheless, population aging, together with
+other forces such as waning catch-up growth in large
+emerging market economies, is expected to depress
+global economic growth. Even as ongoing gains from
+healthy aging are estimated to boost annual global
+growth by about 0.4 percentage point over 2025–50,
+the analysis in this chapter indicates that under current
+policies global output growth would decline on average
+by about 2 percentage points through the end of the
+century. With lower growth prospects and historically
+high levels of public debt, many countries will need
+significant fiscal efforts to keep debt-to-GDP ratios
+stable beyond 2030.
+A multifaceted policy approach is essential to deal
+with these challenges. Broad-based improvement in
+the functional capacity of individuals ages 50 and
+older over the past few decades shows that aging can
+be a malleable process (Scott 2023). Policies aimed
+at improving the human capital of older workers can
+enhance productivity and narrow the participation
+gap with prime-age workers. Emphasizing health
+promotion and prevention policies is warranted, and
+these policies need to be carefully deployed to address
+health inequalities. Measures that tackle behavioral risk
+factors throughout the course of life—such as tobacco
+smoking, harmful alcohol use, physical inactivity,
+and unhealthy diets—and other risk factors related to
+the environment and mental health can decrease the
+incidence of chronic diseases and health inequalities
+(Liu and others 2016; Rashbrook 2019; Lee, Park, and
+Lee 2020; Hacker 2024). Examples include immuni-
+zation, regular health checks, screenings for chronic
+diseases, campaigns to prevent substance abuse, tax-
+ation (for example, on tobacco and unhealthy food),
+regulations (for example, those to promote smoke-free
+environments), and providing access to mental health
+resources. These measures often span beyond the
+health care sector and are not necessarily costly. Evi-
+dence suggests many are cost-effective and can produce
+savings by reducing expenditure on health intervention
+down the road (McDaid, Sassi, and Merkur 2015;
+OECD 2015). Yet spending on health promotion
+and prevention accounts for only 1–6 percent of
+total health expenditure in member countries of the
+Organisation for Economic Co-operation and Devel-
+opment and tends to be cut disproportionately during
+downturns (Gmeinder, Morgan, and Mueller 2017;
+Hacker 2024).
+A comprehensive approach, combining pension
+reforms, training, and workplace adaptations, should
+complement health-oriented interventions to increase
+effective retirement ages in line with improvements in
+life expectancy. Besides changes to statutory retirement
+ages, reducing early retirement benefits, introducing
+incentives to postpone retirement, and allowing for
+phased retirement can induce a rise in effective retire-
+ment age. Pension system reforms need to balance
+sustainability with adequate protection to mitigate
+old-age poverty and inequality (Amaglobeli and others
+2019). More broadly, the malleability of aging and the
+diversity in health status and experience among older
+workers suggest that age-based provisions in policies
+are likely to be inefficient and should be reconsidered
+(see discussion in Scott 2023). Also, lifelong upskilling
+and reskilling programs are crucial to ensure individ-
+uals remain employable as they age. This becomes
+even more important at the cusp of a potential AI
+revolution, in which skilled older workers will be well
+positioned to reap the benefits given the complemen-
+tarity of their skills with AI, whereas unskilled workers
+may struggle to keep their jobs or manage successful
+job transitions (Box 2.3). Enhancing adaptability
+through flexible work arrangements and workplace
+adjustments that improve the age-friendliness of jobs
+can also support longer working lives. Combating
+biases and discrimination against older individuals is
+also important, as the former can limit access to reskill-
+ing opportunities and lead to premature exits from
+the labor force (Gaillard and Desmette 2010; Lamont,
+Swift, and Abrams 2015; Officer and others 2020;
+Alcover and others 2021).
+Policies aimed at reducing labor force participation
+gaps, particularly by fostering higher female labor
+force participation, can also provide substantial growth
+dividends to counter demographic headwinds. To avert
+an adverse impact on fertility, policies should aim for
+improving the work-life balance for women, including
+improved parental leave systems, expanding on afford-
+able childcare options, and promoting flexible work
+arrangements (Gu and others 2024).
+Furthermore, enhanced global integration can
+play a crucial role in supporting growth amid aging
+trends occurring at different paces and timings across
+countries. In particular, policies that enhance access
+to international financial markets—including credit
+International Monetary Fund | April 2025
+63
+WORLD ECONOMIC OUTLOOK: A CRITIC AL JUNC TURE AMID POLIC y ShIF TS
+and capital market reforms, as well as those strength-
+ening governance and institutions (Budina and others
+2023)—are key for enabling low-income countries to
+reap the benefits of still-positive demographic divi-
+dends (Box 2.1). Gains from deeper financial integra-
+tion can also offset the labor losses from migration
+outflows toward advanced economies, in which
+the additional workers can boost labor supply and
+output amidst an aging and dwindling workforce (see
+Chapter 3).
+The simulations in this chapter suggest that a
+combination of policies for boosting labor supply
+could attenuate the slowdown in global growth over
+2025–50 resulting from demographic headwinds
+by almost three-fourths. Although these progrowth
+policies could also contribute to higher global interest
+rates, they would nonetheless provide substantial fiscal
+dividends. Many countries would be able to rebuild
+fiscal buffers and create additional fiscal space to
+finance critical spending. Some economies, however,
+would still require additional fiscal efforts given the
+current precarious state of their public finances. In
+those cases, an early, gradual, and sustained effort is
+crucial to ensuring intergenerational fairness (Box 2.2)
+and maintaining economic stability amid ongoing
+demographic transitions.
+Although policies to boost labor supply and facil-
+itate cross-country factor mobility are key, they are
+not a substitute for efforts to reignite technological
+innovation and productivity growth—the ultimate
+driver of improvements in living standards. Structural
+reforms to promote market competition, financial
+accessibility, and labor market flexibility can boost pro-
+ductivity growth by fostering innovation, facilitating
+64 International Monetary Fund | April 2025
+a more efficient allocation of capital and labor across
+firms (see Budina and others 2023; April 2024 WEO,
+Chapter 3). They can also help countries benefit from
+technological advances such as AI-related technologies,
+which are complementary to labor in occupations
+more typical of older workers (Box 2.3) and can pro-
+vide the latter with skills and methods for coping with
+functional decline due to aging (Abril-Jimenez and
+others 2022).
+Technological progress and innovation can be import-
+ant not only for countering the adverse effects of pop-
+ulation aging on output growth, but also for enhancing
+the malleability of aging itself. Promoting research and
+development in the scientific understanding of biologi-
+cal aging has the potential to further extend healthy lon-
+gevity in the decades ahead (Cox 2022). Furthermore,
+AI-based solutions in health care hold potential for
+transformation through scaling up of preventive health
+practices (Chan and others 2024), for instance by auto-
+mating routine tasks such as screening and diagnostics.
+They can also bring clinical expertise to underserved
+and remote areas, helping to reduce the heterogeneity in
+physical and cognitive capabilities of older individuals
+documented in this chapter. For example, the Aravind
+Eye Care System in India has deployed AI-based tools to
+screen millions of retinal images for diabetic retinopathy,
+effectively addressing the country’s shortage of ophthal-
+mologists and preventing vision loss among patients
+(Yu, Beam, and Kohane 2018).
+Ultimately, the rise of the silver economy brings
+both challenges and opportunities, making a compre-
+hensive and proactive policy approach essential for
+navigating the challenges of population aging while
+harnessing the benefits of longer, healthier lives.

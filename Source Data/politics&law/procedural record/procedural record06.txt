@@ -1,0 +1,52 @@
+All presidents want to claim they’ve lowered interest rates for American consumers and businesses. And, like most politicians, presidents tend to blame the Fed when the economy goes south.
+
+But President Trump has all but declared war on Jerome Powell, his hand-picked chair of the Federal Reserve. Amping up his first-term attacks, Trump has repeatedly criticized Powell for failing to lower interest rates to juice the 2025 economy. And even though the Senate in 2022 confirmed Powell to a second four-year term through May 2026, Trump recently said he wants a new Fed chair: Powell’s termination, Trump broadcast, “cannot come fast enough.” 
+
+Would a presidential pink-slip for Powell be legal? Scholars disagree, and Trump has backed off – for now. But White House advisors reportedly have studied the question. And Trump has already fired a number of Democratic-appointed members serving on other independent agencies. As those cases play out in the courts, Powell has vowed to stay put.
+
+The fate of Fed independence might rest in Supreme Court hands. But what’s at stake goes well beyond legal rules. Governing norms and politics – from Washington to Wall Street – also shape perceptions of America’s central bank independence. And those perceptions matter, especially to bond and stock markets already significantly rattled by Trump’s tariff-induced turmoil and his on again, off again threats to fire Powell.
+
+Fed independence, in theory
+Central bankers prefer that people view the U.S. Federal Reserve as an independent, technocratic institution that’s insulated from politics. Open up the Federal Reserve Act, however, and you won’t find a tidy section that “grants” the central bank its “independence.” The same is true for many other federal agencies – including those whose Democratic appointees Trump has already canned. 
+
+Instead, when Congress creates or revamps an agency, lawmakers select a set of legal rules that afford more or less protection along two different dimensions. First, how independent are the decision-makers? For instance, did Congress block the president from removing them over policy differences? Second, how independent is agency decision-making? Could, for example, the president’s budget experts quash proposed agency regulations?
+
+Across more than 100 U.S. agencies created over the past century, Congress gave the Federal Reserve the strongest combination of legal features to protect it from political interference in carrying out its congressional mandates. Under the Federal Reserve Act, the president nominates – and the Senate confirms – seven Fed governors for remarkably long, 14-year terms, unsynchronized with presidential elections. The law also says a president can only remove a governor “for cause,” which courts have historically interpreted to prohibit presidents from firing appointees over policy differences. Congress also took the Fed off the books: Congress funds neither Fed salaries nor operations, eliminating another pathway by which politicians could put their hooks into the Fed. The central bank supports itself with income from its open-market operations, the buying and selling of U.S. Treasury bonds. 
+
+This issue involves more than laws 
+Interdependence – more so than independence – best captures the Fed’s relationship with Congress. Here’s why:
+
+1. The Fed needs political support. 
+Even with legal safeguards, Fed officials can’t risk getting too far out of step with lawmakers. Why not? Congress often reacts to economic downturns by changing laws in ways that redefine the Fed’s mandates, its powers, or its responsibilities. One House committee chair in 1995, for example, browbeat Fed Chair Alan Greenspan to publicly release verbatim transcripts of key meetings, forcing greater accountability to Congress. Of course, Congress also needs the Fed: 538 legislators cannot act quickly in an economic crisis, and likely can’t be trusted with their hands on interest rate dials. And, like the president, lawmakers also want someone to blame in an economic downturn. 
+
+2. Governing norms matter and presidents have always loomed large. 
+For example, when Congress created the Fed in 1913, lawmakers installed the Treasury secretary on the Federal Reserve Board, allowing him to help set both fiscal and monetary policy. Even after Congress reorganized the board and removed the secretary, presidents continued to influence interest rates. Most noticeably, Franklin D. Roosevelt’s administration insisted the Fed peg rates exceedingly low, especially in the wake of the 1941 attack on Pearl Harbor, and pressured the Fed for over a decade to keep rate caps in place, sparking years of inflation.
+
+On paper, a 1951 Treasury-Fed accord clarified reporting lines – shifting more authority and operational oversight from the executive to Congress. But presidents can’t be contained: No gentlemen’s accord could rein in chief executives. Lyndon Johnson and Richard Nixon, for example, pressured the Fed to loosen policy– likely contributing to devastating stagflation in the 1970s. More recently, Congress revamped Fed emergency lending in the wake of the 2008 financial crisis. Now, the very essence of central banking– serving as the lender of last resort– depends on the executive branch co-signing the loan. 
+
+3. Shifting and increasingly partisan political winds envelop the Fed – especially when the president attacks. 
+It’s true that sometimes other branches come to the Fed’s defense. In the past, the Fed might also have counted on more robust support from Congress and the Supreme Court. But today’s more Trumpian Republican legislators and recent judicial decisions favoring presidential power likely dampen support for the Fed.
+
+4. Market reactions are critical.
+We’ve seen this in recent weeks, as the markets responded to the Trump tariffs. The president’s attacks on Powell prompted additional financial uncertainty – visible in the slumping stock and bond markets and rising interest rates. Continued market turbulence might not deter Trump from bullying Powell, but it might dissuade Trump from actually firing him. After all, lower stock prices and higher interest rates tighten financial conditions – the very opposite of what the president is demanding. And none of this is helpful in taming inflation. 
+
+How might the courts rule?
+Humphrey’s Executor v. United States – a Supreme Court precedent from 1935 – generally bars the president from removing Senate-confirmed officials except, specifically, “for cause.” In question, in this case, was an official of the brand-new, multi-member Federal Trade Commission, which the court found primarily exercised legislative and judicial authorities. The court held that FTC officials were protected from presidential removal since the agency did not fall squarely under the president’s executive umbrella.
+
+How would the Supreme Court rule if Trump fires Powell, and he sues to keep his job? The court and the Trump administration have left us a few clues. 
+
+First, the Trump administration has called for the court to overturn Humprey’s Executor, arguing that this case unconstitutionally limits presidential control of the executive branch. Trump has fired Democratic members of other multi-member boards, which could set up test cases with direct implications for how the Supreme Court might think about a president firing Fed officials.
+
+Second, a majority of the current Supreme Court favors bolstering presidential authority by limiting legislative incursions on executive power. The court has chipped away at the autonomy of independent agencies, even whittling down Humphrey’s Executor in Seila Law LLC v. Consumer Financial Protection Bureau in 2020. The court held the president could fire the head of the Consumer Financial Protection Bureau since all authority was concentrated in the hands of that single director, and the agency’s work was overwhelmingly executive. We don’t know (yet) how far this court would be willing to apply this stance towards multi-member commissions like the Fed. And would the court consider the Fed’s work primarily legislative, executive, or judicial?
+
+Third, the structure of the Federal Reserve is more complex than that of most agencies. The Constitution grants Congress the power “to coin money and regulate its value.” Congress subsequently assigned the Fed responsibility for monetary policy, as well as regulating and supervising certain types of banks. That complicates a court determination that the Fed’s work is simply executive. Also, the Federal Reserve Act explicitly protects Fed governors from presidential removal. However, Congress did not write “for cause” protection into the law when it required in 1977 that Fed chairs also be confirmed separately by the Senate for their four-year term. It is possible the court would allow Trump to dismiss Powell as chair but block the president from removing Powell from the Federal Reserve Board, where he could remain as a voting member until his separate term as governor ends in early 2028.
+
+A final note: Some justices have provided clues to how they view limits on the president’s ability to hire and fire top Fed authorities. Justice Samuel Alito’s dissent in CFPB highlights the Fed’s “special arrangement sanctioned by history.” Even the majority opinion nodded to Alito’s protective stance towards the Fed, suggesting that perhaps the justices agreed that the Federal Reserve “can claim a special historical status.” 
+
+Would a Supreme Court majority fear upsetting financial markets and unleashing inflation by allowing the president to summarily dismiss any uncooperative Fed chair or governor? Carving out protection for the Fed might require ad hoc arguments that exempt the Fed from the court’s overt campaign to expand presidential power. An exemption would send a strong signal that the health of the American economy relies on a credible central bank. If not, the justices risk roiling financial markets and the economy – and with it, the Trump presidency.
+
+Sarah Binder is a Good Authority editor, a professor of political science at George Washington University, and senior fellow at the Brookings Institution. She studies American political institutions, especially Congress. 
+
+Mark Spindel is founder and chief investment officer at Potomac River Capital, a Washington-based investment firm.
+
+Sarah Binder and Mark Spindel are co-authors of the award-winning The Myth of Independence: How Congress Governs the Federal Reserve (Princeton University Press, 2017).

@@ -1,0 +1,292 @@
+Abstract
+This collaborative self-study of teacher educators’ feedback practices argues for
+an intentional process for teacher educators to develop an inquiry stance toward
+our own teaching. Data sources include formative observation forms, evaluations,
+observation notes, debriefings, surveys, researcher journals, and layered memos.
+Findings define influences and shared patterns of practice. Our professional
+learning from this self-study built our capacity as teacher educators by informing
+our development of an inquiry feedback cycle rooted in representations,
+approximations, and decomposition of practice (Grossman et al., 2009) to
+intentionally model and scaffold the development of an inquiry stance toward
+practice in our teacher candidates.
+Cochran-Smith and Lytle (1993) introduced the concept of an “inquiry
+stance” as a professional orientation that teachers could leverage to not only
+withstand, but thrive, in an often-tumultuous climate of ongoing educational
+reform. They defined inquiry stance as “the position teachers and others who
+work together in inquiry communities take toward knowledge and its relationships
+to practice” (p. 288). Inquiry stance as a tool is particularly powerful because the
+orientation fosters educators’ ongoing professional learning across their career
+trajectories (Cochran-Smith & Lytle, 1993; 2001; 2009; Crocco, Faithfull, &
+Schwartz, 2003). Wolkenhauer and Hooser (2017) argue that developing an
+inquiry stance in teacher candidates (TCs) is essential to supporting them as new
+teachers because inquiry can be used as a “tool” to build teachers’ flexibility,
+advocacy, leadership, and professional identity (pp. 9-10). As teacher educators,
+we asked - How could we build our own capacity to model an inquiry stance for
+our TCs? We explored that question by engaging in professional inquiry.
+Often, without a clear pedagogy of teacher education (Cochran-Smith,
+2003), new teacher educators are left to rely on preparing teachers in the same
+ways they taught their K-12 students (Cuenca, 2010). Given the meaningful
+differences in the instructional context and needs of post-secondary and K-12
+students, teacher educators need to build capacity to adapt their teaching practice
+to higher education (Neumann, 2014). Moreover, increasing attention to the
+performance of teacher preparation programs and teacher quality is generating a
+heightened need for research into the professional learning of teacher educators to
+build capacity to teach postsecondary students in teacher preparation programs
+(Williams, 2014). Meta-analyses on faculty learning for postsecondary teaching
+1
+Dismuke et al.: Building Capacity in Teacher Preparation with Practitioner Inquiry
+Published by Digital Commons @ University of South Florida, 2019
+call for more qualitative research that utilizes a plethora of data sources
+(Levinson-Rose & Menges, 1981; Steinert et al., 2006; Stes, Min-Leliveld,
+Gijbels, & Van Petegem, 2010); more robust descriptive language of practice to
+serve as a foundation for future inquiry (Stes et al., 2010); and a more holistic
+examination of professional learning efforts to better understand the potential of
+specific practices (Amundsen & Wilson, 2012).
+As teacher educators and full-time faculty, we took up these calls in this
+collaborative self-study. In particular, we saw this self-study as an opportunity to
+develop our own inquiry stances and to build capacity to foster that professional
+habit in our TCs. We utilized a collaborative self-study approach to our
+practitioner inquiry to illustrate how the experience taught us about our own
+practice, to inform our theorizing about teacher preparation, and to allow us to
+more systematically model what it look likes to take an inquiry stance toward
+teaching and learning. We also strived to contribute a rich, holistic description of
+a case of faculty learning about teaching that focuses on a promising teaching
+framework, drawing on a theory from the more developed field of K-12 teacher
+education (Amundsen & Wilson, 2012; Neumann, 2014).
+Our self-study focused on giving TCs feedback during their clinical field
+experience, since research suggests that feedback is a particularly powerful
+teaching practice (Hattie & Timperley, 2007) and field supervision is a fruitful
+context to engage in practitioner inquiry (Zeichner, 2010). As teacher educators,
+we view feedback as a critical mechanism that bridges TCs’ learning in university
+coursework and their classroom placements, answering over two decades of
+scholarship and policy calling for teacher educators to ground teacher preparation
+in instructional practice (Ball & Cohen, 1999; Conway & Munthe, 2015; Jenset,
+Klette, & Hammerness, 2017; Zeichner, 2012). Mindful of this need, we engaged
+in self-study to examine our own clinical feedback practices to:
+...transcend the practicalities (and limitations) of discrete teaching skills
+and tools gained from previous teaching experience; and develop ways of
+thinking about and approaching teaching and learning that promote the
+application of a professional repertoire to a vast array of dilemmas, most
+of which cannot possibly be anticipated beforehand (Goodwin & Kosnik,
+2013, p. 337).
+Investigating our practice of giving feedback to TCs contributes to the
+understanding of skilled teacher education by investigating a central practice and
+its enactment in the field (Pinnegar & Hamilton, 2009). We asked,
+● What do we, as teacher educators, learn about our own feedback and
+feedback practices after analysis of our own feedback, that of our peers,
+and our teacher candidates’ perceptions of our feedback?
+2
+Journal of Practitioner Research, Vol. 4 [2019], Iss. 1, Art. 5
+https://digitalcommons.usf.edu/jpr/vol4/iss1/5
+DOI: <p>https://doi.org/10.5038/2379-9951.4.1.1095</p>
+● How does participation in this collaborative self-study build our capacity
+as teacher educators to model and engage candidates in taking an inquiry
+stance toward practice?
+Theoretical Framework
+This self-study is framed by the mission to develop and maintain an
+inquiry stance within a community of practice by taking a critical lens toward our
+opportunities to teach practice through the clinical feedback cycle to our TCs.
+Inquiry Stance in Communities of Practice
+Exploring the connections between classroom teaching and teacher
+education practices is a complex endeavor (Martin & Dismuke, 2018; Cochran‐
+Smith et al., 2016; Davis & Sumara, 2006; Grossman et al., 2009). Teacher
+education programs that emphasize an inquiry stance toward teaching and teacher
+education provide spaces for teacher educators to unpack complexity by making
+“problematic their own knowledge and practice as well as knowledge and practice
+of others and thus stand in a different relationship to knowledge and action”
+(Cochran‐Smith & Lytle, 2009, p. 614). We agree with Hamilton (2009) that,
+while individual reflection is beneficial, learning in small groups may enhance the
+social construction of teaching knowledge, resulting in more substantial change in
+practice. We adopted Wenger, McDermott, and Snyder’s (2002) definition of a
+community of practice: a group of people “who share a concern, a set of
+problems, or a passion about a topic, and who deepen their knowledge and
+expertise in this area by interacting on an ongoing basis” (p. 4). Investigating
+complexities of clinical experiences together provides opportunities for “both
+individuals and the collective to develop new and shared understandings” (Martin,
+Snow, & Torrez, 2011, p. 300), advancing our faculty learning goals.
+Teaching Practice Utilizing Representations, Decomposition, and
+Approximations
+We explored the theory that teacher education programs could improve the
+teaching of instructional practice if we provide scaffolding through
+representations, decomposition, and approximations of practice (Grossman et al.,
+2009). Representations of practice deal explicitly with the problem of familiarity
+by making less familiar and more challenging components of the work visible
+(Grossman et al., 2009). Thus, the selection of representations for clinical teacher
+education is a significant one since those representations will shape novice
+awareness of the landscape of practice and foster a nuanced view of practice. The
+decomposition of practice “involves breaking down practice into its constituent
+parts for the purposes of teaching and learning” (Grossman et al., 2009, p. 2056).
+3
+Dismuke et al.: Building Capacity in Teacher Preparation with Practitioner Inquiry
+Published by Digital Commons @ University of South Florida, 2019
+Through the decomposition of larger, complex components of practice into
+smaller, more manageable parts, teacher educators can help novices better manage
+the complexity of practice. Approximations of practice provide novices with the
+opportunity to practice in front of an expert (e.g., teacher educators). These first
+enactments of practice are understood as carefully constructed opportunities for
+novices to practice components of teaching, in their decomposed or recomposed
+forms, in contexts that vary in their degree of authenticity (Grossman et al.).
+Grossman et al. (2009) argue that the integration of representations,
+decomposition, and approximations of practice are critical in teacher education to
+support TCs in becoming well-started beginning teachers. In our clinical context,
+we considered what this integration might look like in debriefing conferences
+between supervisors and TCs. In other words, how might those conferences
+change if we deliberately attended to the integration of representations and
+decompositions of practice to examine the teaching just observed and then
+considering the feedback informing TCs’ future approximations of practice? We
+decided as a community of practitioners to begin our inquiry into our feedback
+practices by examining our extant practices using Grossman and colleagues’
+teaching of practice as one of our lenses to guide our analysis of our collaborative
+self-study inquiry data.
+Modes of Inquiry
+Taking an inquiry stance toward our own feedback practices, we engaged
+in a collaborative self-study (Merriam, 1998; Pinnegar & Hamilton, 2009,
+Hamilton, 2009) to uncover and learn from the patterns that exist in our feedback
+practice. Research has documented self-study as an effective mode of practitioner
+inquiry to illuminate what is, generate collaborative knowledge development, and
+improve teaching practices (Louie, Drevdahl, Purdy, & Stackman, 2003). The
+study was guided by a collaborative, hierarchical approach to our reflection
+(Nelson & Sadler, 2013; Valli, 1997). Samaras and Freese (2006) explain that
+taking a collaborative self-study approach “encourages reflection beyond the self”
+and leads to “different perspectives, probing question, opportunities for
+clarification, and alternate explanations” (p. 58). Reflection on feedback data
+from multiple sources and lenses progressed through five hierarchical levels:
+technical, reflection-in and on-action, deliberative, personalistic, and critical
+(Nelson & Sadler, 2013). We engaged in this research with the goal of improving
+our own practice, learning from and with one another as a community of practice,
+and building capacity in ourselves and our program for continuous improvement
+(LaBoskey, 2007; Hamilton 2009; Bullough & Pinnegar, 2007).
+4
+Journal of Practitioner Research, Vol. 4 [2019], Iss. 1, Art. 5
+https://digitalcommons.usf.edu/jpr/vol4/iss1/5
+DOI: <p>https://doi.org/10.5038/2379-9951.4.1.1095</p>
+Context
+The state within which we enacted this self-study has adopted the
+Danielson Framework for Teaching (FFT; Danielson, 2013) for all educators in
+the state, pre‐service through in‐service. Understanding of this framework as a
+developmental approach to instructional supervision and evaluation shapes, to
+differing degrees, the feedback TCs receive. Additionally, several evidence-based
+instructional “core practices” have been agreed upon by this teacher education
+program as a set of “high-leverage practices that cut across grade levels and
+subject matter” (Grossman, Hammerness, & McDonald, 2009, p. 5). At our
+institution, these core practices included “high yield strategies”, such as
+summarizing and non-linguistic representations (Marzano, Pickering & Pollock,
+2001), and qualities of engagement, such as clearly modeled expectations and
+student choice (Antonetti & Garver, 2015). Formative observation forms are used
+to assess TCs four times a semester during classroom observations on the FFT
+components and core practices to ensure all TCs receive formative feedback on
+their practice. Professional Year Assessments (PYAs) are aligned with the FFT
+and used to evaluate TCs’ progress in the middle and at the end of the semester.
+Those who engage in TC supervision in the university and state where this study
+takes place must be trained and certified in the FFT with their first year. We
+believe this helps us create a shared language for discussing instruction and goal
+setting.
+Participants
+Participants include three university-based supervisors, five TCs in their
+Professional Year, and their school-based mentor teachers. Supervisors worked in
+triads with TCs and mentors in three different school settings. In this self-study,
+the three teacher educators serve as both researchers and participants. Teacher
+educator roles included teaching a variety of education methods courses and
+acting as supervisors for multiple elementary (K-8) TCs during their yearlong
+clinical field experiences (professional year) in partnership schools with high
+numbers of students receiving support due to their status as English Language
+Learners (ELLs), refugees, or living in poverty. The TCs in this study were all
+women in their early 20s. One of the five TCs identifies as Latina and the other
+four as White. Mentor teachers all had more than five years of teaching
+experience and were nominated by their principals to serve as mentors.
+Jordan is a third-year clinical assistant professor who obtained her FFT
+certification three years ago and is in her fifth year of supervision. Jordan’s TC,
+Kelsey and her mentor teacher, consented to participate in this study. Aliza is a
+new tenure-track assistant professor and at the beginning of this study had not yet
+completed her FFT training. Aliza’s TCs, Piper and Cordelia, participated with
+5
+Dismuke et al.: Building Capacity in Teacher Preparation with Practitioner Inquiry
+Published by Digital Commons @ University of South Florida, 2019
+her as did their mentor teachers. Adelaide, also a tenure-track assistant professor
+had passed her FFT certification and was in her second year of clinical
+supervision. Her TCs, Ruby and Keren and their mentors participated. We
+supported TCs and mentor teachers through seminars in addition to conducting
+weekly observations.
+Data Sources and Analysis
+To inform our inquiry, we collected eight formative observation forms
+(four per semester), four PYAs (two per semester), and all written observation
+memos across the 2016-2017 school year for each TC. We audio-recorded and
+paid a professional to transcribe verbatim our debriefing conferences after the
+observations and the PYA triad debriefing conversations. Additional data sources
+included a TC survey on their perceptions of our feedback, three researcher
+surveys, researcher journals kept throughout data analysis, and two rounds of
+layered memos. All surveys were conducted through Qualtrics, an electronic
+survey application. Data analysis progressed through the five hierarchical stages
+of reflection (Nelson & Sadler, 2013) and unfolded in three sequential stages; preanalysis, during coding analysis, and post coding analysis. Figure 1 outlines the
+sequence of the data analysis.
+Figure 1. Data Analysis Sequence
+Pre-analysis. Before interacting with any data, we engaged in memory
+work, a methodological approach in self-study used to represent autobiographical
+inquiry (Samaras & Freese, 2006) by completing Survey One. This survey first
+Pre-Analysis
+•Memory Work
+•Personalistic
+Reflection
+During Analysis
+a. Individual
+b.Peer
+•Technical Reflection
+•Reflection in and on
+Practice
+•Personalistic
+Reflection
+•Deliberate Reflection
+Post Analysis
+Reflecting on all
+the data
+•Critical
+Reflection
+6
+Journal of Practitioner Research, Vol. 4 [2019], Iss. 1, Art. 5
+https://digitalcommons.usf.edu/jpr/vol4/iss1/5
+DOI: <p>https://doi.org/10.5038/2379-9951.4.1.1095</p>
+prompted us to recall an instance of meaningful feedback we provided to TCs and
+document the interactions. The next prompt elicited wonderings, predictions, and
+fears regarding the examination of our own feedback data. After completing the
+memory work survey, each of us created personalistic narrative journal entries
+documenting our anticipation about what we might see in the data.
+During analysis. We engaged in qualitative cyclical coding (Saldaña,
+2016) of our own feedback data sources where we first read and identified initial
+emerging codes in the transcripts. These codes were aligned with the research
+questions and our experiences. Next, we “chunked” the codes into themes to
+identify primary trends across documents, highlighting key characteristics of
+individual feedback patterns and experiences, and writing memos, journal entries
+regarding critical and reflective noticings. Finally, we completed Survey Two,
+which prompted us to identify evidence of our own feedback patterns. In this
+phase, we first engaged in technical reflection by coding data for feedback that
+reflected our application of the FFT and core practices. We moved to reflection in
+and on practices as we noticed how our feedback was adapted to our individual
+TCs and contexts and personalistic reflection searching for our own patterns and
+connections to our past experiences.
+We then discussed our individual memos to agree upon procedures for
+reading one another’s transcripts, memos, and personal journals. We discussed
+what it means to be a “critical friend” (Hamilton, 2009), tending to
+trustworthiness, integrality, and potential difference in our analysis. For example,
+Aliza said in our meeting, “Remember when you read mine that I am new to this.”
+This helped us established boundaries in our feedback to one another. We agreed
+on a sampling of each other’s data to review and provide wonderings and
+comments in a layered response format. For example, to begin, Adelaide read
+Jordan’s data and memos, she created comments and questions about the memos
+in a separate column on the page. Next, Aliza read Jordan’s initial data and
+memo’s along with Jordan’s comments and then added on her thoughts in a third
+column extending or layering on new perspectives. At this point, we engaged in
+deliberate reflection, considering and critiquing the practice of our peers.
+Additionally, one of us conducted frequency counts of types of goals set per
+observation in alignment with the FFT and a comparative analysis of the
+percentage of words spoken during debriefings to create qualitative and
+quantitative linkages (Miles, Huberman, & Saldaña, 2014).
+Post Analysis. After reading the feedback and memos from our peers as
+well as the TC surveys and quantitative analysis, we created response memos on
+each source and completed Survey Three. We reflect on our TC’s and critical
+7
+Dismuke et al.: Building Capacity in Teacher Preparation with Practitioner Inquiry
+Published by Digital Commons @ University of South Florida, 2019
+friends’ perceptions of our feedback practice to confirm, extend, and challenge
+ourselves and to set goals for future practice. We engaged in collaborative
+conversations to identify themes that extended across our practice. We analyzed
+the themes more deeply as they related to our research questions.

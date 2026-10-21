@@ -1,0 +1,181 @@
+Consumer prices accelerated surprisingly quickly in many countries in 2021 and 2022, and central banks
+responded by pushing up short-term interest rates at the fastest pace in decades, from levels near zero to
+around 5% or more. While this global monetary tightening appears to have been successful in fostering a
+return toward price stability, higher interest rates may also inadvertently slowed the transition to a low-
+carbon economy. Given the urgent need for a green transition to forestall further climate change, such
+potential adverse side effects raise serious concerns. Specifically, observers have worried that the increase in
+the cost of capital resulting from tighter monetary policy would significantly and disproportionately reduce
+investment in new renewable and green projects. For example, Schnabel (2023) highlighted concerns in
+Europe that the latest monetary policy tightening “may discourage efforts to decarbonize our economies
+rapidly.” She noted the competitive disadvantage of building renewable energy facilities at high interest
+rates. Intuitively, the substantial initial financing costs of renewable energy infrastructure together with
+minimal future fuel costs result in long-duration cash flow investments that should be particularly sensitive
+to interest rates. Indeed, research has highlighted the relevance of financing conditions for the production of
+renewable energy and identified the level of interest rates an important determinant of the cost of generating
+clean electricity; see Egli et al. (2018), Schmidt et al. (2019), and the references therein. Thus, the sharp
+rise in interest rates in recent years may have reduced investments in clean energy production and slowed
+decarbonization efforts (Monnet and van ’t Klooster, 2023; Aguila and Wullweber, 2024).
+Of course, a monetary tightening will likely slow business investment of all types. The key open empirical
+question is whether a monetary tightening has disproportionate effects on green investment, technologies,
+and businesses. Does monetary policy have heterogeneous effects so that low-carbon “green” companies are
+more sensitive to interest rates than higher-carbon “brown” firms? In this case, a tighter stance of monetary
+policy may unduly slow the green transition. In this paper, we investigate this issue and find little supporting
+evidence in financial markets for such adverse effects from tighter monetary policy. Instead, the equity prices
+of brown firms appear to be more sensitive to interest rate surprises than those of low-carbon, green firms.
+Our empirical approach is an event-study analysis of the firm-level stock market responses to monetary
+policy actions by the European Central Bank (ECB). As in much recent empirical monetary research, we fo-
+cus on high-frequency monetary policy surprises, that is, the changes in interest rates over narrow intraday
+windows around the Governing Council’s policy announcements. Because these surprises are exogenous
+with respect to changes in asset prices around the policy announcements, they can identify the causal ef-
+fects of monetary policy actions on financial markets and macroeconomic outcomes.1 We consider several
+different measures of ECB monetary policy surprises in our analysis. We combine these data with firm-level
+environmental measures, stock prices, and financial accounting data for euro area firms. Our baseline mea-
+sure of greenness is emission intensity, calculated as the ratio of carbon emissions to sales, an indicator that
+is widely used in climate finance to differentiate green and brown stocks (e.g., Bauer et al., 2022; Huij et al.,
+2024). Alternatively, we measure the greenness of firms using other emission intensity measures, emission
+levels, and indicators based on ESG (environmental, social, and governance) data.
+The central result of our panel regressions is that ECB policy surprises have greater effects on brown
+stocks, that is, stocks of firms with high emissions and emission intensities. This result is robust to using
+a range of different regression specifications and sample choices as well as different measures of mone-
+tary policy surprises and different emission-based measures of greenness. By contrast, we do not find any
+systematic firm-level differences based on environmental or emission scores from ESG data. Regressions
+1 Classic empirical studies using monetary policy surprises include Rudebusch (1998), Kuttner (2001), Bernanke and Kuttner (2005)
+and Gürkaynak et al. (2005). For recent work and an in-depth discussion of this high-frequency identification, see Bauer and
+Swanson (2023a).
+1 1
+that control for sector-by-time fixed effects yield similar estimates as our baseline regressions, suggesting
+that within-industry heterogeneity is similar to the across-industry heterogeneity between green and brown
+firms. In addition to the event-study panel regressions, we also employ tools from empirical asset pricing:
+We form green and brown portfolios based on lagged emission intensities that investors could have con-
+structed in real-time. The results show that brown portfolios reacted relatively more strongly to monetary
+policy. For example, after an ECB tightening announcement, brown-minus-green spread portfolios tend to
+loose substantial value. For the past few years of monetary tightening we document that the largest recent
+hawkish policy surprises resulted in substantial underperformance of brown stocks, in line with our overall
+evidence. Overall, our evidence strongly suggests that tighter monetary policy hurts high-carbon companies
+and brown stocks significantly more than low-emission companies and green stocks.
+The firm-level impact of monetary policy has been shown to depend significantly on firm characteristics
+such as leverage, age, size, and liquidity, among others.2 Existing studies have focused exclusively on the
+United States, and there is no established evidence of the heterogeneous effects of ECB monetary policy on
+the stock prices or investment behavior of European companies, at least to the best of our knowledge. To
+fill this gap, we consider a range of commonly used firm characteristics, and document how they affect the
+sensitivity of stock prices to ECB policy surprises. Consistent with the industry-level results of Bernanke and
+Kuttner (2005) for the U.S., we find that stocks with higher market betas exhibit a stronger sensitivity than
+low-beta stocks. We also find an important role for the book-to-market ratio, leverage, profitability and age,
+broadly consistent with U.S. evidence.
+Green and brown stocks show certain systematic differences regarding their business characteristics.
+For example, high-carbon firms tend to have higher leverage, lower profitability, and more tangible capital,
+which are all attributes typically associated with a greater sensitivity to monetary policy. This firm-level
+variation naturally raises the question whether the differential response of green and brown stocks that we
+document is a separate dimension of heterogeneity, or instead is simply a reflection of other differences
+between brown and green firms. To answer this question, we estimate regressions that include interactions
+of the ECB policy surprise with both carbon intensity as well as with various other firm characteristics, either
+individually or jointly. Controlling for other characteristics has essentially no impact on our estimates of the
+green-brown heterogeneity, which indicates that it is indeed the greenness of a firm that plays a significant
+independent role for the stock price sensitivity to monetary policy.
+Several other recent studies have examined the differential impact of monetary policy interest rate shocks
+on the equity prices of brown and green firms, including Döttling and Lam (2024), Havrylchyk and Pourab-
+basvafa (2023), Patozi (2024), and Benchora et al. (2023). These all use an event study research strategy
+to investigate the heterogeneous effects of Federal Reserve monetary policy announcements on the equity
+prices of U.S. green and brown firms. The four papers broadly arrive at a similar conclusion that higher-
+carbon brown firms tend to have a stronger equity price responses to monetary policy shocks than lower-
+carbon green firms. Our results for Europe are qualitatively and quantitatively consistent with these earlier
+results for the United States. By contrast, despite using similar event study methods, Fornari and Gross
+(2024) find that green firms are as sensitive to monetary policy as brown firms in the United States and
+more sensitive in the euro area. The difference between their findings and other work largely stems from
+their particular classification of brown firms, which includes all firms that do not report emissions data and
+is binary, ignoring shades of green and brown. Fornaro et al. (2024) classify green U.S. firms using data
+on green patents, and find that investment by these firms declines more strongly in response to monetary
+contractions than for other firms, which leads the authors to conclude that “higher interest rates and tighter
+2 See, for example, Ozdagli (2018), Ozdagli and Velikov (2020), Ottonello and Winberry (2020), Cloyne et al. (2023), Jeenas (2023),
+Döttling and Ratnovski (2023), and Jungherr et al. (2024).
+2 2
+credit conditions could slow down […] progress toward climate sustainability goals.” Clearly, the empiri-
+cal findings about differential effects of monetary policy strongly depend on the type of green-brown firm
+classification, which underscores the importance of further research in this area.
+Across all of the studies, there is little agreement as to the relevant causal mechanisms and interpreta-
+tions for the differential green and brown equity price responses. We examine various channels that have
+been proposed as candidate explanations for differential sensitivity of green and brown stocks to monetary
+policy. According to our European results, differences in other firm characteristics, including the impor-
+tance of tangible capital for a firm’s balance sheet, do not play a substantial role in the green/brown policy
+response heterogeneity, in contrast to the U.S. results of Havrylchyk and Pourabbasvafa (2023) and Döttling
+and Lam (2024). Other channels relate to the existence of a carbon premium, that is, the higher expected
+returns for brown stocks. If there is a sizable carbon risk premium in brown stocks, then their stronger re-
+sponse to monetary policy could arise from the effects of monetary policy on this risk premium (Benchora
+et al., 2023), including the “risk-taking channel of monetary policy” (Bauer et al., 2023). In important re-
+lated work, Altavilla et al. (2024) examine the effects of ECB monetary policy shocks on climate risk in bank
+lending and uncover a climate risk-taking channel for monetary policy, so an unexpected monetary tight-
+ening raises the climate risk premium charged to high-emission firms. Similarly, if the carbon premium
+also reflects green investor preferences—a carbon aversion premium—that could also reduce the sensitiv-
+ity of green stocks to monetary policy shocks (Benchora et al., 2023; Patozi, 2024). But given the lack of
+empirical consensus on the size or even existence of a carbon premium (Bauer et al., 2022; Atilgan et al.,
+2023; Zhang, 2024), more work is needed to sharpen both the evidence and our theoretical understanding
+on this important issue, and to pinpoint its role in explaining differences in green and brown stock price
+sensitivities.
+Most earlier work in this area focuses solely on the U.S. experience, and our examination of the green/brown
+heterogeneity of European equity pricing with respect to ECB monetary policy shocks provides an important
+investigative expansion along several dimensions. First, while it was the monetary tightening of 2022 and
+2023 that motivated concerns about the impact of higher interest rates on low-carbon investment, the U.S.
+studies generally have samples that end before this crucial episode. Our data sample extends to include that
+tightening and the associated relevant empirical evidence.
+Even more importantly, it is in Europe that concerns about the impact of higher interest rates on the
+green transition have been most salient (Schnabel, 2023). U.S. policymakers have not expressed the same
+level of urgency or even agreement on this issue as European policymakers.3 The relative lack of clarity about
+a U.S. green transition path must affect investors’ perceptions and pricing of climate equity risk. For exam-
+ple, a green transition in the United States may be plagued by so much policy uncertainty that investors view
+changes in the Federal Reserve policy rate as a second-order determinant to green/brown valuations. Our
+European analysis can better link relevant empirical evidence with the widespread and high-level discourse
+on the connections between monetary policy and the green transition. In this way, our evidence speaks to
+the question whether tighter monetary policy and higher interest rates may have slowed the path to car-
+bon neutrality by adversely influencing firms’ investment decisions, capital replacement, and sustainability
+efforts.
+There are a variety of other differences between the U.S. and European economies that can inform our
+understanding of green/brown monetary policy heterogeneity. For example, relative to the United States,
+the euro area has a different set of climate policies—with a greater skew towards carbon taxes than subsidies–
+that may interact differently with higher interest rates and monetary policy more generally. In addition, the
+3 The United States is a notable outlier among developed nations in having weak legal, social, and political commitments to a green
+transition. For example, the United States is the only country to ever have withdrawn for a time from the Paris Agreement on
+Climate Change.
+3 3
+euro area may also have a greater share of investors with preferences for low-carbon firms given the divi-
+sive and politicized views of sustainable investing in the United States, and Patozi (2024) argues that such
+green investors are less likely to substitute away from green stocks following a contractionary monetary pol-
+icy shock. Finally, the different sectoral distribution of the European economy provides a useful check on
+the U.S. results. Havrylchyk and Pourabbasvafa (2023) suggests that a key driver of the U.S. green/brown
+differential reaction to Fed policy shocks is the outsize reaction of the oil and gas mining and production
+sectors. This reaction may however partly reflect the sizable interest rate sensitivity of fossil fuel prices and
+consumer demand, a mechanism that is only tangentially related to the impact of interest rates on the green
+transition. In Europe, where fossil fuel production is a much smaller share of total output, this confound-
+ing effect is greatly reduced. In sum, the European experience provides a new and substantially different
+empirical sandbox to explore the outstanding issues and discrepancies in earlier research.
+In terms of the climate finance literature, our paper makes five empirical contributions. First, we doc-
+ument that in the euro area, stocks of high-carbon firms are more sensitive to monetary policy surprises.
+Second, we provide new results on the heterogeneous effects of the ECB’s monetary policy on euro area
+stocks, which show an important role for firms’ leverage, profitability, and book-to-market multiples. Im-
+portantly, none of these other firm characteristics account for the heterogeneous impact of monetary policy
+on green and brown firms. Third, our closer investigation of the recent monetary tightening episode suggests
+that green European firms were not disproportionately affected by the ECB’s rate hikes, alleviating concerns
+about a negative impact on the ongoing green transition. Fourth, we contribute to the discussion of possible
+channels for differential brown/green effects of monetary policy. Finally, we show that our results hold even
+if we narrow our focus to just the energy industry and compare the differential monetary policy effects on
+renewable and fossil fuel equity indexes.
+Our paper is most closely related to the four U.S. studies cited above on the effects of Fed monetary policy
+surprises on green and brown stocks. Other empirical work in climate finance has used event studies to
+estimate the differential effects on green and brown stocks of climate and fiscal policies (Bauer et al., 2024b)
+or election outcomes that shift probabilities of future policies (Ramelli et al., 2021). Separately, a burgeoning
+macro-climate literature investigates the interactions of monetary policy and climate policies, or the effects
+of green monetary policies, using general equilibrium models. Ferrari and Nispi Landi (2024, 2023) study
+green QE—purchases of low-carbon assets by central banks—and find that in the euro area, it likely has a
+negligible impact on carbon emissions. Both Diluiso et al. (2021) and Dafermos et al. (2018) conclude that
+green QE for financial stability can reduce climate-induced financial instability. Benmir and Roman (2020)
+consider interactions of carbon policy and quantitative easing policies. Our paper contributes new empirical
+evidence on the climate-relevant consequences of monetary policy decisions. Finally, our work is part of the
+broader climate finance literature on the pricing of green and brown stocks. This literature is large and
+growing quickly, see Bolton and Kacperczyk (2021), Pastor et al. (2022), Bauer et al. (2022), Aswani et al.
+(2024), Ardia et al. (2023), Huij et al. (2024), Eskildsen et al. (2024), and Bauer et al. (2024a), among many
+others.
+The paper is structured as follows: Section 2 explains our different data sources and presents summary
+statistics. Section 3 shows the main results and various robustness checks. Section 4 considers the role
+of other firm characteristics for explaining the observed heterogeneity in the responsiveness of European
+firms to monetary policy. Section 5 discusses the possible channels and explanations for the documented
+green-brown heterogeneity. Section 6 considers the narrower question about whether interest rates dispro-
+portionately affect the renewable energy sector. Section 7 concludes.

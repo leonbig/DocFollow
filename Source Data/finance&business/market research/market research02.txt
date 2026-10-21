@@ -1,0 +1,209 @@
+This  World Economic Outlook (WEO)
+was put together under exceptional circumstances,
+and I want to start by acknowledging the tremendous
+work of Petya Koeva Brooks, Deputy Director in the
+Research Department, and her team, as well as the staff
+of over 190 country teams within the IMF who worked
+tirelessly with us to revise their country projections
+until the very last minute. The April 2 Rose Garden
+announcement forced us to jettison our projections—
+nearly finalized at that point—and compress a produc-
+tion cycle that usually takes more than two months into
+less than 10 days.
+Shortly after the January 2025 WEO Update, the
+United States announced multiple waves of tariffs on
+major trading partners and critical sectors, culminating
+on April 2 with a set of nearly universal tariffs. While
+many of the scheduled tariff increases are on hold for
+now, the combination of measures and countermeasures
+has hiked US and global tariff rates to centennial highs.
+However, the context for such increases is very different.
+Unlike in the previous century, the global economy is
+now characterized by a high degree of economic and
+financial integration, with supply chains and financial
+flows crisscrossing the world, whose potential unwinding
+could constitute a major source of economic upheaval.
+For this reason, we expect that the sharp increase
+on April 2 in both tariffs and uncertainty will lead to
+a significant slowdown in global growth in the near
+term. While this is our central scenario—or “reference
+forecast”—many possible paths exist, reflecting the
+unpredictability surrounding future trade policy and the
+varied impact of tariffs across different countries through
+a diverse set of channels. These are discussed in detail in
+Chapter 1.
+The common denominator, however, is that tariffs
+are a negative supply shock for the economy imposing
+them, as resources are reallocated toward the production
+of noncompetitive goods, with a resulting loss of aggre-
+gate productivity, lower activity, and higher production
+costs and prices. Moreover, in the medium term, by
+reducing competition, tariffs increase the market power
+of domestic producers, decrease incentives to innovate,
+xii
+International Monetary Fund | April 2025
+and create multiple opportunities for rent seeking. For
+trading partners, tariffs constitute mostly a negative
+external demand shock, driving foreign customers away
+from their products, even if some countries could bene-
+fit from the rerouting of trade flows.
+These effects are magnified in the presence of modern
+complex global supply chains. Most traded goods are
+intermediate inputs that traverse countries multiple
+times before their transformation into final products.
+Sectoral disruptions could propagate up and down
+the global input-output network in ways with poten-
+tially large multiplier effects, just as we saw during the
+pandemic. Anticipating such disruptions we have also
+revised down our projection for global trade growth by
+1½ percentage points this year, with a slight recovery
+penciled in for 2026.
+The uncertainty around trade policy is also a major
+factor depressing our outlook. Faced with increased
+uncertainty about access to markets—their own but also
+those of their suppliers and customers—many firms’ ini-
+tial reaction will be to pause, reduce investment, and cut
+purchases. Likewise, financial institutions will reevaluate
+their credit supply to businesses, until they can assess the
+latter’s exposure to the new environment. The com-
+bined increased uncertainty and resulting tightening of
+financial conditions are a global negative demand shock
+and will weigh on activity. This could well dominate in
+the short term—as reflected in the sharp decline in oil
+prices.
+The effect of tariffs on exchange rates is not straight-
+forward. First, the US, as the tariffing economy, may
+see its currency appreciate, as happened in previous
+episodes. This reflects the reduced demand for foreign
+currency as the demand for imports declines, but also
+the likelihood that tariffed countries may ease their
+monetary policy stance to respond to the negative
+demand shock. However, greater policy uncertainty,
+lower growth prospects in the US, and an adjustment
+in the global demand for dollar assets—which has been
+orderly so far—can weigh on the dollar, as we saw in
+the immediate aftermath of the announcements. In the
+medium term, the dollar may depreciate in real terms if
+tariffs translate into lower productivity in the US trad-
+ables sector, relative to its trading partners.
+At this juncture, while the situation remains fluid,
+risks remain firmly tilted to the downside. The global
+economy showed surprising resilience during the severe
+shocks of the past four years and still bears significant
+scars. It is now being severely tested once again, espe-
+cially in emerging market and developing economies
+with more limited buffers. More immediately, there is
+a risk that trade retaliation may further ratchet up—
+instead of dialing down—trade tensions, with negative
+consequences for global growth. Financial conditions
+may further tighten—perhaps abruptly—if markets react
+negatively to diminished growth prospects and increased
+uncertainty. While banks remain well capitalized overall,
+and market movements have been orderly so far, they
+may be tested in the case of a full-blown risk-off epi-
+sode. The April 2025 Global Financial Stability Report
+reviews these market developments in detail. Yet herein
+lies also an upside: If countries deescalate from their
+current tariff stance, and coordinate to deliver clarity
+and stability on trade policy, the outlook could immedi-
+ately brighten.
+Our policy prescriptions call for prudence, clarity,
+and increased collaboration. First, on trade policy the
+message is clear: to bring back stability and find mutu-
+ally beneficial trade arrangements. It is not clear yet
+what new architecture will emerge. But businesses need
+predictability going forward. And the global economy
+needs a well-functioning rules-based trading system that
+addresses long-standing gaps, such as the pervasive use
+of nontariff barriers and trade-distorting measures by
+some countries.
+Second, monetary policy will need to remain ahead
+of the curve in the face of multiple challenges. Faced
+with tariffs and supply-chain disruptions, some coun-
+tries may confront steeper trade-offs between inflation
+and output. Inflation expectations may become less well
+anchored with a new inflation shock following so close
+on the heels of the previous one. For these countries,
+forceful tightening will be needed. For others, the nega-
+tive demand shock will dominate, and their economies
+may slump unless policy rates are lowered. In all cases,
+credibility of the monetary policy framework—and its
+cornerstone, central bank independence—will remain
+key.
+Third, currency markets may experience strong
+volatility. This may be difficult to navigate, especially for
+FOREWORD
+emerging market economies. In line with our Integrated
+Policy Framework, it is important that countries let
+their currency adjust when the movements are driven
+by fundamental policy forces, as is the case now. That
+framework spells out the specific conditions under
+which it could be advisable for countries to intervene in
+currency markets.
+Fourth, fiscal authorities face starker trade-offs on top
+of preexisting vulnerabilities associated with high debt,
+low growth, and rising financing costs. Heightened pres-
+sure on bond yields amid growing market nervousness
+could threaten fiscal stability. In addition, new spend-
+ing pressures are further weighing on fiscal fragilities.
+Calls for support will increase for those at risk of severe
+dislocation from trade policy. Some support may be
+inevitable—and even desirable—but should remain
+narrowly targeted and incorporate automatic sunset
+clauses. The experience of the past four years suggests
+that it is easier to open the tap of fiscal support than to
+close it. Sunset clauses should also help frame expecta-
+tions. Moreover, some countries, especially in Europe,
+face new and permanent increases in defense-related
+spending.
+How should these new outlays be financed? For
+countries with little fiscal space, the answer is stark
+but simple: They have little choice but to stay within
+their budgetary envelope. Doing otherwise would
+jeopardize medium-term debt sustainability, with dire
+consequences. For countries with sufficient fiscal space,
+standard fiscal principles suggest that only the tem-
+porary part of the additional spending—for example,
+temporary support to help adapt to the new environ-
+ment or an initial bulge in spending to rebuild defense
+capabilities—should be financed by debt. New perma-
+nent spending needs should be offset by spending cuts
+elsewhere or stronger domestic revenue mobilization.
+These points are further developed in the April 2025
+Fiscal Monitor.
+Fifth, we need to continue efforts to turn the tide
+on weak medium-term growth prospects. This means
+boosting total factor productivity, which can be raised
+by addressing existing deep-seated structural constraints
+that are holding back innovation, but also by exploiting
+technological breakthroughs. The recent progress of
+generative artificial intelligence offers such a promise,
+and countries should position themselves to harness it
+responsibly. This can be done by implementing poli-
+cies to develop the necessary digital infrastructure and
+International Monetary Fund | April 2025
+xiii
+WORLD ECONOMIC OUTLOOK: A CRITIC AL JUNC TURE AMID POLIC y ShIF TS
+acquire the skills necessary to benefit from the artificial
+intelligence transition.
+In this direction, the analytical chapters of our report
+take a step back and explore how the nexus of labor
+supply and growth plays out over the medium term.
+They tackle interrelated themes of asynchronous aging
+and migration. Chapter 2—“The Rise of the Silver
+Economy”—focuses on the challenges from demo-
+graphic headwinds for growth and public finances
+and shows that progress in “healthy aging”—people
+living not only longer, but living healthier—has been
+substantial. This, together with policies that help
+increase labor force participation and close gender gaps,
+can offset some of the negative effects of aging popula-
+tions. Chapter 3—“Journeys and Junctions”—focuses
+on the spillover from migration policies in destination
+countries to origin, transit, and bordering economies. It
+highlights that emerging market and developing econo-
+mies are increasingly on the receiving end of migration
+and refugee flows and that policies to improve the
+integration of migrants, minimizing skills mismatches,
+and alleviate pressures on local infrastructure can have
+large effects

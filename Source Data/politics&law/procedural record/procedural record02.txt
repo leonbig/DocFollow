@@ -1,0 +1,167 @@
+PUENTES: Hi, I’m Robert Puentes, vice president and director of Brookings Metro.  
+
+I’m also the host of Metro Blueprint, a new podcast from the Brookings Podcast Network. Every two weeks a different Brookings Metro scholar and a guest will discuss ideas and action to create more prosperous, just, and resilient communities in America.  
+
+Our scholars and their guests will discuss specific research findings and policy actions to improve the well-being of people and their communities. Topics will include economic and workforce development, climate and the built environment, changing demographics, place-based policymaking, the future of work in the age of artificial intelligence, and much, much more. 
+
+The Los Angeles fires were one of the most destructive disasters in U.S. history. As the immediate emergency response turns toward longer-term recovery and rebuilding, several challenges remain, including the region’s overwhelmed and vulnerable water infrastructure.  
+
+Unfortunately, these challenges are not just limited to Los Angeles. The hydrants, pipes, and other systems we depend on for safety and survival remain underinvested and ill-equipped to handle mounting climate impacts across the country. 
+
+In this episode of Metro Blueprint, Brookings Fellow Joe Kane and Greg Pierce, the research and co-executive director of UCLA’s Luskin Center for Innovation, discuss how the fires exposed long-standing challenges within water utility systems in Los Angeles and beyond and how policymakers can improve these systems amid a more extreme and destructive climate.  
+
+[music]
+
+You can learn more about this podcast on our website, Brookings dot edu slash Metro Blueprint.  
+
+And now, here’s Joe and Greg.
+
+KANE: Thanks, Rob. Hi everyone, my name is Joe Kane, fellow at Brookings Metro focusing on infrastructure issues, and I’m really excited for today’s conversation.
+
+[2:07]
+
+The Los Angeles fires are one of the most devastating disasters in California and national history. Fanned by high winds and fed by a prolonged drought, the blazes rapidly spread across thousands of acres in the nearby Santa Monica mountains and to several neighborhoods. While the visible destruction to homes, businesses, and livelihoods has understandably garnered most of the attention, the fires are also a reminder of the struggles to recognize and reinvest in the country’s water infrastructure. Typically, out of sight and out of mind before any disaster hits, the plants, pipes, reservoirs, and other systems responsible for treating, moving, and storing water are facing a variety of threats in Los Angeles and beyond.
+
+The fires are not an isolated incident but highlight several mounting challenges that leaders face across the country amid a more extreme and destructive climate.
+
+Governance challenges: oversight and operation of our drinking water, wastewater, and stormwater systems are highly fragmented and localized, leading to difficulties for thousands of local water utilities to proactively develop and implement new plans, programs, and projects.
+
+Investment challenges: utilities too easily get ignored or blamed by policymakers, residents, and other stakeholders amid a lack of sustained proactive investment to manage existing and evolving infrastructure needs. Nationally, more than $744 billion is needed to address all the various drinking water and wastewater improvements over the next two decades, from fixing leaking pipes to upgrading treatment plants. Los Angeles is just one piece in that complicated puzzle.
+
+Lastly, physical design, operation, and maintenance challenges. There is a constantly moving target that utilities and other local leaders need to keep up with, including the need for more climate-resilient upgrades and responses to evolving threats in real time.
+
+To unpack these and other challenges in more depth and to explore strategies emerging to address them, I’m excited to chat with Greg Pierce, who’s at UCLA’s Luskin Center for Innovation. Greg brings a ton of experience and timely insights around our water infrastructure, including during and after the L.A. fires. Greg, it’s great to have you here.
+
+PIERCE: Yeah, thanks for having me.
+
+KANE: So, I think to kick things off, Greg, we know the L.A. fires have magnified a host of different challenges, infrastructure related and otherwise, but what are some of the specific water infrastructure challenges that you’re seeing and hearing and hopefully following?
+
+[4:29]
+
+PIERCE: So there’s a number of challenges to water infrastructure stemming from the L.A. fires. And I do want to back up just a little bit and say that the type of fires that occurred in Los Angeles are really in some ways unlike anything we’ve seen up until about 2017, 2018, when big fires started to really impact urban areas, especially in California.
+
+But in other ways, it’s been seven to eight years, so we’ve seen this a number of times, and we’ve seen where the fires, when they hit heavily populated areas, are really hitting all aspects of water infrastructure. So they’re hitting drinking water, drinking water utilities, water supply utilities, and I think that’s where there’s certainly been the most press around the L.A. fires, especially around the perceived failures of systems to be able to stop the fires and combat the fires. I think we’ll get a little bit more into that later.
+
+But I do want to note here, it’s not just about drinking water systems being able to help support firefighting at all. It’s also impacts on drinking water quality, especially sort of some boutique contaminants that occur when actual infrastructure and plastic pipes and homes are burned.
+
+But it’s not only drinking water or water supply either. There’s profound impacts to stormwater, stormwater quality, especially because of the really toxic stuff that’s burning in in urban fires; as well as stormwater quantity, because the ecosystem is changing. Impacts on groundwater quality, both due to, again, what’s burning but also due to firefighting foams. And then broader impacts on wastewater, which we haven’t even well quantified I would say, and typically are an afterthought until several months after the fires.
+
+And then in a place like L.A., it’s not quite water infrastructure, but a lot of coastal impacts, ocean water impacts. So it really is the whole spectrum when you have fires in very urbanized areas, like we experienced in January in Los Angeles.
+
+[6:29]
+
+KANE: Yeah, I think, Greg, I mean you touch on a lot of different things there. And even for listeners who are not familiar with water infrastructure, I think we can all relate to the importance of water quality, having a dependable source of water that’s safe. That there’s kind of multiple time horizons to be thinking of these issues, from the immediate response to the longer term need.
+
+And I think, the issue that I’ve been touching on a lot in my work, and I know you have as well, is water utilities often being a primary actor here in addressing a lot of these needs. And so, I’m wondering what are some of the immediate challenges that that you see? I mean, I think you kind of listed a few of those that utilities themselves are specifically dealing with. And then how do those immediate challenges relate to the longer term or what comes next, I guess, from the fires themselves?
+
+[7:19]
+
+PIERCE: Absolutely. And I think even if we just limit ourselves to talking about water supply systems or drinking water systems, the first thing to note is Los Angeles, just like pretty much anywhere else in the U.S., has very fragmented utilities. We have at least 10 water systems that were impacted by the fires and they come in all shapes and sizes and have very different capacities to really recover from a disaster like this.
+
+But then I think there are also implications that we’re seeing from the fires that just are emblematic of the challenges that drinking water systems are facing, continue to face across the U.S. I’d say the most profound are around understanding of water systems, how water systems work outside moments of crisis. I think there’s a lot of frustration with, again, the perceived but not really real failure of water systems to combat the fires. But I think the idea that we have fire hydrants, and the fire hydrants didn’t put out the fires is intuitive, but also folks don’t understand that water systems simply are not equipped to combat wildfires, and that in any fire of this nature, your hydrants were gonna flow low or actually quote unquote fail.
+
+And we may not be able to design water systems to actually fight wildfires. Certainly not to the second point, with the amount of money we’re willing to pay even for things that we care about and say we care about. And that’s true of not just around wildfire resilience or even climate resilience, but it’s just as true when we think about water quality, the PFAS [per- and polyfluoroalkyl substances] conversation and policies we have now, when we think about the trade-off between conservation and affordability. So a lot of different themes there I would say around understanding of systems and also the financing of systems.
+
+The financing of systems, I’d say, is also a challenge just with respect to, for lack of a better term, the rickety local public finance ways we have of actually paying for water systems and the relative under-investment that we continue to have at the state and federal level for local water systems. Water systems are pretty much on their own and it winds up being the local folks who do pay and are going to pay to rebuild these systems.
+
+[9:29]
+
+I think there’s other interesting conversations that are, again, both specific to the how can we build systems to be more resilient to fires conversation that are emblematic, for instance, of broader challenges. For instance, I think there’s a lot of folks saying, why can’t we just have more water supply in local areas where there’s high wildfire risk? But they don’t understand that those water sources as currently regulated have to comply with water quality standards. And so it’s much more difficult to ensure that if you have a lot of water supplied, especially open air water, we have to think hard about whether we want to separate out non-potable from potable supplies.
+
+And then maybe the biggest challenge, and it relates back I would say to the lack of understanding of how water systems work, and even how water moves, is whether we can make our water systems much more demand responsive in the way that energy systems are, to move water quickly to where we need it, where we want it, in the way that we’ve tried to do. And, you know, had a lot of success with respect to power utilities.
+
+But I also think there, there’s like fundamental limitations and differences between what we can do in water and power that we have to reckon with going forward.
+
+[10:45] 
+
+KANE: There’s a lot of balancing, I think, Greg, of what you’re describing. I don’t think a lot of people outside looking in totally understand that. That there are a handful of different utilities that really are carrying the bag on this, financially and otherwise. Obviously, there’s a rate payer customer base that has to pay into these systems. And then there’s a whole assortment of regulatory and other sort of governance challenges that are shared, not just among utilities and at a local level, but even with state leaders and federal leaders too. And it creates this jigsaw puzzle almost. And then you throw into the mix a fire or some other impact, right? and it isn’t always predictable or easy to manage or forecast or be proactive, I think, about some of these challenges.
+
+And I like how you’re saying, responsive to demand in the moment. And I think for those who may not be familiar with a lot of water infrastructure issues, they will say, well, why can’t we do this? We take it for granted, I think, in a lot of cases that well, yeah, this is just how it is. But I think both you and I understand it’s a little more complicated than that.
+
+And I think before we zoom out of L.A. and think of how this example applies to other parts of the country, have there been—maybe this is a quick aside question, Greg—I assume you’ve been talking with utility leaders there. On the one hand, they’re probably preparing for the next fire, so to speak, as much as we don’t like to think about that. But then it’s not just about fires, right? It’s really this underlying susceptibility or vulnerability of the system. Is that right, would you say?
+
+[12:20]
+
+PIERCE: Yeah, absolutely. And I’d say, local utility leaders, really any utility I speak with, they want to invest more in their system if people are willing to pay more into their system. But a lot of that, again, relies on local communities. So I think there’s a great desire among utilities to really meet the moment, meet the mandate that they’re getting across a number of different realms in terms of expectations for water systems should and can be doing in the 21st century. So again, I think there’s a willingness there and there is a movement toward being more resilient, meeting new water quality regulations, balancing between conserving but also providing a service.
+
+I think when it comes to climate-related disasters, and I wanna turn it to you in a second, there are also core challenges. And every single water supply and firefighting expert I talked to related to the L.A. fires said no water system could have stopped these fires. And if you want to think about even really limiting the damage that we would have seen in these fires you may be talking about investing 10 to 15 times x what we’re currently investing just to get a marginal return.
+
+So I do think we have to be realistic and take a step back and mostly think about where do we build? Can folks safely live in certain areas before we think about can we just use infrastructure to protect? And I know those are difficult conversations.
+
+But I think that’s a good place to turn sort of the question back to you and ask from your perspective, how do these local challenges in Los Angeles that you’ve seen relate to broader infrastructure challenges we’re seeing in other places in the country. And also not just talk here about fires, but the range of investment needs and impacts across a broader set of climate impacts that we’re seeing.
+
+[14:14]
+
+KANE: Look, the fires even at this point have been a few months ago. And I think probably on the national radar for some people, it’s already kind of like they’re not in the headlines anymore, they’re not even thinking about it. But obviously, the reality on the ground is still very much being felt by those who have been affected by it, and not just homeowners and businesses, but the utilities and sort of those who are responding to this.
+
+And so, I think from my vantage point thinking nationally on these issues, there’s of course the federal dimension of that. And I mentioned in the preamble, $744 billion is projected to be needed for us to keep up with the capital projects here across the country over the next couple of decades, according to the EPA anyway. And those estimates come out every few years. But we think of the infrastructure law, we think of the Inflation Reduction Act infusing a lot more federal funding or assistance towards some of these issues. But even that is, you know, pun intended, kind of a drop in the bucket relatively speaking to just the magnitude of basically the existing needs that a lot of these systems have already had.
+
+And now with the uncertainties and the extreme fluctuations we see through not just fires, but floods, droughts, and not even acute impacts, right? even just daily challenges of just, well, they’re getting more rainfall or they’re getting less rainfall. This creates a lot of uncertainty and unpredictability. In other words, it’s increasing what was already a pretty sizable price tag. It’s making the price tag that much bigger for a lot of systems.
+
+And many of these systems, which we haven’t really talked about, I mean, they’re public, right? Or they’re publicly owned and operated in many cases. Thus, residents are carrying the bag in some ways here. There are, of course, private systems too, but they’re kind of an extension, I think, of the vulnerabilities of a lot of our communities across the country, a lot of our local governments. State government too, of course, has a role to play here, I would argue.
+
+[16:13]
+
+And so, in not just the next year or two, but really ongoing, 5, 10, 20, 30 years, whatever projection you want to use, the challenge isn’t getting better. It seems to be getting worse. The dollar signs are going up. And, at least at this moment, the political cycles and transitions don’t always match the economic cycles and the real challenges that are hitting these places.
+
+There is concern. When you think of sort of the usual suspects here of like New Orleans, coming up 20 years here almost since Hurricane Katrina, or 10 years since Hurricane Sandy in New York—I’m just naming just a handful of examples here. And now we have Los Angeles with the fires in 2025. And I hate to say that it’s expected, but it does seem to be more expected that these types of incidents are going to happen. And I think it puts the onus on local leaders in particular to be stepping up and taking action, which is just not always easy.
+
+But I’d be curious, Greg, what your thoughts are of the need for local action here, and the extent to which L.A. is offering precedent in that respect.
+
+[17:21]
+
+PIERCE: Yeah, I think, we talk about the challenges and there are a lot of challenges and Los Angeles, those challenges, we’re working on where we go from here now and over the next few months and honestly years. So keep talking about those, but I think there are some promising steps. When we look at water utilities themselves, I think pretty good coordination among water utilities in terms of mutual aid and in the moment emergency response despite some of the narratives you see out there to actually combat the fires as well as I think, again, not a perfect response certainly but with respect to restoring water quality and trying to communicate out that folks can safely drink their water in the region. I think we’ve had much more success than some other areas in being able to actually tell people and make sure that they can drink their water safely.
+
+I think more broadly here we’re looking and there’s some, I don’t like to use the word opportunity, but it is an opportunity and an obligation that, again, pertains much more broadly to water system finance, even climate resilience finances, is openness to ideas that have been around for a few years but haven’t really taken off even in California, things like climate resilience districts. And thinking about the configuration of water systems themselves and potential regionalization that can, both governance-wise and from economies of scale but also just sort of financing-wise, make more sense and be more robust to the mounting and manifold climate challenges we’re facing but again also expectations for how our infrastructure works.
+
+So I’d say those are some of the things we’re seeing in L.A., again, that are more examples of how we can do better going forward but also examples that I think do provide some promise nationally as we, yes, we’ll continue to see disaster events I think mounting for the next few decades at best if we can turn the tide on mitigating climate change.
+
+KANE: I’m curious, Greg, just really quickly, I have a take I’ll add to that too. But you mentioned climate resilience districts. I imagine some listeners may not even be familiar with that. What do you mean by that when you’re describing climate resilience districts?
+
+[19:43]
+
+PIERCE: Yeah, so we mean a new layer of governance and kind of a new entity, which I say with caution because the answer to old problems is not always create a new government structure. But climate resilience districts can really bring together local governments and other sorts of service providers into one unit at a greater scale. And they can and do, in the small number of cases we have, really help raise money and then distribute funds back to a lot of those more local agencies to fight, again, across a range of climate hazards, whether it’s in California, it’s wildfire of course, but it’s heat, it’s drought, it can be sea level rise, it can be flooding. So they help rather than being siloed, in terms of response both governance-wise and finance-wise, help regions and specific local entities to fight those challenges simultaneously.
+
+We honestly haven’t seen too many of these districts at scale and they have a short track record because the concept’s only been around a few years. But I do think we have to meet the challenge of climate change and break down silos we’ve had forever between sectors like water and energy and transportation. Embrace the climate resilience district concept or a similar concept to meet the challenge going forward.
+
+[21:08]
+
+KANE: I think what’s powerful about it, it’s a lot of like silo busting. And I’m sure a lot of listeners are, like, well, that’s great, like California is doing this, right? And … but then so many other places may not even have the political appetite, may not have the money, may not have the coordination, the list goes on of just why places are not doing more potentially on this.
+
+And I say that not even just because of water infrastructure. I think you bring up a great point. I mean, it’s not just like water infrastructure on its own island. These systems are interconnected with how we think of transportation investments, how we think of land use, how we think of a whole host of different sort of built environment systems. And so, like, trying to think optimistically or affirmatively can be challenging sometimes.
+
+And I think a lot of places, in my read of it anyway is, like, if anything they’re kind of on the defense of just trying to hold on to what they are already doing and they can barely keep up with that, let alone trying to take on more stuff or, as you said, create new entities or spend more money on this. It’s a big challenge, but I do think there are positive steps happening in different places.
+
+And again, not really because of it’s an option; it’s really a necessity, I think. I mean, a lot of places think, well, we’re gonna probably be hit by this stuff anyway. So we know the more cost-effective and more efficient way of doing this is to try to get ahead of it. Now, they don’t always do that, but the idea of course is, we see this with climate action plans and resilience planning, and utilities probably have some of their own documents and strategies here too. But I think we’re beginning to see, it’s not just these ad hoc, hey, this one place is doing it. But I think there’s a constellation of places all over the country that recognize this.
+
+And that’s true, I would stress even amid the national or federal uncertainties, that even if some of that is adrift and may not even be mentioning climate issues, let alone doing something about them at the moment, I think there is a lot of local action here, too.
+
+And that’s not to like to sugarcoat, you know, to say, oh, well, yeah, you know, we have it all solved. But I do think that it is important to bear in mind that there are steps being taken by places trying to get ahead of this.
+
+[23:26]
+
+PIERCE: Absolutely, it doesn’t have to be called a climate resilience district, but it’s really a concept. I mean, it really comes down to planning and I think recognizing in this moment with the increasing number and severity of disasters that are happening that planning and investing now is avoiding us cost and, frankly, tragedy later. It’s not gonna completely eliminate that, but it’s an investment, it’s a down payment in the environment and the world we live in. And as we build out where we want to live and work, et cetera, into areas that are more hazardous.
+
+So, yeah, whether one thinks about climate change or particular climate disasters, I think it’s more about future planning and really investing now so that we feel less pain later and I think everyone can get behind that.
+
+KANE: I like ending on a positive note.
+
+PIERCE: Absolutely.
+
+KANE: Well, Greg, thanks so much for the insights here. I think we covered a lot actually in a pretty short amount of time. I think it’s not just about the fires, right? I think that’s a big takeaway. I mean, the fires are kind of a trigger, or they are highlighting, I think, what were ultimately some evolving and intensifying climate impacts really that again, are not just hitting Los Angeles, but really relate to a whole host of different issues hitting different places across the country.
+
+But I think there’s some momentum as well that’s building among places, among water utilities, but not even just utilities, but other local leaders in terms of thinking of some of these other governance approaches, for example, thinking of new ways of paying for projects, new ways of just getting community buy-in that we need to do something about this.
+
+And so I think there is a lot of hopefully positive momentum here too. I know you’re going to keep busy on this stuff. I’m going to be continuing to cover a lot here. And so I know listeners can also check out a lot of reports you’re continuing to do at UCLA. They probably can just Google your name and find a ton of information. And then obviously at Brookings, too, continuing to cover a lot of this. So thanks so much for being here, Greg.
+
+[music]
+
+PIERCE: Thanks for having me and thanks for doing this work likewise.
+
+PUENTES: Metro Blueprint is a production of the Brookings Podcast network, found online at Brookings dot edu slash podcasts. Thank you for listening.
+
+My thanks also to all the scholars and guests for sharing their insights and expertise, and to the team at Brookings that makes this podcast possible, including Fred Dews, producer; Erin Raftery, associate producer; Gastón Reboredo, audio engineer; Daniel Morales, video editor; Leigh Balon, Brookings Metro’s director of communications, Carie Muscatello, our graphic design and web publishing manager; and our government affairs and promotion colleagues in the Office of Communications. Katie Merris designed the beautiful logo, and Phoebe Copeland recorded the “doors” audio.  
+
+For more information about us, please visit Brookings dot edu slash Metro. I’m Robert Puentes.
+
+[“doors closing”]

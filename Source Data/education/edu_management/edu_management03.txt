@@ -1,0 +1,187 @@
+4.1. FSME use
+Although not widespread, several government departments currently use
+FSME for research and/or policy purposes.
+Department of Education (DE): Currently FSME is used widely in both a
+research and policy capacity within the DE. FSME is primarily used to
+determine if a child should receive free school meals each day as well as a be
+awarded a grant to help with the cost of school uniforms. FSME was also, until
+recently, used as a measure to award FSM to children during the school
+holidays. School-level FSME is used as part of the Common Funding formula,
+and to award additional funding via initiatives such as Targeting Social Need
+(TSN). TSN funding is approximately £75 million per annum, and currently the
+most common usage of this money is for additional teaching and classroom
+assistant staff. The Extended Schools programme also uses the percentage
+of school population who are FSME as one of two funding criteria.
+More recently a “Reducing Educational Disadvantage (RED)” programme is
+being developed within DE, which uses six criteria to help inform where
+potential RED pilots might take place, one of which is FSME. RED is a whole
+community, place-based, partnership approach to tackling educational
+disadvantage and inequalities. Piloting of RED is hoped to begin within the
+next 12 months. It was clarified that abandoning FSME as an indicator would
+leave a significant gap, because it is a validated and reliable pupil level
+measure and is updated annually. RED is not an opportunity to put FSME to
+one side, rather the idea is to combine FSME with other measures.
+The Sure Start programme was also discussed. Although it is area-based
+(using the NIMDM to identify areas of greatest relative disadvantage to
+determine coverage of the programme), FSME is used as a validation check
+enabling comparison with other measures of disadvantage within Sure Start
+catchment areas to ensure the programme is targeted towards meeting the
+needs of the disadvantaged.
+Belfast City Council (BCC): FSME is one of the agreed proxy measures of
+deprivation that are being used to monitor progress of the Belfast Agenda, a
+community plan for the development of the city by 2035. One aim of the
+Belfast Agenda is to reduce the education gap between those who do and do
+not qualify for FSME. Currently the differential between FSME and non-FSME pupils in Belfast is 32 percentage points using the key benchmark of five or
+more GSCE’s (A*-C), including English and maths. The aim is to reduce this
+inequality.
+Department for the Economy (DfE): While the Education Authority supplies
+FSME data to Further Education (FE) Colleges in NI, DfE does not currently
+have direct access to FSME data. However, the interviewees stated they
+would welcome having an operational database that contains FSME data and
+would be pleased to develop a closer collaboration with DE. To this end, work
+is progressing to develop a research database, (LEO database development)
+made possible by Digital Economy Act (2017) and DfE hopes to collect FSME
+data through the Consolidated Data Returns (CDR) from the Colleges in 2024.
+This however will require discussions with the Education Authority in NI. The
+CDR is used to produce FE statistics for the DfE.
+Department for Communities (DfC): DfC data is used by the Education
+Authority to identify FSME status, and interviewees note that DfC had
+considered using FSME by linking it to mitigation payments or discretionary
+support. However, this was not pursued as it was felt FSME was not precise
+enough at identifying those who need additional support (e.g., the ‘working
+poor’).
+Department of Health (DoH): FSME has been used before with regards to
+the health and social care inequalities monitoring system (HSCIMS).
+Inequalities in obesity were explored using FSME from the school census, but
+it did not perform any better than information from the Multiple Deprivation
+Measures MDMs, and so FSME data were not used.
+Other comments on FSME: Throughout the interviews, a range of views on
+the suitability of FSME were gathered from participants, both from
+departments where FSME is and is not used. Several common themes
+emerged. A number of departments highlighted issues with how precise FSME is and
+whether it captures everyone who is struggling socially/financially. This is
+attributed to difficulties in defining what constitutes poverty. Both DfC and
+BCC noted that FSME may not always accurately reflect the levels of poverty
+that a particular family is experiencing. Both highlighted the relative arbitrary
+cut-offs used for FSME, stressing that it may exclude families who are
+narrowly above the income cut-offs to receive benefits, yet have significant
+outgoings (e.g., size of family, travel costs). For example, BCC shared
+anecdotes from school principals they engage with, who have stated that
+there are children known to be in poverty yet are not entitled to FSM. Such
+discrepancies were also noted by representatives of DE. Within the DfC,
+support is targeted not just on absolute lowest levels of income, and other
+criteria are considered, such as material deprivation.
+An issue highlighted by a representative from DE was that children may be
+entitled to FSM on the grounds that they have special dietary needs,
+something included in their statement of special educational needs. As such,
+this could introduce additional bias as children who are not from low SES
+backgrounds, but who have dietary needs, could be misclassified as deprived.
+Furthermore, given that FSME measures entitlement, it was felt unclaimed
+FSME is a problem that needs to be addressed as eligible pupils are missing
+out. This is an issue also frequently raised by BCC community partners. Work
+is ongoing with DE, DfC and the Education Authority (EA) to better understand
+factors influencing decisions about whether or not to apply for FSM.
+Other departments commented more positively on FSME (DoH, DfE, DE), and
+felt more departments should be made aware of its potential as a deprivation
+measure. The most commonly stated reason for departments not using FSME
+was their place-based focus requiring area-level measures of SES rather than
+individual/household indicators. The main strengths of FSME that were
+highlighted were its reliability and validity, its interpretability, and the fact that
+its yearly updates are more frequent than many alternatives (e.g., NIMDM).  4.2 Alternatives to FSME: The Northern Ireland Measures of Multiple
+Deprivation (NIMDM)
+The most commonly used measure of SES across all of the departments is
+the 2017 Northern Ireland Multiple Deprivation Measure (NIMDM). The
+NIMDM is a statistical tool used to measure multiple dimensions of deprivation
+in Northern Ireland. The measure is based on seven domains of deprivation:
+income, employment, health, education, access to services, crime and
+housing. These domains are measured using a range of indicators such as
+the percentage of households on low income, the percentage of people
+claiming benefits due to ill health, and the percentage of people without
+access to a car. These indicators are provided by the relevant NI government
+departments. It ranks all 890 Super Output Areas (SOAs) in Northern Ireland,
+with SOAs being small geographical areas containing an average of 2,500
+people. The measure is used to identify the areas of greatest need, which can
+then be targeted for policy and funding interventions.
+The NIMDM is used to inform the business of almost every government
+department. Examples include:
+• The Executive Office’s Urban Village initiative identified 5 key areas
+across NI where there has been a history of deprivation and community
+tension. Although not the sole determining factor, the NIMDM scores
+fed into the process of identifying the Urban Villages.
+• BCC used the NIMDM to help distribute funds provided by DfC during
+the Covid-19 lockdown. The funds were to be used to help families with
+support to study at home such as IT support, Wi-fi connections etc.
+BCC also uses the NIMDM along with FSME to determine social
+disadvantage and monitor progress against their action plans.
+• DAERA uses the ‘Access to Services’ domain and ‘Employment’
+domain of NIMDM for the development of programs that tackle social
+isolation and deprivation in rural areas. DAERA representatives who
+took part in the interview stated, that in their own experience, they did
+not typically use deprivation for determining eligibility for schemes.  Within the DoJ, the NIMDM rankings are broken down into quintiles to
+provide additional demographical context for The Safe Community
+Survey. There is little reliance upon deprivation indicators within the
+Youth Justice services, as there are no eligibility criteria; everyone can
+avail of the services on offer. Outreach work takes place with schools
+located in areas of high risk; however, it was not clear from the present
+interview how high risk is defined.
+• DfE has a strategy on widening participation and access to higher
+education, and while the strategy is not particularly prescriptive in terms
+of what disadvantaged groups should be targeted by higher education
+providers, it does flag up socioeconomic background, and the key
+measure used is number of students that fall into quintile one (bottom
+20%) of the NIMDM. For example, 13% of those in HE institutions, are
+from quintile one of the NIMDM.
+• The NIMDM is used for monitoring and health inequality action plans
+within the DoH. For example, the NIMDM is used to produce statistics
+for children in care and care leavers. Data is provided by Super Output
+Area (SOA) and again scores are ranked to identify the 20% most
+deprived or 20% least deprived etc. This forms the building block for
+various additional analyses and to report findings in a larger report. The
+Health Inequalities Monitoring System was set up in 2002/03, drawing
+on the NIMDMs, for the Investing for Health strategy. Prior to the use of
+NIMDMs, the measure of deprivation used was Social Class (NS-SEC).
+• DfC are not solely reliant on the NIMDM to measure deprivation, as
+they have ready access to benefits data (e.g., health, poverty, housing,
+and other social security benefits data). Because of this, their data
+managed by Professional Services Unit (PSU) informs the Income and
+Employment Domains of NIMDMs. However, teams within the
+department do still make use of the NIMDM. Interviewees from DfC
+noted that they do not always use the full NIMDM, but instead use the
+most appropriate domain(s) for their project/initiative. For example, the
+Income domain is used if targeting poverty, or the Access to Services
+domain is used if rurality is the issue in question DE use NIMDMs alongside FSME to determine eligibility for the
+Extended Schools programme funding. DE are currently attaching
+student home SOA data to their records in the Schools Information
+Management System. In addition, the Sure Start programme targets
+resources on a geographical basis, which is why they use the NIMDM
+(targeting the most disadvantaged SOAs).
+4.2.1 Comments on the NIMDM
+Most interviewees commented positively on the NIMDM. However, a small
+number of representatives admitted they did not spend much time considering
+the reliability, validity or utility of the measure, and simply made use of it due
+to its widespread adoption across multiple departments and sub-divisions.
+A key strength noted was the scope of the measure. For instance, DfC
+highlighted that deprivation is an incredibly broad construct, and that the 7
+domains of the NIMDM allowed their department to focus on the most relevant
+aspect(s) of deprivation for a given initiative.
+In discussing the area-based nature of the measure (i.e., it cannot be used to
+identify individuals), most departments commented that this was not an issue.
+Indeed, most policies discussed by the participants tended to be placefocussed (e.g., Urban Villages, Tackling Rural Poverty & Social Isolation), and
+did not have individual eligibility criteria, meaning anyone could take part if
+they wanted.
+The timeliness of the NIMDM (i.e., how regularly it is updated) was discussed
+with interviewees, and most agreed it was adequate to meet the needs of their
+departments. Participants from the DoH are happy with the timeliness of the
+NIMDM. They noted that population-level health trends tend to unfold over
+long periods of time, and therefore they concluded that more frequent updates
+would be costly but would not necessarily lead to more clear and consistent
+trends (for their purposes). Other departments noted that, while more regular
+updates would be highly beneficial, they appreciated that the development of
+the NIMDM is a major piece of work and understood more regular updates may not be feasible in terms of resources. It was, however, noted that
+improvements in administrative data linkage could lead to greater efficiencies
+in this area.
+Several representatives noted that in the next iteration of the NIMDM the
+statistical geographies will be changed so the administrative and geographical
+boundaries align. The change is from Super Output Areas to Super Data
+Zones coming with the new releases in 2023/2024, which is considered to be
+more beneficial in the long run. 

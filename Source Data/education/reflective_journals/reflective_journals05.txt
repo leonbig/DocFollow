@@ -1,0 +1,131 @@
+Teaching involves making constant choices and orchestrating
+interventions that impact purposeful teaching and learning. Finding time to
+collect information and develop solutions for a teaching challenge can be
+problematic. Teachers may feel pressure to shift instructional practices without
+incorporating purposeful reflection. We developed a reflection framework and
+tested it in a middle grades classroom over a two-week period, and employed
+practitioner research to investigate the potential of allowing for deep reflection
+within the middle school structure. We investigated how the framework impacted
+the teacher’s ability to reflect and adjust based on student learning in the
+classroom. We conclude that sophisticated reflection in a social context is crucial
+to making conscious instructional modifications.
+A Framework for Reflective Practice
+The first period bell rings and thirty middle school students fill the room
+to take their seats. Today, the topic is initial ideas about solving two-step
+algebraic equations. The teacher is excited to use Hands-On Equations
+manipulatives (Borenson, 1986) to introduce the concept of solving equations for
+the variable value such as 2x + 3 = 7. This approach to solving algebraic
+equations allows students to physically build and manipulate items on a picture of
+a balance scale (Figure 1).algebra problems that students solved. On the right, the equation 2x + 3 = 7 has
+been set up on the scale. Students learn to move pieces with legal moves from one
+side of the balance scale to the other to solve for the value of one pawn, or x.
+1
+Moss et al.: A Framework for Reflective Practice
+Published by Digital Commons @ University of South Florida, 2018
+Students learn to simplify the equation by combining variable terms,
+isolating the variable term, moving constants to opposite sides, and applying
+conceptual reasoning about the value of x.
+The teacher has over 20 years of experience in elementary school, but is
+new to middle school. Thus, being a new teacher to the grade level and having
+never used the Hands-On Equations manipulatives (Borenson, 1986), the teacher
+is surprised at the students’ reaction to the lesson. Overall, students seemed
+confused with the connection between the manipulatives and conceptual
+reasoning about the variable values. Students wondered “When am I going to ever
+use this?” and often built towers with the blocks rather than engaging in the
+thought process required to find the value of x. While the teacher carefully
+constructed the lesson, the results did not meet the envisioned goals for the
+activity and student learning.
+What just happened? What caused the misconceptualization by both the
+teacher and the students? The bell rings and thirty different students enter the
+classroom, and the teacher prepares to repeat the lesson. The teacher makes
+several shifts with the next class regarding using manipulatives, setting up
+equations, and changing the pace of the lesson. Although, the next two math
+periods proceed with the class obtaining a better understanding of using the
+manipulatives to show the mathematics, the teacher is still not satisfied with either
+the way in which the manipulatives are being employed nor the student learning
+which occurred that day.
+Modes of Educator Thinking
+Young adolescents’ learning is influenced by how teachers design and
+implement lessons and assess student learning to make instructional decisions.
+The Association for Middle Level Education (formerly National Middle School
+Association [NMSA]) advocates that students and teachers must be engaged in
+active learning, continually reflecting on lessons and formatively assessing
+student thinking (NMSA, 2010). Danielson (2009) highlights four modes of
+educator thinking (Figure 2). The four modes of educator thinking align with
+practitioner-led inquiry in that the modes offer a reflective and systematic
+approach to research.The teacher followed the process of using the Hands-On Equations system
+(Borenson, 1986) to introduce algebra because the grade level had decided on this
+approach (formulaic thinking). The teacher’s efforts to try different groupings and
+expectations during the lesson are examples of situational decisions that were
+used in reaction to the context of each lesson. Additionally, in middle school, each
+class period presents differently as a group, essentially changing the situation for
+each lesson. Formulaic and situational thinking are a momentary reaction to the
+current and changing classroom contexts. The overall issues with the
+manipulatives, lesson design, student response, and rigor of the unit are a more
+complex problem than the teacher realized. In this case, the teacher needed to
+intentionally seek more information beyond what was being addressed with
+situational corrections (deliberate thinking). This required thought focused on why
+or why not the hands-on manipulatives were working in the classroom. Moving to
+dialectical thinking for an educator takes this one step further. For example,
+understanding the many variables contributing to the class reaction to the
+instruction and tasks, and generating solutions for shifts to occur in both student
+understanding and teaching pedagogy for students.
+According to the Principles and Standards for School Mathematics
+(NCTM, 2000), supporting student learning involves focusing on mathematical
+thinking and reasoning. This focus begins with writing effective lessons that
+engage students and support their understanding of the content. Middle grades
+students must be “engaged in active, purposeful learning” (NMSA, 2010, p. 14)
+3
+Moss et al.: A Framework for Reflective Practice
+Published by Digital Commons @ University of South Florida, 2018
+and quality teaching should respond to students’ developmental needs, paying
+particular attention to the big mathematical themes, presented as interconnected
+topics (Ma, 2010). Effective teaching involves supporting student learning by
+carefully sequencing tasks and addressing misconceptions while engaging in
+activities that appeal to young adolescents. The teacher must consider multiple
+kinds of information and make decisions that target students’ mathematical
+developmental needs and optimize student learning of significant mathematical
+ideas. This is particularly important for teaching young adolescents, as they are
+developing complex thinking skills at a range of levels.
+But, how do teachers keep track of what is happening in the classroom
+from day to day and how do they manage to be responsive to the class as a whole
+to know how to adjust the next lesson? This article tells the story of a teacher
+looking for answers and a mathematics educator willing to assist in the process.
+Gelfuso (2016) found that when reflection is content specific, one needs to have
+well-developed professional understanding of the subject matter to assist the
+teacher in analyzing and synthesizing teacher moves. Through practitioner
+research, “a process of discovering and framing questions, collecting data, and
+analyzing data to answer the questions” (Campbell, 2013, p. 4), the teacher and
+the mathematics educator agreed to use a framework for reflective practice to
+promote dialectical thinking. It was beneficial for the teacher to reflect on her own
+teaching, as opposed to other methods of reflection where an observer comments
+on the teacher. Practitioner research allowed for responsive teaching by
+uncovering truths about student learning in a deliberate reflective approach; rather
+than reacting to momentary situations. A shift in teacher action resulted based on
+data collected from classroom episodes.
+Reflective Practice in Action
+The collaboration presented in this article showcases a team consisting of
+the new middle grades teacher seeking to change her teaching practice and a
+mathematics educator supporting her in this process. The team used practitioner
+research with the intention of “providing insights into teaching in an effort to
+make change” (Dana & Yendol-Hoppey, 2014, p. 9). Through reflective practice,
+lessons were modified with the goal of adapting the pedagogy and tasks to
+support middle grades students’ learning of algebraic expressions and equations.
+The team chose to use the Google Doc platform for communication because it
+allowed both the teacher and math educator access to one document, which was
+instantly updated as reflections and responses were shared. The Framework for
+Reflective Practice (FRP), a tool for teachers to keep track of the student learning
+that takes place and to note tasks that support shifts in student thinking, was used
+4
+Journal of Practitioner Research, Vol. 3 [2018], Iss. 2, Art. 6
+https://digitalcommons.usf.edu/jpr/vol3/iss2/6
+DOI: <p>https://doi.org/10.5038/2379-9951.3.2.1081</p>
+to map where the students had been in their learning and make decisions about
+what to include or exclude in the next lesson. The FRP also documented the
+authentic learning that took place over time and the specific tasks that supported
+shifts in student thinking. Essentially, the FRP assisted the teacher in accessing
+deeper modes of educator thinking leading to both deliberate and dialectical
+decision making to bring about positive change in her classroom. Practitioner
+research in this case allowed the teacher to bring “those hunches, the teaching lore
+we carry quietly with us, to the surface of [her] teaching” (Hubbard & Power,
+1999, p. 19).

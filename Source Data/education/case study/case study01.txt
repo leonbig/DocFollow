@@ -1,0 +1,104 @@
+Case Study Title: Exploring the Impact of Peer Feedback on Senior High School Students' EFL Argumentative Writing Quality and Self-Revision Skills: A Case Study in Guangzhou
+
+1. Abstract 
+
+This case study investigates the impact of systematically implemented peer feedback on senior high school students' English as a Foreign Language (EFL) argumentative writing quality and their self-revision skills. Conducted in a public senior high school in Guangzhou, China, the study focuses on Grade 11 students (n≈30 in an experimental group) over one academic semester. A mixed-methods approach will be employed, incorporating pre- and post-intervention writing assessments, analysis of peer feedback provided, examination of draft revisions, student questionnaires, and semi-structured interviews. The intervention involves training students in effective peer feedback strategies and facilitating structured feedback sessions for three argumentative writing tasks. Expected outcomes include improvements in various aspects of writing quality (e.g., argumentation, organization, language accuracy) and enhanced student capacity for effective self-revision. The study aims to provide pedagogical insights for EFL writing instruction in similar Chinese secondary school contexts.
+
+2. Introduction
+
+Argumentative writing is a cornerstone of academic English proficiency, yet it poses significant challenges for many EFL learners, particularly at the senior high school level in China. Students often struggle with constructing coherent arguments, providing sufficient evidence, organizing ideas logically, and using appropriate academic language. Traditional teacher-centered feedback, while valuable, can be time-consuming for instructors and may not always foster learner autonomy or critical engagement with the writing process.   
+
+Peer feedback has emerged as a promising pedagogical tool to address these challenges. It offers students opportunities to engage critically with texts, develop an awareness of audience, articulate their understanding of writing conventions, and learn from observing and evaluating the work of others. Furthermore, the process of giving and receiving feedback can enhance metacognitive awareness and cultivate self-revision skills. However, the effectiveness of peer feedback can be contingent on various factors, including the quality of training provided, the structure of the feedback process, and students' attitudes and abilities.   
+
+While research on peer feedback in EFL writing is growing, more context-specific studies are needed, particularly focusing on argumentative writing among Chinese senior high school students and examining the nuanced interplay between peer feedback, writing quality, and the development of self-revision strategies. This case study seeks to address this gap.
+
+Research Questions:
+
+To what extent does participation in structured peer feedback activities affect the argumentative writing quality (in terms of argumentation, organization, coherence, vocabulary, and grammar) of senior high school EFL students?
+How does engagement in peer feedback influence students' self-revision skills and strategies when revising their argumentative essays?
+What are students' perceptions and experiences of the peer feedback process in this specific EFL context?
+Objectives:
+
+To implement a structured peer feedback program within a Grade 11 EFL writing class.
+To evaluate changes in students' argumentative writing quality before and after the peer feedback intervention.
+To identify and analyze the types and focus of revisions students make following peer feedback and through self-correction.
+To explore students' attitudes towards peer feedback and its perceived benefits and challenges.
+To provide pedagogical recommendations for integrating peer feedback effectively in senior high school EFL writing instruction.
+3. Literature Review
+
+This section would typically review literature on:
+
+Argumentative Writing in EFL: Characteristics, challenges for EFL learners, pedagogical approaches.
+Peer Feedback: Theoretical underpinnings (e.g., Vygotsky's sociocultural theory, social constructivism), documented benefits (e.g., increased audience awareness, critical thinking, learner autonomy), potential challenges (e.g., inconsistent feedback quality, student reluctance, social dynamics).
+Effective Peer Feedback Practices: Importance of training, use of rubrics/checklists, structured feedback protocols, teacher's role.
+Self-Revision Skills: The writing process, metacognition in writing, types of revision (surface-level vs. deep-level), factors influencing self-correction.
+Previous Studies: Empirical research on peer feedback in EFL writing, particularly studies conducted in Asian or Chinese contexts, and those focusing on secondary school students or argumentative writing.   
+(This section would typically be 800-1200 words in a full paper).
+
+4. Methodology
+
+Research Design:
+This study will employ a one-group pre-test-post-test descriptive case study design with mixed-methods data collection and analysis. The primary focus is an in-depth exploration of the peer feedback process and its impact within a single classroom setting. While a control group is not formally part of this specific design, baseline data and comparisons to general expectations for this student level can provide context.
+
+Participants and Setting:
+
+Setting: A public senior high school in Guangzhou, Guangdong Province, China, known for its emphasis on English language education. The study will take place during regular EFL writing classes.
+Participants: Approximately 30-35 students from one intact Grade 11 EFL class. These students will be of mixed English proficiency levels, generally ranging from intermediate to upper-intermediate (approximating CEFR B1-B2). Participation will be voluntary, with informed consent obtained from students and their guardians. The regular class teacher will also be a key informant and collaborator in the study.
+Intervention (Peer Feedback Procedure):
+The intervention will span approximately 12-14 weeks (one semester) and cover three argumentative essay writing cycles.
+
+Phase 1: Training (Weeks 1-2):
+Introduction to the principles of effective argumentative writing (e.g., clear thesis, logical reasoning, supporting evidence, counter-arguments, appropriate tone).
+Introduction to peer feedback: Rationale, benefits, and ethical considerations (constructive criticism, respectful communication).
+Training on using a specific peer feedback guide/rubric (see Data Collection Instruments). This will involve analyzing sample essays and practicing giving feedback in a guided manner. Focus areas will include identifying strengths and weaknesses in argumentation, organization, clarity, and language use.
+Training on how to receive feedback constructively.
+Phase 2: Implementation (Weeks 3-12, across 3 writing cycles): For each argumentative writing task:
+Pre-writing & Drafting: Students receive the essay prompt, discuss it, and write their first draft.
+Peer Feedback Session: Students will be randomly assigned into pairs or small groups (3 students). They will exchange drafts (anonymized if deemed beneficial to reduce anxiety, though this will be decided in consultation with the teacher and after initial student feedback). Using the provided feedback guide, students will read and provide written comments on their peers' drafts. This may be supplemented by brief oral discussions within pairs/groups, facilitated by the teacher. The teacher will monitor sessions, clarify doubts, and ensure a productive environment.
+Revision: Students review the feedback received from peers and revise their drafts. They will be encouraged to reflect on the feedback and decide which suggestions to incorporate. They will also be encouraged to perform self-revision beyond the peer comments.
+Submission: Students submit their revised drafts along with the first draft and the peer feedback sheets they received.
+Teacher's Role: The teacher will act as a facilitator, providing initial instruction, monitoring the peer feedback process, offering guidance when needed, but refraining from providing direct corrective feedback on drafts that are part of the peer review cycle until after the final submission of the revised version for that cycle.
+Data Collection Instruments:
+
+Argumentative Writing Prompts (3): Standardized prompts appropriate for Grade 11 students, covering topics that allow for diverse argumentation (e.g., "Should schools ban mobile phones?", "Is technology making us more isolated?", "The importance of environmental protection").
+Writing Samples (Pre- and Post-Intervention):
+Pre-intervention: An initial argumentative essay written before any peer feedback training or intervention to establish a baseline.
+During intervention: First drafts and revised drafts from the three writing cycles.
+Writing Quality Assessment Rubric: A detailed analytic rubric will be developed and validated (possibly adapted from existing ESL writing rubrics) to assess writing quality. Criteria will include: Argumentation & Evidence (clear thesis, logical reasoning, support), Organization & Coherence (structure, paragraphing, transitions), Vocabulary (range, appropriateness, precision), Grammar & Mechanics (accuracy, sentence structure). Two independent raters (the researcher and another experienced EFL teacher) will score the essays to ensure inter-rater reliability.
+Peer Feedback Forms/Guidelines: A structured form guiding students to provide feedback on specific aspects of the essay (e.g., clarity of thesis statement, strength of arguments, use of evidence, organization, language errors). It will include prompts for both positive comments and areas for improvement.
+Analysis of Revisions: Comparison of first drafts and revised drafts to identify:
+Types of revisions made (e.g., surface-level: grammar, spelling, punctuation; meaning-level: adding/deleting ideas, reordering arguments, clarifying meaning).
+Source of revisions (e.g., based on specific peer comments, self-initiated revisions). A coding scheme will be developed for this.
+Student Questionnaires:
+Pre- and Post-Intervention Questionnaires: Likert-scale and open-ended questions to assess students' attitudes towards writing, self-efficacy in argumentative writing, perceptions of feedback, and prior experiences with peer feedback.
+Semi-structured Interviews:
+With a subset of students (e.g., 6-8 students representing different proficiency levels and engagement in peer feedback) at the end of the intervention to gain in-depth insights into their experiences, perceived benefits and challenges of peer feedback, and its impact on their revision process.
+Brief interviews or discussions with the class teacher to gather their observations and reflections.
+Data Analysis:
+
+Quantitative Analysis:
+Descriptive statistics (mean, standard deviation) for writing scores (overall and for sub-scales of the rubric) at different stages.
+Paired-samples t-tests to compare pre-intervention and post-intervention writing scores (and scores across the three writing cycles) to assess improvements in writing quality.
+Analysis of questionnaire data using descriptive statistics and potentially correlational analyses.
+Qualitative Analysis:
+Content analysis of written peer feedback to identify the types, focus, and quality of comments provided by students.
+Thematic analysis of interview transcripts and open-ended questionnaire responses to identify recurring themes related to students' perceptions and experiences.
+Qualitative analysis of revisions made between drafts, categorized according to type and source.
+Ethical Considerations:
+
+Informed consent will be obtained from the school administration, the participating teacher, students, and their parents/guardians.
+Participants will be assured of anonymity and confidentiality; pseudonyms will be used in reporting findings.
+Students will be informed that their participation (or non-participation) will not affect their grades.
+Data will be stored securely.
+5. Expected Findings and Significance
+
+Expected Findings:
+A statistically significant improvement in the overall argumentative writing quality of students participating in the peer feedback intervention, particularly in areas like argument development, organization, and potentially language accuracy and complexity.
+Evidence of students developing more sophisticated self-revision strategies, moving from primarily surface-level revisions to more meaning-focused revisions.
+An increase in students' confidence and self-efficacy in argumentative writing.
+Students are likely to report positive attitudes towards structured peer feedback, appreciating the opportunity to receive multiple perspectives, though challenges such as the varying quality of feedback or time constraints might also be highlighted.
+Analysis of peer feedback content will reveal common areas students focus on and potential weaknesses in their ability to provide effective feedback, informing future training.
+Significance:
+Pedagogical: The study will provide practical insights and evidence-based recommendations for EFL teachers in Chinese senior high schools on how to effectively design and implement peer feedback activities to enhance argumentative writing skills and foster learner autonomy. It can inform teacher training programs.
+Theoretical: The findings will contribute to the broader understanding of peer feedback mechanisms in EFL contexts, particularly the link between giving/receiving feedback and the development of writing proficiency and self-regulation skills.
+Contextual: It will offer valuable data from the specific context of Chinese senior high schools, a large but sometimes underrepresented group in international EFL research.

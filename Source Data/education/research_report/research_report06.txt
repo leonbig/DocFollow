@@ -1,0 +1,125 @@
+1. Summary and Key Findings
+• This section presents a scoping review of the most common measures of
+socio-economic deprivation used within the field of education in the UK, and
+internationally.
+• Systematic searches of academic and grey literature databases yielded a total
+of 69 papers and reports that met the inclusion criteria, 19 of which were
+government reports or unpublished research studies.
+• Education, occupation and income are the ‘Big Three’ when it comes to
+measurement of social disadvantage in education research.
+• The individual-level measure of parental education, applied either by itself, or
+with other measures, appeared in approximately 75% of the records.
+• Income featured as an indicator of SES in 54% of studies.
+• The range of measures of low SES in research, demonstrate that the focus is
+not just on low income, but also home resources, access to services, and the
+occupation and education of the parents.
+• Scandinavian countries could be considered ‘best-in-class’ due to their
+comprehensive data linkage infrastructure which allows researchers and
+policy makers to seamlessly link administrative data across different domains
+(e.g. education, income, and occupation) and levels (e.g. individual,
+household, school).
+• The legal basis to mirror such data linkages in NI would need to be
+investigated and may require legislative change and investment in resources
+– initiatives such as this are gaining momentum in other parts of the UK (for
+example the Small Business Enterprise and Employment Act (2015) is
+allowing for linkages between English educational outcome data with pay and
+benefits data from the HMRC. The SBEE (2015) requires changes through
+the NI Assembly to allow the Act to be applied in NI.
+• The Administrative Data Research Northern Ireland is linking a number of
+datasets together for research purposes using the Digital Economy Act 2017.
+One of these is the Education Outcomes Linkage Dataset which links DE data
+on pupil characteristics, attainment and attendance and was launched in March 2023. The next phase of the project is to link with data held in the
+Department for Economy on higher and further education, apprenticeships
+and training.  2. Aims
+To conduct a scoping review of the most common measures of socio-economic
+deprivation used elsewhere in the UK, and internationally. This scoping review aimed
+to present an overview of a large and diverse body of literature relating to the
+measurement of socio-economic status (SES) within an educational context. As
+such, the focus was on the volume, nature, and characteristics of the existing
+research, rather than the quality of the research.
+3. Background and rationale
+As the usage, strengths and limitations of FSME have already been discussed in the
+narrative review (Section 1), this section focusses on alternative indicators of SES
+only. A 2005 meta-analysis [1] indicated that (aside from FSME), the three most
+common indicators of SES used in research were, parental education3
+, parental
+occupation (often referred to as occupational or social class), and household income.
+This scoping review focused on studies that are mainly set in an educational context,
+but it is worth noting that this is only a small subset of the research into
+socioeconomic inequalities more broadly. Socioeconomic status is one of the most
+widely researched variables across the social and life sciences. As it would have
+been unfeasible to scope the measurement of SES across multiple domains, we only
+describe instances where SES was measured in the context of educational
+outcomes. For example, we exclude studies where the main outcomes were related
+to physical [e.g. 2] or mental health [e.g. 3].
+4. Methodology
+This scoping review followed the framework outlined by Arksey and O’Malley (2005)
+[4], which consists of five unique steps: i) identify the research question, ii) identify
+relevant studies, iii) study selection, iv) charting the data, and v) collating,
+summarizing, and reporting the results. A key list of search terms was developed by
+the research associate (RA – Dr Deborah Roy) and lead consultant (LC - Dr Eoin
+McElroy) and reviewed by the research steering group. An Ulster University librarian  also advised on the search terms. This approach is described so that it is
+reproducible, and transparent. This synthesis of evidence, is exploratory in nature
+and we have mapped relevant research in appendices III and IV. We have also
+characterised and described the nature of the evidence, and importantly we have
+detailed how SES has been defined or operationalised in each study. There are also
+details about the source of the data and any data linkages that exist.
+The information presented comes from searches within academic databases
+ProQuest, which includes the Education Resources Information Center (ERIC)
+database, and Psych-Info. An asterisk symbol was used as to find papers using
+different synonyms of each term (e.g. “regist*” would return key terms “registry” and
+“register” in the search). A rapid search of the grey literature4
+(e.g., government
+reports) has also been undertaken using open access web tools and searching on
+government websites in UK (e.g. Department of Education websites in Scotland,
+England and Wales). Also we searched ‘Grey Matters’, a website developed by the
+Canadian Agency for Drugs and Technologies in Health to identify public agency
+reports. Search terms used to identify papers, included, socioeconomic status,
+poverty, and low income (for full search histories see appendices I and II).
+Initial content analysis of the papers’ abstracts allowed for the identification and
+exclusion of papers that did not meet the criteria (e.g. papers that focussed on
+physical health). Then a final set were screened for their relevance by two
+independent reviewers (the RA and LC). Key findings include whether or not the
+approaches taken in other jurisdictions could be adopted by the DE to measure
+social disadvantage. The searches have been iterative.
+4.1. Inclusion Criteria for Academic Database Searches
+• Registry data/data linkage (e.g., Census data), research that involves
+nationally representative longitudinal studies (e.g. the British birth cohort
+studies), and large international educational studies (e.g. Progress in
+International Reading Literacy Study [PIRLS], Trends in International Mathematics and Science Study [TIMSS] and Progress in International
+reading Literacy Study [PISA]).
+• The primary research focused on indicators of SES or disadvantage used in
+an educational context.
+• The measures of SES, deprivation, or poverty were clearly stated.
+• Studies included a range of age categories, as long as they were mainly
+under 18’s.
+• Studies were undertaken in the last 10 years.
+• Studies were in the English language.
+4.2. Exclusion Criteria
+• FSME is the only proxy for socioeconomic deprivation or status.
+• The population exclusively contained older adults (e.g. 18+ upwards).
+• The main focus was public health, and not education. 4.3. Academic Database Search Results
+The following electronic data bases were searched: PROQUEST (complete
+database search which includes ERIC), Psych INFO and grey literature. For
+PROQUEST the key descriptors identified 4,553 articles (Figure 1). To narrow the
+search further, articles that primarily used FSME as a proxy indicator were excluded,
+using NOT and only articles that included the terms Census or Registers were
+retained. This resulted in 521 papers.
+Full-text versions were then obtained, and 33 PROQUEST articles remained after
+screening of the abstracts, excluding records that did not meet the inclusion criteria.
+Finally a full-text review took place of the PROQUEST records, by the lead
+researcher and the consultant (independent of one another), to refine the search
+further. A inter-rater-reliability test revealed 86% agreement on records to retain.
+After discussion it was agreed to remove six further PROQUEST records, leaving 24
+records which are included in the Appendix III. The search in Psych INFO (via OVID)
+involved key word searches, combined with subject heading search, using ‘OR’ and
+then ‘AND’ bringing the three concepts together and 28 records were retained. A
+further 2 articles were removed for not meeting the criteria. This left 50 published
+academic articles which were reviewed and synthesised.
+A search of the grey literature included a search of websites in UK and Republic of
+Ireland going back to 2014 using key search terms “socioeconomic
+status/deprivation/poverty” AND “education”, in the websites of Department for
+Education (UK), National Foundation for Education Research (NFER), and
+Education Authority for Northern Ireland. 75 papers were initially selected. After
+scanning of full text articles, 19 papers/reports were retained for the review (see
+Appendix IV)

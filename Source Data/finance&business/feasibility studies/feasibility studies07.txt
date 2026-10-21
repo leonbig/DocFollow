@@ -1,0 +1,134 @@
+Context
+Africa’s aviation sector is poised for rapid growth, with passenger traffic expected to double over
+its 2023 level by 2043, according to the International Air Transport Association (IATA 2024).
+This expansion opens up significant economic opportunities, including increased connectivity,
+tourism, and trade, which are essential for the continent’s economic integration and growth.
+This growth also underscores the urgent need to address the environmental challenges associated
+with aviation emissions. Without action, the sector’s carbon footprint could significantly undermine
+sustainability goals, increasing the pressure on Africa’s ecosystems and global commitments to
+climate change mitigation.
+This study explores the potential for producing sustainable aviation fuels (SAF) in four African
+countries: Ethiopia, Kenya, Nigeria, and South Africa. Rather than serving as a full feasibility analysis
+or detailed project proposal, it uses a techno-economic approach to showcase Africa’s potential
+through examples from these countries. The analysis highlights strategies for cost reduction and risk
+management, with a focus on the higher selling prices of SAF in Africa, which are driven by elevated
+risk premiums and green premiums. By assessing feedstock availability, production technologies,
+and policy frameworks, the study provides actionable insights to accelerate SAF adoption in
+Africa. The aim is to bridge the cost gap with conventional fossil-based jet fuel, position Africa
+as an integral part of sustainable aviation value chain, and contribute significantly to reducing
+carbon emissions.
+The aviation industry sees SAF as essential for achieving net-zero emissions and transitioning to
+renewable energy sources. The “basket of measures” of the International Civil Aviation Organization
+(ICAO) for reducing aviation emissions includes four components: improving aircraft technology,
+enhancing operational efficiency, promoting SAF, and implementing market-based measures such as
+the Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA) to offset residual
+emissions (ICAO 2019). SAF can significantly reduce aviation’s lifecycle greenhouse gas (GHG)
+emissions, with ambitious adoption potentially lowering emissions by 57 percent by 2050 compared
+with business-as-usual scenarios (Malina, Abate, Schlumberger, and Navarro Pineda 2022). To do
+so, however, SAF production must scale from 0.5 metric tons (Mt) in 2024 (0.5 percent of total jet
+fuel consumption) to 500 Mt by 2050—a 1,000-fold increase—presenting both opportunities and
+challenges (IATA 2024).
+SAF represents a transformative opportunity for Africa’s aviation industry, enabling a shift toward
+greener, more resilient operations. The ICAO projects that a significant portion of SAF production
+will come from developing countries and emerging markets, where biogenic feedstock is abundant
+and renewable energy potential high (ICAO 2022a). However, countries outside the Organisation for
+Economic Co-operation and Development (OECD) remain significantly underrepresented in the SAF
+supply chain, often relegated to just exporting raw feedstocks while importing refined SAF.
+This disparity is particularly concerning given the immense capital investment required to scale
+SAF production. Projections by the World Bank indicate that scaling SAF globally will require annual
+greenfield investments of up to $124 billion, culminating in over 370 SAF–producing facilities by the
+Fueling Africa’s Flight: A Techno-Economic Assessment of Sustainable Aviation Fuels in Africa xvi
+late 2030s and early 2040s (Malina and others 2022). For context, a single 4,000-barrel per day
+(BPD) hydrotreated esters and fatty acids (HEFA)–based SAF facility requires $200–$300 million in
+upfront capital.1 The size of this investment underscores the opportunity for developing countries to
+move beyond raw material exportation to becoming integral players in SAF production.
+The stakes are particularly high for Africa. Locally produced SAF can reduce dependency on
+imported jet fuel, conserving foreign exchange reserves and stabilizing costs in a sector vulnerable
+to volatile global oil prices. SAF production also presents a significant opportunity to enhance energy
+security and drive economic resilience by creating value-added industries. Although the greatest
+environmental benefits of SAF are realized in local production and consumption, exporting SAF to
+foreign markets or selling through book-and-claim platforms presents an economic diversification
+opportunity for many African countries.2 Without active integration into the SAF production chain,
+African countries risk missing out on these benefits, exacerbating their dependency on imports.
+Despite its promise, SAF development in Africa faces significant challenges. The continent’s aviation
+industry must contend with high production costs, limited infrastructure, and fragmented policy
+frameworks that hinder scalability. Jet fuel prices in Africa are about 17 percent higher than the
+global average, because of logistical inefficiencies, limited refining capacity, and risk premiums
+associated with currency volatility.3 Feedstock availability, while abundant in many regions, requires
+improved supply chain management to ensure consistent production at competitive prices. The cost
+disparity between SAF and conventional jet fuel underscores the need for targeted interventions.
+With coordinated policy support, international partnerships, and investments in infrastructure and
+technology, Africa has the potential to overcome these challenges and position itself as a global
+player in sustainable aviation practices.
+Country Insights
+This report identifies pathways for overcoming shared challenges and leveraging advantages to
+establish an SAF industry across the continent. Kenya, Ethiopia, Nigeria, and South Africa were
+chosen because of their strategic importance in Africa’s aviation sector, abundance of an array of
+feedstocks, and varying infrastructure and policy levels. Kenya’s emphasis on biofuel feedstocks
+such as used cooking oil (UCO), and castor together with strong renewable energy policy ambitions
+makes it vital for SAF development. Ethiopia’s access to sugarcane and municipal solid waste (MSW)
+and its strong aviation presence highlight its potential. South Africa’s industrial infrastructure and
+expertise in Fischer-Tropsch (FT) technology position it well for synthetic fuel (e-SAF) production
+using green hydrogen. Nigeria’s jet fuel refining capabilities and proximity to major airports provide a
+logistical advantage for lipid co-processing. These countries exemplify Africa’s SAF potential.4
+
+Investment Needs and Production Costs
+The report outlines the investment needs and potential economic benefits of establishing SAF
+production facilities in the four countries (table ES1). Each country’s unique resources and
+infrastructure are considered, in ordered to highlight viable pathways for SAF development and their
+respective impacts on local economies and jet fuel demand:
+• Kenya: A 4,000-BPD HEFA plant producing SAF from UCO and castor oil requires an estimated
+investment of $235 million. This facility could meet 15 percent of Kenya’s current jet fuel
+demand and 10 percent of its projected demand in 2030.
+• Ethiopia: An investment of $376 million in ATJ for 1,445 BPD of SAF would meet 6 percent
+of jet fuel demand. 2,000-BPD MSW-FT facility requires a significantly higher investment
+($547 million) but offers higher production capacity, potentially meeting 4 percent of the
+projected jet fuel demand and 1.2 percent of projected diesel demand in 2030.
+• Nigeria: Co-processing offers a cost-effective approach to SAF production in Nigeria, leveraging
+existing refinery infrastructure.5 The Dangote refinery, with a capacity of 650,000 BPD, or other
+refineries in the country could produce 3,321–5,950 BPD of SAF through co-processing.
+• South Africa: A 1,000-BPD power-to-liquid (PtL) facility using green hydrogen and industrial
+waste carbon requires an investment of $156 million. It could produce 39 million liters of SAF
+annually, meeting about 3 percent of South Africa’s jet fuel demand. The investment costs for
+the PtL facility do not include the cost of green hydrogen production, which could amount to
+several billion dollars for a large-scale facility.
+The techno-economic analyses present promising pathways, such as FT from municipal solid waste
+and alcohol-to-jet (ATJ) from sugarcane and molasses. However, these pathways are at a low
+technology readiness level, consequently introducing uncertainty into the results.6 The gasification
+of biomass or MSW and the subsequent FT conversion process involve complex steps that can
+create operational challenges, such as managing syngas impurities that can affect catalyst
+efficiency. ATJ solutions are also uncertain related to the scale-up and optimization of dehydration,
+oligomerization, and hydrogenation processes using specific African feedstocks. These risks may
+affect the feasibility and investment decisions for entities other than very large corporations with
+substantial technical and financial resources. Further research and development, along with pilot
+projects, will be crucial to mitigate these uncertainties and ensure the successful deployment of
+these SAF production technologies in the African context.
+
+The deep dives on each country yield the following insights:
+• Kenya has the potential to produce HEFA–based SAF using castor oil and UCO. Its existing
+infrastructure, including its petroleum pipeline network and Nairobi’s role as a regional
+aviation hub, provides a strong foundation for SAF production. However, significant upfront
+investment—estimated at $235 million for a 4,000-BPD plant—is required. Policy interventions
+such as accelerated depreciation, tax breaks, and loan guarantees are crucial to bridge
+the cost gap between SAF and conventional jet fuel. Kenya’s strategic advantage lies in its
+government’s strong commitment to decarbonization and the country’s technical expertise in jet
+fuel production.
+• Ethiopia’s SAF potential is anchored by its large and concentrated jet fuel demand, driven by
+Ethiopian Airlines, the continent’s largest carrier. The country’s favorable climate for sugarcane
+production and access to MSW offer viable feedstock options for SAF production via alcohol-to-
+jet (ATJ) and FT pathways. Challenges include limited existing infrastructure and the need for
+significant investment in feedstock-processing facilities. Ethiopia’s heavy reliance on imported
+jet fuel makes local SAF production a strategic priority for enhancing energy security and
+reducing operational costs for its aviation sector.
+• Nigeria, one of the few Sub-Saharan African countries producing conventional jet fuel, can adopt
+lipid co-processing pathways. Proximity between major airports and refineries offers logistical
+advantages, and the scale of its aviation market ensures significant demand for SAF. However,
+fragmented domestic aviation and challenges in feedstock scalability may limit Nigeria’s
+potential for SAF production at scale. The integration of SAF into existing refinery processes
+provides a cost-effective entry point for the country’s SAF ambitions.
+• South Africa’s SAF strategy focuses on e-SAF production using green hydrogen and industrial
+waste carbon. The country’s FT expertise and ongoing green hydrogen projects provide a strong
+technical foundation. However, the high costs associated with renewable energy and carbon
+capture technologies pose significant barriers. Despite these challenges, South Africa’s ambition
+to develop export-oriented SAF corridors highlights its potential to become a regional SAF
+production hub, leveraging its industrial leadership and relatively mature infrastructure.

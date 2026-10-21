@@ -1,0 +1,45 @@
+The Single Responsibility Principle, which is part of the set of “S.O.L.I.D” principles laid out by Robert Martin, is a simple yet very effective strategy to make software development easier, because it reduces the chances of making huge mistakes and makes figuring out and debugging the program a lot easier.
+
+Not only that, but the in my personal opinion, the best consequence of using S.O.L.I.D or at least this principle is that it makes your code easily extensible. This is especially useful in Agile development when you have to be ready for changing requirements and accommodate them quickly without causing too many regressions in existing code.
+
+The principle states that “A class should have one and only one reason to change”. While that statement may not perfectly clear at first glance, the idea behind it is fairly simple and straightforward. The idea is that one class should be responsible for one, very basic thing. In other words, if one requirement of the application changes, we should only have to change only one class.
+
+The overall result of this and using the SOLID principles in general is many small classes rather than a few very large ones.
+
+To understand why this is awesome, let us take the example of a very simple Library Catalog application. Below is a mockup of a Java app that takes books from the user and stores them in CSV format. (Note: this means that the code just as it is here will not compile, it is for demo purposes only.)
+
+// Simple Book catalog that stores book name and author in CSV format. public class Catalog { // Reads name and author and stores in the file "books.txt" in CSV void newBook() { // code to add books to CSV file } // Parses the "books.txt" CSV file and prints all void printBooks() { // code to print books from CSV } public static void main(String[] args) { Scanner scn = new Scanner(System.in); System.out.println("Select option:"); System.out.println("1: New Book"); System.out.println("2: All Books"); int choice = 0; try { choice = scn.nextInt(); } catch(Exception ex) { System.err.println(ex.getMessage()); } if (choice == 1) { new Catalog().newBook(); } if (choice == 2) { new Catalog().printBooks(); } scn.close(); } }
+
+There are some obvious problems with this class. Firstly, there’s no Book Class to represent Book objects. For sure, it should have a Book and perhaps a list to hold Books but that’s not important right now.
+
+What is important however, is the number of times we may have to change the class. If we want to change how we take input from the user, we need to change this class. If we want to change how they’re stored, we need to change this class. If we want to add the option to delete a book, or perhaps search a book, we need to once again change this same class.
+
+This may not seem like such a problem, since technically the functionality is distributed among small functions. If we continued to use this approach and made the program any bigger than it is right now, it would be very difficult figure out exactly what each class did and what needed to be changed, since multiple classes would do multiple things like our Catalog class.
+
+Suppose we want to change the way we save Books. Say we need to move away from CSV into SQLite or JSON which are better formats for bigger, expanding applications.
+
+We would need to change the Catalog class, since apart from reading user input, it also reads the stored data. This may not be obvious to someone who isn’t inherently familiar with the code. It may not even be obvious to the person that wrote the code, two days after they wrote it. Clearly this can cause a lot of headaches and make solving problems and bugs that much harder.
+
+The Single Responsibility Principle provides a better alternative. We would need to refactor our code entirely, but that would be a small prince to pay in the long run.
+
+We move the ability to store and print all books to a totally different class altogether. We also create a Book class to represent books which just has a name and author and makes things simpler. Let’s call our storage class CSVStorage which would look like this:
+
+public class CSVStorage { public void printAllBooks(String filename) { // code to read CSV file and print all books } public void store(Book book, String filename) { // code to store a book in CSV format. } }
+
+The class may not be so small in practice, but it still would be smaller than our Catalog class. We would also need to modify our Catalog class, since that it is our main class.
+
+public class Catalog { public static void main(String[] args) { Scanner scn = new Scanner(System.in); System.out.println("Select option:"); System.out.println("1: New Book"); System.out.println("2: All Books"); int choice = 0; try { choice= scn.nextInt(); } catch(Exception ex) { System.err.println(ex.getMessage()); } CSVStorage storage = new CSVStorage(); if (choice == 1) { Book newBook = getInput(); storage.store(newBook, "books.csv"); } if (choice == 2) { storage.printAllBooks("books.csv"); } scn.close(); } }
+
+In the code above, getInput() is any function that gives the user the prompt to enter book details and returns a Book object from what the user entered. Ideally this too would be in it’s own class, but that is not included in the code above.
+
+Now, if you do a simple line count of the entire program, you may find that our first approach of putting everything in the Catalog class may actually have less lines of code than splitting it all up between different classes like CSVStorage . The SOLID principles, and indeed any Design Pattern that you may use, does not guarantee that the amount of code you write initially will be less or will be easier to write. The advantage it provides, is it makes it less error prone (i.e. it may have fewer bugs) and if they do have bugs, they’ll be easier to solve.
+
+For example, if we fix a problem with CSVStorage , we don’t even have to look at the code of any other class. Our problems are compartmentalized in that one class.
+
+Secondly, we could easily swap CSVStorage with a class that saves in JSON, called JSONStorage (perhaps). Or something like SQLiteStorage for an SQLite database. This could all be easily accomplished by simply writing those classes and updating the references in the Catalog class. This way, we isolate classes and by doing so, isolate problems.
+
+This idea carries into another common wisdom that we should always “abstract away the concept that varies.” That is what we have done here, we’ve abstracted away, i.e. hidden away the concept of how storage and retrieval is done, and only given our other classes a list of functions to do so. Software Development is hard as it is, and using best practices will make it easier for us in the long run.
+
+A working sample of the demo code is available HERE.
+
+Advertisements

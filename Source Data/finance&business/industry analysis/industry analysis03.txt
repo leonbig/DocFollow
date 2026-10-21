@@ -1,0 +1,147 @@
+Labor economics and international law inform policy making on migration. Their perspectives arise
+from distinct intellectual and scholarly traditions, and they focus on different aspects of cross-border
+movements. As a result, each provides important insights, and yet until now there has been no simple
+framework to integrate them into a coherent whole.
+Both labor economics and international law recognize that the policies of destination countries play
+the primary role in shaping migration patterns and effects. These countries define and regulate, albeit
+imperfectly, who crosses their borders, who is legally allowed to stay and under which conditions, and
+what rights those who cross their borders are granted. These policies greatly affect migrants’ incentives
+and decisions before their departure, during their journey, and after their arrival, shaping all aspects of
+global mobility. By contrast, most origin countries have little sway in regulating movements.
+When destination countries set their migration policies, they focus primarily on their own welfare.
+Through their political process, they consider both the effects of migration on their labor markets and
+(because they are not just markets) the broader impacts of migration on their society. Only to a much
+more limited extent do they consider impacts on migrants and origin countries.
+Labor economics and cost-benefit calculations
+Labor economics views migration as the movement of workers across borders to countries where their
+labor can be employed more productively than in their origin country. Market forces drive the move-
+ment of factors of production—capital and labor—and their allocation across countries. From this
+perspective, the free movement of people is a key element of the efficient functioning of the global
+economy, and labor should be allowed to move where it is most productive without the introduction of
+friction by national borders and other policy restrictions. Nationals of destination countries who are
+negatively affected by migration—such as workers who compete with migrants in the labor markets—
+can be supported through distributional policies.
+Labor economics focuses on the skills, qualifications, and professional experiences that migrants
+bring to the destination country and the extent to which these can be used productively. Some
+migrants bring skills that complement those already available in the labor market. This complemen-
+tarity increases productivity, with substantial benefits spread across the destination country’s econ-
+omy. In other occupations, migrant workers are substitutes. Their arrival expands the labor supply,
+thereby lowering wages and overall production costs. Consumers and employers (and the owners of
+capital) gain, but some existing workers experience lower wages and possibly unemployment. The
+distinction between complementary and substitute skills is based not on the level of skills, but on how
+much they match the needs of the labor market: both high skills and low skills can be complements
+or substitutes.
+There is ample empirical evidence that when migrants’ skills match the needs of the destination labor
+market, the migrants benefit as well, as do their countries of origin.1 Because they can be employed more
+productively than in their country of origin, migrants earn higher wages. Countries of origin benefit
+from both financial transfers (remittances) and knowledge transfers. But there are also costs, such as
+when large numbers of people with scarce skills emigrate (brain drain). However, they tend to be of a
+smaller order of magnitude.
+This perspective has been further developed by recognizing that migrants bring not only skills but
+also a range of other attributes, including their personal histories and cultural preferences. The match
+of their skills with the needs of destination economies largely determines labor market effects. Their
+integration, however, goes beyond the labor market. It may entail financial costs, such as if migrants’
+
+families require education and health
+services. Depending on a migrant’s job,
+well, including nonmonetary costs such
+as for migrants’ social integration.
+
+
+
+What is considered a strong match
+depends on both migrants’ character-
+istics and the destination society’s pref-
+erences. But these characteristics and
+preferences change over time, such as
+when economic growth accelerates or
+slows down. Distinct constituencies in
+the destination society may also have
+
+different views on the costs associated
+with migrants’ integration, especially
+for social inclusion. Yet both skep-
+tics and supporters agree that some
+migrants’ skills and attributes better
+match the needs of the destination
+society than others. The debate is about
+what constitutes a stronger match and
+a weaker match. This question is typi-
+cally arbitrated through political pro-cesses, and what is viewed as a desirable
+outcome evolves over time.
+
+Overall, many destination countries derive their migration policies from a cost-benefit calcula-
+tion. When migrants’ profiles match the needs of the destination society, their contributions exceed
+the costs of their integration (figure 1.2). In this situation, destination societies enjoy a net gain—
+and in most situations migrants and countries of origin do as well—and they tend to allow or even
+encourage such movements. By contrast, when migrants’ profiles do not match the needs of destination
+societies, the costs may exceed the benefits from their labor contributions. Migrants them-
+selves may benefit, but destination countries experience a net loss, and therefore they try to discourage
+these movements.
+Costs exceed benefits
+Labor contribution
+is smaller than
+integration costs
+International law and the obligation to protect
+Under international law, the choice of who is admitted into state territory is a matter of state sover-
+eignty. Countries decide who to let in and under what status. This decision can be made unilaterally or
+through specific agreements between states, such as international conventions, regional free movement
+agreements, or bilateral labor agreements. Norms are drawn from various sources and fields of law, such
+as consular and diplomatic protection, the law of state responsibility, international human rights law,
+international refugee law, and international labor law and standards. They apply differently to distinct
+groups of migrants,2 and they are unevenly implemented at national levels.
+26 | WORLD DEVELOPMENT REPORT 2023
+Human dignity and rights are at the core of international law, including the 1948 Universal Declara-
+tion of Human Rights and the 1951 Convention Relating to the Status of Refugees and its 1967 Protocol
+Relating to the Status of Refugees (the 1951 Refugee Convention), as well as a range of complementary
+legal instruments. They also underpin key international norms, including the 2018 Global Compact
+for Safe, Orderly and Regular Migration and the 2018 Global Compact on Refugees, the International
+Labour Organization Declaration on Fundamental Principles and Rights at Work, and the central
+promise of the United Nations’ 2030 Global Agenda for Development and its Sustainable Develop-
+ment Goals to “leave no one behind.” Acknowledging migrants as peo­ ple implies that these norms fully
+apply to them whether they are in transit, at a border, or in a destination country. Particular attention
+should be paid to those facing daunting challenges, such as women and girls in some ­ circumstances,
+LGBTQ+ individuals, unaccompanied children, and victims of racism, xenophobia, and other forms of
+discrimination.
+In a world of sovereign states, all persons are under the protection of their country of citizenship.
+Regardless of where a person lives, his or her rights are assured either by the country of citizenship or
+through an agreement between the country of citizenship and the country of residence. The protec-
+tion of a state guarantees “the right to have rights,” as political philosopher Hannah Arendt famously
+declared in 1948. But situations can arise in which a country is unwilling or unable to protect the rights
+of some of its citizens because of, for example, conflict or persecution.
+International law defines such people as “refugees.” Refugees are people who can demonstrate a
+“well-founded fear” of harm if they were to return to their country of origin.3 Their status is protected
+under the 1951 Refugee Convention as well as regional refugee law instruments. Socioeconomic vul-
+nerability does not enter into this definition. Some refugees are wealthy, although in many cases being
+a refugee leads to economic
+deprivation. Conversely, many
+people who are vulnerable do
+not require international pro-
+tection even though they may
+need material assistance.
+
+
+At the core of international
+protection is the principle of
+non-refoulement4: refugees shall
+not be sent back to their coun-
+
+try of origin or to another coun-
+try where they would be at risk
+of harm (figure 1.3). This prin-
+
+ciple applies regardless of the
+costs to the hosting country.
+International protection also
+includes a set of specific rights
+refugees can enjoy in the coun-
+try in which they are hosted
+Opportunity
+at destination
+MOTIVE
+Fear
+at origin
+until they regain full protec-
+tion, as citizens or permanent
+residents, from either their ori-
+gin country or another country.

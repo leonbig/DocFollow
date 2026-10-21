@@ -1,0 +1,99 @@
+1 Introduction
+Central banks carefully monitor the evolution of exchange rates. In the case of the European Central Bank (ECB) and other major central banks, the exchange rate is not a policy target. But the “market value” of the euro is highly relevant for understanding the medium-term inflation outlook via its impact – through import prices and through general equilibrium effects – on the real economy.
+
+It would therefore be very useful to be able to anticipate future exchange rate movements, but this has proven rather elusive, especially at short horizons. The view that exchange rates are largely disconnected from economic fundamentals at short horizons has mainly predominated since the seminal paper by Meese and Rogoff (1983), which showed that exchange rate models were unable to deliver more accurate nominal exchange rate forecasts than the simple prediction of “no change” associated with the random walk (RW) model.[
+2
+] The difficulty of predicting exchange rates with systematically better results than by using the RW model, especially at short-horizons, was reiterated by Rogoff (2008)[
+3
+] and, more recently, in the influential articles by Rossi (2013)[
+4
+] and Cheung et al. (2019)[
+5
+].
+
+Exchange rates have an important role beyond their key contribution to understanding the inflation outlook. While, in line with their monetary policy strategies, the ECB, the US Federal Reserve System and other major central banks do not treat the exchange rate as a target variable,[
+6
+] they are mindful that if large and persistent nominal exchange rate fluctuations occur, real exchange rate misalignments may develop over time that could have significant implications for the economic outlook. This is because over- and undervalued currencies, in an environment of price rigidity, could lead to competitiveness imbalances, excessive real exchange rate volatility and, potentially, sharp economic adjustments with adverse effects on consumption and production.[
+7
+] This is the context in which currencies’ “fair value” is often discussed. In exceptional instances, major central banks have intervened directly or only verbally in foreign exchange markets in a concerted manner to influence exchange rate dynamics. It is hence not surprising that academics and policymakers have continued to strive in recent decades to improve their methodological frameworks for assessing equilibrium exchange rates (e.g. Bussière et al., 2010; Phillips et al., 2013; Fidora et al., 2017; Couharde et al., 2018; and Cubeddu et al., 2019).[
+8
+]
+
+Recent papers have argued that concepts of equilibrium exchange rates, besides their intrinsic interest, could be helpful for understanding and predicting exchange rate movements. These papers suggest that, even if the dynamic adjustment of exchange rates cannot be fully anticipated, it is known that they should eventually adjust to their equilibrium, i.e. a terminal condition defined by economic theory. For example, Ca’ Zorzi et al. (2016) and Ca’ Zorzi and Rubaszek (2020)[
+9
+] show that it is sufficient to assume that the real exchange rate gradually converges to the simplest definition of the equilibrium exchange rate, i.e. relative purchasing power parity (PPP), to produce surprisingly accurate real and nominal exchange rate forecasts. In theory, this approach is best suited to predicting real exchange rates, as the concept of the equilibrium exchange rate is defined in real terms. But empirical evidence shows that real exchange rate adjustments occur primarily through currency movements rather than via relative price changes. Thus, at least for countries with moderate inflation rates, measures of real equilibrium exchange rates can also be employed to forecast nominal exchange rates.[
+10
+] From a different starting point, Ca’ Zorzi et al. (2017)[
+11
+] and Eichenbaum et al. (2020)[
+12
+] suggest that more advanced macroeconomic models, known as dynamic stochastic general equilibrium (DSGE) models – which assume that real and nominal exchange rate fluctuations are driven by differences in the monetary policy stance adjusted for risk premia – also offer a fairly good description of exchange rate dynamics and perform well overall in forecasting real and, to a lesser extent, nominal exchange rates. The explanation for this is that, like simpler approaches, such models imply a gradual return of the real exchange rate toward its equilibrium PPP value, but they tend to underestimate the empirical regularity of a strong co-movement between real and nominal exchange rates.
+
+The key question addressed in this article is whether concepts of equilibrium exchange rates other than PPP might strengthen the predictability of exchange rates. To the extent that long-term drivers of exchange rates can be understood, and hence the equilibrium exchange rate can be estimated more precisely, it should in theory be possible to better forecast the future trajectory of the real and nominal exchange rate. For that purpose, this article evaluates the predictive power of three popular equilibrium exchange rate models. Besides the PPP model, we also investigate simplified versions of the behavioural equilibrium exchange rate (BEER) and the macroeconomic balance (MB) approaches along the lines of Ca’ Zorzi et al. (2022).[
+13
+]
+
+2 Three methods for assessing equilibrium exchange rates
+Equilibrium exchange rate models are employed to decompose the real exchange rate ( 
+) into its equilibrium ( 
+) and misalignment ( 
+) components:
+
+
+The split between the two components depends in part on the time horizon that is used. As discussed by Driver and Westaway (2005), exchange rate movements are driven by long, medium and short-term economic fundamentals and by an unexplained component.[
+14
+] The approach taken in this article is to distinguish between movements of the equilibrium exchange rates, and movements of the exchange rate around the equilibrium. The former are driven by long and medium-term economic fundamentals, while the latter are driven by short-term fundamentals and an unexplained component. This is consistent with theoretical general equilibrium models,[
+15
+] in which over the business cycle fluctuations in exchange rates around their equilibria are partly driven by central banks’ relative monetary policy stance, adjusted for risk premia.[
+16
+] The definition of equilibrium exchange rates is hence important from a monetary policy perspective.
+
+The first equilibrium exchange rate model considered here is the PPP model, i.e. the oldest theory of real exchange rate determination, which was restored to prominence in modern times by Gustav Cassel and is still today a key benchmark for determining exchange rate parities in fixed exchange rate regimes.[
+17
+] In a nutshell, the PPP model starts from the law of one price, which states that international arbitrage helps to equalise the price of any tradable product denominated in a common currency. The concept of strong PPP emerges from applying this law to consumption baskets, i.e. the same basket of goods should cost the same across countries when denominated in a common currency. In contrast, the weak version of PPP theory states that, in equilibrium, the relative cost of the same basket of goods across countries is constant over time but might deviate from unity owing to factors such as taxes and/or transportation costs. The weak version of PPP is empirically more relevant and appealing from a practical perspective, as it implies that a long-run sample mean of the real exchange rate is a good proxy for the PPP-based equilibrium real exchange rate.
+
+The BEER model generalises PPP theory by assuming that persistent PPP deviations should not be treated as “disequilibria” if they are driven by economic fundamentals. In other words, while the PPP model suggests that the long-term equilibrium exchange rate is a constant, in the BEER model the medium-term equilibrium fluctuates over time in line with changes in a set of economic fundamentals. In practice, the level of the BEER is estimated from a regression linking the real exchange rate to a set of economic variables indicated by economic theory considerations (Fell, 1996; MacDonald, 1998; Maeso-Fernandez et al., 2001; and Lee et al., 2008).[
+18
+] The literature has discussed at length the best choice of fundamentals for the BEER and the expected sign and magnitude of the parameters (for a comprehensive literature review, see Fidora et al., 2017).[
+19
+] In this analysis the choice of economic fundamentals is limited to three key ones: relative per capita GDP, net foreign assets and the terms of trade. All three variables aim to explain medium and long-term exchange rate movements while, as discussed above, the analysis does not include real interest rate differentials, fiscal variables or other short-term factors. In most of the literature it is taken for granted that a rise in relative per capita GDP ( 
+) leads to an appreciation of the real exchange rate. The explanation is twofold. From a demand perspective, an increase in relative income should lead to stronger demand for domestic non-traded goods and hence to an increase in their price relative to traded goods, i.e. a real exchange rate appreciation. The supply perspective is based on the Balassa-Samuelson effect, which suggests that a relative increase in productivity in the production of tradable goods leads to an increase in 
+ and a real exchange rate appreciation (Lee et al., 2013; and Zhang, 2017).[
+20
+] Another frequently cited explanation for long-run trends in equilibrium real exchange rates emphasises the role of net foreign assets ( 
+). The rationale is that a rise in 
+ increases the interest income on the current account that must be counterbalanced by a trade balance deterioration, requiring in turn a real exchange rate appreciation (Lane and Milesi-Ferretti, 2002).[
+21
+] The terms of trade ( 
+) is the third most used explanatory variable in BEER regressions. A rise in 
+ should lead to an improved trade balance, and therefore a real exchange rate appreciation is needed to restore the trade balance to its initial level. For the above reasons we estimate the level of the BEER with the specification used by Faruqee (1995) and Lane and Milesi-Ferretti (2004),[
+22
+] so that the value of the BEER for country i in period t is given by:
+
+
+where all explanatory variables are expressed relative to a trade-weighted average of foreign values and the estimated signs of the regression match the theoretical predictions.
+
+The MB approach defines equilibrium exchange rates from a current account sustainability perspective. The methodology of the MB approach differs substantially from that of the PPP and BEER models. Instead of estimating an equilibrium exchange rate, the MB approach estimates or calibrates/postulates an equilibrium current account (or norm) and the current account gap, i.e. the distance of the current account from this norm.[
+23
+] It then seeks to estimate or calibrate a relationship between the current account balance and the real exchange rate in order to establish to what degree the real exchange rate needs to adjust so as to close the current account gap. For that reason, this definition is closely connected with the debate on global (current account) imbalances and the role played by the exchange rate in unwinding them. Technically, to calculate the equilibrium exchange rate with the MB framework, three issues must be addressed. The first consists of projecting the level at which the current account balance would stabilise if exchange rates remained unchanged and output gaps were closed ( 
+). The second relates to setting the current account norm ( 
+), which is typically estimated using a panel data regression with similar fundamentals to those chosen for the above-mentioned BEER regressions. The third is estimating how changes in the real exchange rate affect the current account (elasticity 
+). Addressing these issues as in Ca’ Zorzi et al. (2022),[
+24
+] the equilibrium exchange rate ( 
+) can then be simply computed as:
+
+
+Equation (2) reveals the critical role played by the current account elasticity 
+, which measures the current account adjustment in response to a 1% exchange rate appreciation. For example, doubling the value of this elasticity would halve the exchange rate adjustment required to bring back the long-run value of the current account ( 
+) to its norm ( 
+). The academic literature has shown that the value of the current account elasticity is uncertain and dependent on some critical assumptions about the extent to which exchange rate changes pass through to export and import prices.[
+25
+]
+
+In terms of country coverage, the analysis in this article includes the group of advanced economies that issue so-called G10 currencies, namely Australia (AU), Canada (CA), Switzerland (CH), the euro area (EA),the United Kingdom (UK), Japan (JP), Norway (NO), New Zealand (NZ), Sweden (SE) and the United States (US) and our quarterly dataset spans the period between the first quarter of 1975 and the fourth quarter of 2020. Such a sample is comparable to those used in studies evaluating exchange rate trading strategies for the ten globally most traded currencies (e.g. Opie and Riddiough, 2020), as well as recent studies on exchange rate forecasting (e.g. Engel and Wu, 2021).[
+26
+] There are two additional criteria for the country selection, namely the presence of flexible exchange rate regimes for most of the sample and the availability of sufficient macroeconomic data for a meaningful forecast evaluation exercise.[
+27
+] A full description of the data sources, estimated regressions and equilibrium exchange rate estimates is available in Ca’ Zorzi et al. (2022), which for the purpose of this article was updated to the fourth quarter of 2020.
+

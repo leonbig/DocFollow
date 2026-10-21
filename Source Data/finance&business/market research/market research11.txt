@@ -1,0 +1,55 @@
+Today’s customer journey represents a state of constant activity, matching the unprecedented pace and flux of marketing itself. Consumers are moving swiftly across what we call the 4S behaviors: streaming, scrolling, searching, and shopping. The linear marketing funnel — a reliable tool for decades — no longer captures its complexity.
+
+Our recent work with Boston Consulting Group reveals a new framework called “influence maps” that can help marketers think differently about how people make purchase decisions. These influence maps emphasize the degree of influence brands can have at various online and offline touchpoints, spanning the 4S behaviors.
+
+With influence maps, marketers have new dynamic, multidimensional opportunities to connect with potential customers. But how do you put them to work?
+
+Leaning into AI will be critical, helping you reduce complexity and identify the best ways to focus your marketing investments for maximum impact. Start with this six-point plan.
+ 1. Identify the top influence pathways
+The first thing to understand is how your customers are being influenced. Conduct research to identify the top influence pathways for your category.
+
+To do this, you can use customer behavior data, like on-site actions, social engagement, and industry trends, to help you create a picture of the key influence pathways.
+
+As you examine the variety of ways your customers stream, scroll, search, and shop, what patterns do you see? Look for the most influential customer journeys in your category — that is, the combinations of behaviors that most often lead to purchases, satisfaction, and future engagement.
+
+Consider all touchpoints, both online and offline, and tease out connections between them. For instance, do your most loyal customers buy in-store, then express their opinions about products online?
+
+2. Create influence maps
+Once you’ve charted those influence pathways, pull together maps that show how customers engage with your brand through particular channels.
+
+There might be a sizable customer base shopping via YouTube shoppable ads, for example, and another cohort coming in through social posts.
+
+Examine how people come to you and what they do once they arrive — focusing on their 4S behaviors. Create as many maps as you need to identify the key ways your customers interact with your offerings. By creating influence maps, you can design tailored strategies to suit various consumer journeys. These customized maps empower you to navigate and influence every path with precision, maximizing — and demonstrating — the impact of your marketing efforts.
+
+3. Redesign marketing plans
+With a clearer understanding of the different journeys your customers are taking, you can develop bespoke marketing plans. Consider all aspects — your messaging, content strategy, budgeting, partnerships, and so on — and aim to address customers’ particular needs and preferences at every phase.
+
+AI can save you time here, for instance, by adapting the creative in your YouTube ads to ensure they appeal to customers who are streaming or scrolling, regardless of which phase of their journey they’re in.
+
+4. Assess AI adoption
+Where does your organization stand on AI adoption? As usage accelerates, understanding AI’s potential for your business is increasingly essential. A BCG study of over 2,000 marketers reveals that 80% of companies are in the early stages of AI adoption, while the 20% integrating AI into their workflows report 60% higher revenue growth than their peers.
+
+By assessing your organization’s current AI capabilities against BCG’s benchmarks, you can identify areas for improvement, and where it can help your business the most.
+
+5. Identify where AI can support you
+To determine where AI can add the most value, think about where you most need to increase volume and velocity.
+
+This may involve examining areas like insights and measurement, where AI can process vast data sets to uncover trends and optimize decision-making in real time. For instance, metrics like predictive lifetime value are incredibly beneficial for planning and testing. They can help you predict repeat shoppers or those likely to refer friends, so you can focus on those customers to increase brand and sales lift.
+
+In media planning and execution, AI can get you closer to the ultimate dream — right ad, right person, right place, right time — with its real-time optimization capabilities across surfaces. Our latest Gemini models are supporting an entire ecosystem of products, platforms, and APIs, including tools like Demand Gen and Performance Max. These AI-powered campaigns enable you to optimize for business results like sales, revenue, or profitability.
+
+In the creative phase, AI can help you speed up the development and relevance of your creative, by using it to format, trim, and resize your existing assets for different channels. It can add captions, dub your videos, and even learn from your creative library to generate entirely new ads.
+
+6. Prioritize influence pathways to pilot AI
+To get results fast, decide which pathways and touchpoints could immediately benefit from AI piloting and start there. Utilize AI to direct marketing spend to the most effective touchpoints, ensuring budgets are aligned with the highest impact channels of influence.
+
+Think about how generative AI can help keep the messaging of ads consistent with their location within the influence map, customizing messages for the key pathways you’ve identified. This focus will help to allocate resources effectively, build internal confidence, and drive the biggest impact.
+
+For example, imagine you are a travel company. You’ve identified one key pathway to booking is from a travel blog to a YouTube destination video, on to your booking system. By utilizing AI here, you can analyze content from popular travel blogs and generate video ad scripts that align with the themes and destinations discussed. This pilot program helps improve click-through rates and drive more qualified traffic to your booking platform.
+
+A retailer that has identified a pathway from social media discovery to a creator’s unboxing videos, back to its product page, might take a different approach. It can use generative AI to create ad creatives, tagging the creator and the specific product customers are engaging with on social media. The AI also ensures consistent messaging from the initial social media post to the product page, highlighting the same key features and benefits. This targeted approach helps increase conversion rates by reinforcing the initial creator-driven interest.
+
+Today’s consumer journey may be an unpredictable whirlwind, but you don’t have to be caught in it. With this six-step process, you and others in your organization can better grasp how customers interact with your brand and products, identify the most promising opportunities for change in your marketing plan, and use AI to make those changes happen.
+
+The Think with Google Editorial Team
+

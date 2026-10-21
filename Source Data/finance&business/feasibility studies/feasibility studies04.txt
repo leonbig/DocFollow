@@ -1,0 +1,73 @@
+The objective of this feasibility study is to identify disaster risk finance and insurance (DRFI)
+solutions for up to 1.9 million family farmers in El Salvador, Guatemala, and Honduras. This study
+is motivated by an emerging consensus on the need to design and implement large-scale DRFI
+solutions to improve the financial resilience of family farmers (agricultores familiares) in North
+Central America (NCA) and reduce their vulnerability to extreme weather events and climate
+risks. This consensus was endorsed by participants in a September 2022 workshop convened
+by the Partnership for Central America (PCA), the UN World Food Programme (WFP), and the
+World Bank. The workshop included public sector authorities, private sector institutions, and
+international organizations. As an outcome of these discussions, the World Bank, with funding
+from the United States Agency for International Development (USAID), agreed to undertake an
+initial study to assess the policy, institutional, financial, and technical feasibility of DRFI solutions
+for family farmers in NCA. In November 2022, PCA, WFP, and World Bank launched the Disaster
+Risk Insurance and Finance in Central America Consortium (DRIFCA) to guide the study and
+subsequent phases of a potential DRFI initiative.
+1. The 1.9 million family farmers in NCA are among the subregion’s most
+vulnerable populations and are highly exposed to extreme weather events
+and climate risks.
+The estimated 1.9 million family farmers in NCA play a critical role in local food production.
+Agricultural production represents an average of 8.4% of gross domestic product (GDP) across
+NCA. The definition of “family farmer” varies across the three countries but generally refers to
+farmers who cultivate staple crops (e.g., corn, beans) on less than 2 ha of land, generate low yields
+due to use of rain-based irrigation and limited use of seed and fertilizer technology, and also
+rely on off-farm income and remittances. Among the total 2.3 million farmers in the subregion,
+approximately 1.9 million are family farmers; this is 82% of all individuals engaged in farming
+activities and 9% of the working age population. These family farmers account for approximately
+50% of total food production and 70–80% of food produced and consumed within the subregion.1
+Family farmers in NCA are among the subregion’s most vulnerable populations. Approximately
+70% of family farmers in the subregion live below the poverty line, and 30% are classified as
+extremely poor.2 Many family farmers in NCA reside in the Dry Corridor, an area spanning the
+three NCA countries that is highly exposed to extreme climate events, including long periods of
+drought. However, significant data gaps (arising from limited national survey and census data)
+impede a comprehensive and up-to-date assessment of the geographic and socioeconomic
+characteristics of family farmers in NCA.
+Family farmers in NCA are highly exposed to extreme weather events and climate risks. According
+to Global Climate Risk Index 2021, Guatemala is the 16th most exposed country globally to extreme
+weather events; El Salvador is the 28th and Honduras the 44th most exposed (Eckstein, Künzel, and Schäfer 2021). Among all hazards, hydrometeorological hazards (excessive rainfall, floods,
+droughts) have caused the most human and material losses in NCA. Family farmers residing in the
+Dry Corridor are particularly vulnerable to severe El Niño–Southern Oscillation (ENSO) drought-
+related crop production and yield losses every three to five years. The production systems of
+family farmers are further exposed to seasonal excess rains and flooding, often associated with
+tropical cyclones. Losses in the agricultural sector are driven by severe loss years. For example,
+in 2018, drought resulted in the loss of 280,000 ha of beans and maize across NCA.3 Hurricanes
+Eta and Iota in November 2020 caused severe wind- and flood-related losses to the crop and
+livestock sectors: in Guatemala more than 16 departments had high levels of damage in coffee,
+bananas, plantains, and sugar cane.4 Geophysical hazards (earthquakes, volcanic activity) have
+generated significant infrastructure and property damage but relatively fewer direct losses in
+agriculture. Due to climate change, disaster events in NCA have been increasing in frequency and
+severity over the past 20 years.
+Various strategies and programs have been put in place by authorities in NCA countries to
+support family farmers. In 2009, Guatemala adopted the National Policy on Integrated Rural
+Development,5 which was followed by the Agricultural Policy (2011–2015). El Salvador developed
+the Family Agriculture Plan (PAF) in 2010 and a five-year institutional strategic plan in 2015 to
+support smallholder farmers.6 In 2021, the Government of El Salvador enacted the Family Farming
+Law, which mandates development of the Single Registry of Family Farmers and provision of
+financial services to family farmers through the creation of a special fund. In 2014, the Government
+of Honduras established the National Committee for Family Farming (CNAF);7 it subsequently
+adopted the National Family Farming Strategy (ENAF) 2017–2030 to improve the productivity,
+competitiveness, and sustainability of the family farming sector, in part by facilitating access to
+productive goods and services.
+2. Family farmers in NCA lack access to DRFI solutions that could improve
+their financial resilience and food security.
+National authorities in NCA have adopted disaster risk finance strategies and instruments in
+recent years, but there remains a significant protection gap in the agricultural sector. Effective
+disaster risk finance involves prearranging a combination of instruments to ensure predictable
+and timely funding for response to and recovery from events of varying frequency and severity.
+El Salvador, Guatemala, and Honduras have all adopted disaster risk finance strategies in the
+past five years and have put in place a range of DRFI instruments, including products from the
+Caribbean Catastrophe Risk Insurance Facility (CCRIF) and World Bank Development Policy
+Loans with a Catastrophe Deferred Drawdown Option (CAT-DDO). However, total prearranged
+funding is less than 2% of GDP in each country, and given that most DRFI instruments in place
+are not oriented toward agricultural losses, a significant protection gap exists in the agricultural
+sector. In Guatemala, for example, 87% of total agriculture losses in 2018 were left unfunded, and
+public expenditure for drought accounted for less than 3% of total disaster expenditures.8

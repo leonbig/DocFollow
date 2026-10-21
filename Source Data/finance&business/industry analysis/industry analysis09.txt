@@ -1,0 +1,67 @@
+Over the past several decades, concerns about the sustainability of U.S. federal debt have been
+central to economic policy discussions. Federal debt as a share of GDP has grown significantly,
+reaching levels unseen since World War II, and the debt to GDP ratio is projected to continue
+rising in the absence of policy changes.
+While the implications of this rising debt are often debated in budgetary terms—focusing on the
+tax increases or spending cuts necessary to stabilize debt—the real burden of debt on future
+generations stems from its macroeconomic consequences. High government debt can reduce
+capital accumulation by crowding out investment, leading to slower long-term economic growth
+and lower future consumption. It can also increase the foreign ownership of U.S. assets, which
+also reduces future consumption.
+This paper uses a simple analytical framework to compare and link the two perspectives—
+budgetary and macroeconomic. It examines how persistent budget deficits affect the economy
+by reducing national saving and capital accumulation, thereby lowering future output and
+consumption. It also explores the fiscal consequences of debt accumulation, showing how rising
+debt levels necessitate future fiscal adjustments—whether through higher taxes, lower spending,
+or both. By linking these two approaches, the analysis provides insights into how the economic
+burden of debt compares to the direct fiscal costs of debt stabilization.
+The model highlights key parameters that affect the comparison, including the marginal product
+of capital, the government's borrowing rate, the responsiveness of consumption and saving
+behavior to fiscal policy, and the treatment of risk.
+In particular, the paper conducts the following thought experiment: What if the government
+allows debt to continue rising for some time, and then decides to take steps to stabilize the debt
+to GDP ratio. The paper compares the increase in the debt to the change in the capital stock and
+examines how the tax and spending adjustments needed to stabilize debt compare to the
+reduction in consumption required to stabilize the capital-output ratio.
+My conclusions are as follows:
+• In a world without risk—where the government’s borrowing costs are equal to the
+marginal product of capital—the reduction in the capital stock from crowding out will
+likely be smaller than the rise in debt. Similarly, the reduction in consumption needed to
+stabilize the capital stock will likely be smaller than the increase in taxes/reductions in
+government spending necessary to stabilize the debt.
+• In a world with risk, the expected decline in the capital stock from the experiment
+described above could be greater or smaller than the expected increase in debt. However,
+if the riskless return to debt is a reasonable measure of the certainty-equivalent expected
+return to capital, then the certainty-equivalent expected reduction in the capital stock
+will be smaller than the expected debt accumulation.
+• In a small open economy, the certainty-equivalent reduction in U.S. asset ownership
+resulting from an increase in debt is equal to the marginal propensity to consume (MPC)
+out of the debt-increasing policies multiplied by the debt. If the MPC is 1, then the
+increase in debt is equal to the certainty-equivalent reduction in assets.
+• If the types of policies that lead to higher debt are the same as those that are used to
+address the debt, then in a riskless open economy, stabilizing the debt will stabilize U.S.
+asset ownership. However, if the types of policies that are used to stabilize the debt lower
+private consumption by less than the types of policies that led to the debt (for example, if
+1
+the debt increases because of high MPC policies like increases in Social Security and
+Medicare spending, but the debt is then stabilized with tax increases on high-income
+taxpayers), then stabilizing the debt may not be sufficient to stabilize asset ownership.
+More broadly, the macroeconomic effects of fiscal policy depend not just on changes in
+the deficit and debt, but also on the incentive effects, distributional consequences, and
+growth implications of the policies that drive them.
+• In a closed economy, the relationship between debt and capital is slightly more
+complicated, because an increase in debt raises private income even if the MPC from the
+debt-reducing policies is 1. In a closed economy without risk (or in a certainty-equivalent
+world), the amount of crowding out will be equal to the accumulation of debt only if the
+MPC out of the debt-increasing policies is 1 and there is no increase in savings as a result
+of the higher private capital income. In other words, private consumption has to increase
+more than the primary deficit in order for the amount of crowding out to be as large as
+the debt.
+• As in the small open economy, stabilizing the debt will be sufficient to stabilize the
+capital stock if the policies that stabilize the debt have the same effect on consumption as
+those that gave rise to it.
+• The costs of debt are lower in a small open economy than in a closed economy because
+government borrowing does not raise interest rates or crowd out private investment.
+In the remainder of this piece, I walk through the logic that leads me to these conclusions.
+Where possible, I have put the detailed derivations in boxes and focused on the intuition in the
+main text.
