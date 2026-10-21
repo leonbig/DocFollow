@@ -6,10 +6,10 @@
 
 **Official code and data · EMNLP 2026**
 
-Yanji He<sup>1,*</sup> · Zhao Yang<sup>1,*</sup> · Yuxin Jiang<sup>2</sup> · Yiqian Yang<sup>1</sup> · Jiaheng Wei<sup>1,†</sup> · Wei Wang<sup>1,3,†</sup>
+Yanji He<sup>1,&#42;</sup> · Zhao Yang<sup>1,&#42;</sup> · Yuxin Jiang<sup>2</sup> · Yiqian Yang<sup>1</sup> · Jiaheng Wei<sup>1,†</sup> · Wei Wang<sup>1,3,†</sup>
 
 <sup>1</sup> HKUST (Guangzhou) &nbsp; <sup>2</sup> Huawei Technologies &nbsp; <sup>3</sup> HKUST<br>
-<sub>* Equal contribution &nbsp; † Corresponding authors</sub>
+<sub>&#42; Equal contribution &nbsp; † Corresponding authors</sub>
 
 <img src="https://img.shields.io/badge/EMNLP%202026-Accepted-3155A4?style=flat-square" alt="Accepted at EMNLP 2026">
 <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square" alt="Python 3.12">
