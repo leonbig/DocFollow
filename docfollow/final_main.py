@@ -4,24 +4,24 @@ import json
 import glob
 from pydoc import cli 
 import argparse 
-from .Text_Generator.text_imitation01 import text_imitation01
-from .Text_Generator.text_imitation02 import text_imitation02
-from .Text_Generator.text_imitation03 import text_imitation03
-from .Text_Generator.text_imitation04 import text_imitation04
+from Text_Generator.text_imitation01 import text_imitation01
+from Text_Generator.text_imitation02 import text_imitation02
+from Text_Generator.text_imitation03 import text_imitation03
+from Text_Generator.text_imitation04 import text_imitation04
 from Evaluator.length import evaluate_length
 from Evaluator.sentence_rela_eval import SentenceRelaEvaluator
 from Evaluator.theme_coherence import ThemeCoherenceEvaluator
 from Evaluator.entity_eval import EntityEvaluator
 from Evaluator.entity_relation_eval import EntityRelationEvaluator
 from openai import OpenAI
-from .Text_Generator.theme_modify import generate_target_theme
-from .TexText_Generatort_Rewriter.get_original_theme import get_text_theme
+from Text_Generator.theme_modify import generate_target_theme
+from Text_Generator.get_original_theme import get_text_theme
 from collections import defaultdict
 import time
 from functools import wraps
-from .tools.functions import retry_on_failure
-from .tools.functions import save_scores_to_file
-from .tools.functions import save_text_to_file
+from tools.functions import retry_on_failure
+from tools.functions import save_scores_to_file
+from tools.functions import save_text_to_file
 
 # PARAPHRASERS and EVALUATORS dictionaries remain the same
 PARAPHRASERS = {
